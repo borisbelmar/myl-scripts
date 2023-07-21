@@ -1,0 +1,781 @@
+{
+  "status": "OK",
+  "code": 200,
+  "races": [
+    {
+      "id": "0",
+      "slug": "noraza",
+      "name": "Sin Raza"
+    },
+    {
+      "id": "1",
+      "slug": "caballero",
+      "name": "Caballero"
+    },
+    {
+      "id": "2",
+      "slug": "bestia",
+      "name": "Bestia"
+    },
+    {
+      "id": "3",
+      "slug": "eterno",
+      "name": "Eterno"
+    },
+    {
+      "id": "4",
+      "slug": "guerrero",
+      "name": "Guerrero"
+    },
+    {
+      "id": "5",
+      "slug": "barbaro",
+      "name": "Bárbaro"
+    },
+    {
+      "id": "6",
+      "slug": "faerie",
+      "name": "Faerie"
+    },
+    {
+      "id": "7",
+      "slug": "samurai",
+      "name": "Samurái"
+    },
+    {
+      "id": "8",
+      "slug": "sombra",
+      "name": "Sombra"
+    },
+    {
+      "id": "9",
+      "slug": "ancestral",
+      "name": "Ancestral"
+    },
+    {
+      "id": "10",
+      "slug": "sacerdote",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "11",
+      "slug": "dragon",
+      "name": "Dragón"
+    },
+    {
+      "id": "12",
+      "slug": "heroe",
+      "name": "Héroe"
+    },
+    {
+      "id": "13",
+      "slug": "oni",
+      "name": "Oni"
+    },
+    {
+      "id": "14",
+      "slug": "olimpico",
+      "name": "Olímpico"
+    },
+    {
+      "id": "15",
+      "slug": "titan",
+      "name": "Titán"
+    },
+    {
+      "id": "16",
+      "slug": "faraon",
+      "name": "Faraón"
+    },
+    {
+      "id": "17",
+      "slug": "desafiante",
+      "name": "Desafiante"
+    },
+    {
+      "id": "18",
+      "slug": "defensor",
+      "name": "Defensor"
+    },
+    {
+      "id": "19",
+      "slug": "licantropo",
+      "name": "Licántropo"
+    },
+    {
+      "id": "20",
+      "slug": "vampiro",
+      "name": "Vampiro"
+    },
+    {
+      "id": "21",
+      "slug": "cazador",
+      "name": "Cazador"
+    },
+    {
+      "id": "22",
+      "slug": "chaman",
+      "name": "Chamán"
+    },
+    {
+      "id": "23",
+      "slug": "dios",
+      "name": "Dios"
+    },
+    {
+      "id": "24",
+      "slug": "abominacion",
+      "name": "Abominación"
+    },
+    {
+      "id": "25",
+      "slug": "kami",
+      "name": "Kami"
+    },
+    {
+      "id": "26",
+      "slug": "xian",
+      "name": "Xian"
+    },
+    {
+      "id": "27",
+      "slug": "criaturas",
+      "name": "Criaturas"
+    },
+    {
+      "id": "28",
+      "slug": "campeon/shaolin",
+      "name": "Campeón / Shaolín"
+    },
+    {
+      "id": "29",
+      "slug": "campeon/ninja",
+      "name": "Campeón / Ninja"
+    },
+    {
+      "id": "30",
+      "slug": "campeon/samurai",
+      "name": "Campeón / Samurái"
+    },
+    {
+      "id": "31",
+      "slug": "campeon",
+      "name": "Campeón"
+    },
+    {
+      "id": "32",
+      "slug": "heroe/sacerdote",
+      "name": "Héroe/Sacerdote"
+    },
+    {
+      "id": "33",
+      "slug": "eterno/sombra",
+      "name": "Eterno/Sombra"
+    },
+    {
+      "id": "34",
+      "slug": "caballero/guerrero",
+      "name": "Caballero/Guerrero"
+    },
+    {
+      "id": "35",
+      "slug": "bestia/guerrero",
+      "name": "Bestia/Guerrero"
+    },
+    {
+      "id": "36",
+      "slug": "caballero/heroe",
+      "name": "Caballero/Héroe"
+    },
+    {
+      "id": "37",
+      "slug": "dragon/eterno",
+      "name": "Dragón/Eterno"
+    },
+    {
+      "id": "38",
+      "slug": "eterno/faerie",
+      "name": "Eterno/Faerie"
+    },
+    {
+      "id": "39",
+      "slug": "paladin",
+      "name": "Paladín"
+    },
+    {
+      "id": "40",
+      "slug": "asesino",
+      "name": "Asesino"
+    },
+    {
+      "id": "41",
+      "slug": "tenebris",
+      "name": "Tenebris"
+    }
+  ],
+  "rarities": [
+    {
+      "id": "0",
+      "slug": "promo",
+      "name": "Promocional"
+    },
+    {
+      "id": "1",
+      "slug": "legendaria",
+      "name": "Legendaria"
+    },
+    {
+      "id": "2",
+      "slug": "ultra-real",
+      "name": "Ultra Real"
+    },
+    {
+      "id": "3",
+      "slug": "mega-real",
+      "name": "Mega Real"
+    },
+    {
+      "id": "4",
+      "slug": "real",
+      "name": "Real"
+    },
+    {
+      "id": "5",
+      "slug": "cortesano",
+      "name": "Cortesano"
+    },
+    {
+      "id": "6",
+      "slug": "vasallo",
+      "name": "Vasallo"
+    },
+    {
+      "id": "7",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "8",
+      "slug": "milenaria",
+      "name": "Milenaria"
+    },
+    {
+      "id": "9",
+      "slug": "secreta",
+      "name": "Secreta"
+    },
+    {
+      "id": "10",
+      "slug": "ficha",
+      "name": "Ficha"
+    },
+    {
+      "id": "11",
+      "slug": "set_paralelo",
+      "name": "Set Paralelo"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "slug": "aliado",
+      "name": "Aliado"
+    },
+    {
+      "id": "2",
+      "slug": "talisman",
+      "name": "Talismán"
+    },
+    {
+      "id": "3",
+      "slug": "arma",
+      "name": "Arma"
+    },
+    {
+      "id": "4",
+      "slug": "totem",
+      "name": "Tótem"
+    },
+    {
+      "id": "5",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "6",
+      "slug": "monumento",
+      "name": "Monumento"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "1",
+      "flag": "1",
+      "slug": "unica",
+      "title": "Única",
+      "alt_title": "Única.",
+      "definition": "Solo puedes tener 1 copia en tu mazo."
+    },
+    {
+      "id": "2",
+      "flag": "2",
+      "slug": "imbloqueable",
+      "title": "Imbloqueable",
+      "alt_title": "Imbloqueables",
+      "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+    },
+    {
+      "id": "3",
+      "flag": "4",
+      "slug": "indesterrable",
+      "title": "Indesterrable",
+      "alt_title": "Indesterrables",
+      "definition": "No puede ser desterrada."
+    },
+    {
+      "id": "4",
+      "flag": "8",
+      "slug": "indestructible",
+      "title": "Indestructible",
+      "alt_title": "Indestructibles",
+      "definition": "Esta carta no puede ser destruida."
+    },
+    {
+      "id": "5",
+      "flag": "16",
+      "slug": "luz",
+      "title": "Luz",
+      "alt_title": "",
+      "definition": "Carta tipo Luz"
+    },
+    {
+      "id": "6",
+      "flag": "32",
+      "slug": "oscuridad",
+      "title": "Oscuridad",
+      "alt_title": "",
+      "definition": "Carta tipo Oscuridad"
+    },
+    {
+      "id": "7",
+      "flag": "64",
+      "slug": "furia",
+      "title": "Furia",
+      "alt_title": "",
+      "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+    },
+    {
+      "id": "8",
+      "flag": "128",
+      "slug": "inmunidad",
+      "title": "Inmunidad",
+      "alt_title": "",
+      "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+    },
+    {
+      "id": "9",
+      "flag": "256",
+      "slug": "alimentar",
+      "title": "Alimentar",
+      "alt_title": "Alimento,Alimenta,Alimentado",
+      "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+    },
+    {
+      "id": "10",
+      "flag": "512",
+      "slug": "purificar",
+      "title": "Purificar",
+      "alt_title": "Purifica,Purificadas",
+      "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+    },
+    {
+      "id": "11",
+      "flag": "1024",
+      "slug": "retador",
+      "title": "Retador",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+    },
+    {
+      "id": "12",
+      "flag": "2048",
+      "slug": "ilusion",
+      "title": "Ilusión",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+    },
+    {
+      "id": "13",
+      "flag": "4096",
+      "slug": "espectral",
+      "title": "Espectral",
+      "alt_title": "",
+      "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+    },
+    {
+      "id": "14",
+      "flag": "8192",
+      "slug": "honor",
+      "title": "Honor",
+      "alt_title": "",
+      "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+    },
+    {
+      "id": "15",
+      "flag": "16384",
+      "slug": "errante",
+      "title": "Errante",
+      "alt_title": "",
+      "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+    },
+    {
+      "id": "16",
+      "flag": "32768",
+      "slug": "exhumar",
+      "title": "Exhumar",
+      "alt_title": "",
+      "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+    },
+    {
+      "id": "17",
+      "flag": "65536",
+      "slug": "mercenario",
+      "title": "Mercenario",
+      "alt_title": "",
+      "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+    },
+    {
+      "id": "18",
+      "flag": "131072",
+      "slug": "que-controles",
+      "title": "que controles",
+      "alt_title": "que controle",
+      "definition": "Cuando la carta se encuentre en tu area de juego."
+    },
+    {
+      "id": "19",
+      "flag": "262144",
+      "slug": "destruir",
+      "title": "Destruir",
+      "alt_title": "´Destruye",
+      "definition": "Enviar al Cementerio."
+    }
+  ],
+  "edition": {
+    "id": "91",
+    "order": "54",
+    "slug": "extension_valhalla",
+    "title": "Extensión Valhalla",
+    "image": null,
+    "date_release": "2023-07-31",
+    "date_empire_valid": "2024-07-31",
+    "custom_bg": "",
+    "flags": "9"
+  },
+  "cards": [
+    {
+      "id": "14429",
+      "edid": "001",
+      "slug": "odin_viajero",
+      "name": "odin viajero",
+      "rarity": "0",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Indestructible.\nEn tu Vigilia, una vez por turno, puedes mirar la mano de un oponente, Desterrar una carta de ahí que no sea Oro y buscar en tu Castillo una carta del mismo tipo. Pon esa carta en tu mano y Roba una carta.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14430",
+      "edid": "002",
+      "slug": "hiordis",
+      "name": "hiordis",
+      "rarity": "0",
+      "race": "6",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "4",
+      "ability": "Te cuesta un Oro menos por cada Aliado Faeries que controles. \nCuando entra en juego, puedes poner las primeras dos cartas de tu Castillo en tu mano o subir una carta que no sea Talismán de Cementerio a tu mano",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14431",
+      "edid": "003",
+      "slug": "volsung",
+      "name": "vlsung",
+      "rarity": "0",
+      "race": "10",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Imbloqueable.\nEn tu Vigilia, una vez por turno, puedes mirar las primeras tres cartas de tu Castillo, poner dos cartas de ahí en tu mano y Desterrar la otra.\nUna vez por turno, tu oponente bota dos cartas por cada tipo de carta en tu Destierro.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14432",
+      "edid": "004",
+      "slug": "maldicion_del_lobo",
+      "name": "maldicion del lobo",
+      "rarity": "0",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "Exhumar.\nNombra una carta que no sea Oro. Baraja todas las cartas oponentes con ese nombre. Luego, Destierra dos cartas de la parte superior del Castillo oponente por cada carta Barajada de esta forma.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14433",
+      "edid": "005",
+      "slug": "barnstokkr",
+      "name": "barnstokkr",
+      "rarity": "0",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "2",
+      "damage": "0",
+      "ability": "Cuando entra en juego, puedes poner un Oro de tu mano o de tu Cementerio en tu Oro pagado.\nUna vez por turno, puedes Barajar una carta una carta en juego que no sea Oro o Robar dos cartas.\nLas habilidades de los Tótems y Oros que controles no pueden ser canceladas.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14434",
+      "edid": "006",
+      "slug": "corona_ducal",
+      "name": "corona ducal",
+      "rarity": "0",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Cuando entra en juego, puedes buscar en tu Castillo un Aliado de coste 2 o más y ponerlo en tu mano.\nPuedes Barajarlo desde tu Reserva para Destruir dos Aliados de coste 1 o menos o para que hasta dos Aliados tengan Fuerza 0 por el turno.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14435",
+      "edid": "007",
+      "slug": "lobo_de_muerte",
+      "name": "lobo de muerte",
+      "rarity": "0",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "0",
+      "damage": "2",
+      "ability": "Furia.\nCuando haga daño, puedes Barajarlo para subir un Aliado de tu Cementerio a tu mano.\nPuedes Destruirlo para que cada jugador Bote dos cartas y que un Aliado que controles gane 2 de Fuerza por el turno.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14436",
+      "edid": "008",
+      "slug": "fafner",
+      "name": "fafner",
+      "rarity": "0",
+      "race": "11",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Los Oros y los Aliados de coste 2 o menos, que controle tu oponente, no disparan sus habilidades al entrar en juego.\nEn tu Vigilia, una vez por turno, puedes moverlo a tu Línea de Ataque para generar un Oro para jugar Aliados Dragón.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14437",
+      "edid": "009",
+      "slug": "siggeir",
+      "name": "siggeir",
+      "rarity": "0",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Exhumar.\nCuando entra juego, busca un Aliado de coste 1 o más en tu Castillo y ponlo en tu mano.\nCuando sea Destruido, Destierra las primeras dos cartas del Castillo oponente.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14438",
+      "edid": "010",
+      "slug": "dinastia_ring",
+      "name": "dinastia ring",
+      "rarity": "0",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "3",
+      "damage": "0",
+      "ability": "Reduce su coste en un Oro por cada Aliado de coste 1 o más que controles.\nBusca en tu Castillo una carta de cada tipo que no sea Talismán y ponlas en tu mano. Por cada carta buscada de esta manera tu oponente Destierra la primera carta de su Castillo.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14439",
+      "edid": "011",
+      "slug": "hvergelmir",
+      "name": "hvergelmir",
+      "rarity": "0",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "Cuando entra en juego, Roba una carta por cada Aliado de coste 1 o más que controles. \nEn tu Fase Final, Destierra hasta una carta del Cementerio oponente por cada Aliado que haya hecho daño de combate este turno",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14440",
+      "edid": "012",
+      "slug": "anillo_de_los_nibelungos",
+      "name": "anillo de los nibelungos",
+      "rarity": "0",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Tu oponente debe atacar cada turno si puede.\nEn Guerra de Talismanes, una vez por turno, puedes hacer que un Aliado gane tanta Fuerza como Aliados haya en tu Línea de Defensa. Si ganó 3 o más de Fuerza de esta manera, Roba una carta.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14441",
+      "edid": "013",
+      "slug": "sigmund",
+      "name": "sigmund",
+      "rarity": "0",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Cuando entra en juego, Destierra una carta oponente que no sea Oro, busca en tu Castillo dos Armas con distinto nombre y ponlas en tu mano.\nUna vez por turno, puedes Barajar un Arma de tu mano para Anular una carta de coste 1.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14442",
+      "edid": "014",
+      "slug": "signy",
+      "name": "signy",
+      "rarity": "0",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Cuando entra en juego o ataca, Baraja todos los Aliados oponentes de coste 1 o menos y juega hasta dos Aliados Héroe de coste 1 o menos de tu Cementerio sin pagar su coste.\nEsos Aliados ganan Furia.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14443",
+      "edid": "015",
+      "slug": "sigurd_ring",
+      "name": "sigurd ring",
+      "rarity": "0",
+      "race": "4",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Furia. \nCuando entra en juego, Destierra una carta que no sea Oro y Roba dos cartas.\nEn tu Vigilia, una vez por turno, tu oponente Bota tres cartas. Luego, puedes poner un Oro del Cementerio oponente en tu Oro Pagado.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14444",
+      "edid": "016",
+      "slug": "la_espada_rota",
+      "name": "la espada rota",
+      "rarity": "0",
+      "race": null,
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "El portado gana 3 de Fuerza.\nCuando entra en juego, si el portador es de coste 1 o más, puedes mirar la mano de tu oponente y jugar una carta de ahí reduciendo su coste en un Oro o Desterrarla.\nCuando salga del juego, Roba una carta.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14445",
+      "edid": "017",
+      "slug": "glasir",
+      "name": "glasir",
+      "rarity": "0",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "3",
+      "damage": "0",
+      "ability": "Cuando entre o salga del juego, puedes buscar en tu Castillo dos cartas y ponerlas en tu mano.\nUna vez por turno, puedes Barajar una carta de tu mano para Anular una carta o prevenir un efecto. Esta habilidad no puede ser cancelada.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14446",
+      "edid": "018",
+      "slug": "cabeza_de_mimir",
+      "name": "cabeza de mimir",
+      "rarity": "0",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Cuando entra en juego muestra cartas de la parte superior tu Castillo hasta mostrar un Aliado y un Oro, ponlos en tu mano y Baraja el resto.\nPuedes Desterrarlo para que hasta tres Aliados ganen 1 de Fuerza y sean Imbloqueables por el turno, o para subir un Talismán de tu Cementerio a tu mano.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    },
+    {
+      "id": "14447",
+      "edid": "019",
+      "slug": "gram",
+      "name": "gram",
+      "rarity": "0",
+      "race": null,
+      "type": "3",
+      "keywords": null,
+      "cost": "2",
+      "damage": "0",
+      "ability": "El portador gana 3 de Fuerza y es Indestructible.\nUna vez por turno, puedes Desterrar una carta oponente que no sea Oro o Robar dos cartas.\nPuedes pagar un Oro y Desterrarla de tu Cementerio para buscar en tu Castillo un Aliado y jugarlo reduciendo su coste en un Oro.",
+      "flavour": null,
+      "ed_edid": "91",
+      "ed_slug": "extension_valhalla"
+    }
+  ]
+}

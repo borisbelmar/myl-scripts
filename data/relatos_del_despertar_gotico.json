@@ -1,0 +1,909 @@
+{
+  "status": "OK",
+  "code": 200,
+  "races": [
+    {
+      "id": "0",
+      "slug": "noraza",
+      "name": "Sin Raza"
+    },
+    {
+      "id": "1",
+      "slug": "caballero",
+      "name": "Caballero"
+    },
+    {
+      "id": "2",
+      "slug": "bestia",
+      "name": "Bestia"
+    },
+    {
+      "id": "3",
+      "slug": "eterno",
+      "name": "Eterno"
+    },
+    {
+      "id": "4",
+      "slug": "guerrero",
+      "name": "Guerrero"
+    },
+    {
+      "id": "5",
+      "slug": "barbaro",
+      "name": "Bárbaro"
+    },
+    {
+      "id": "6",
+      "slug": "faerie",
+      "name": "Faerie"
+    },
+    {
+      "id": "7",
+      "slug": "samurai",
+      "name": "Samurái"
+    },
+    {
+      "id": "8",
+      "slug": "sombra",
+      "name": "Sombra"
+    },
+    {
+      "id": "9",
+      "slug": "ancestral",
+      "name": "Ancestral"
+    },
+    {
+      "id": "10",
+      "slug": "sacerdote",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "11",
+      "slug": "dragon",
+      "name": "Dragón"
+    },
+    {
+      "id": "12",
+      "slug": "heroe",
+      "name": "Héroe"
+    },
+    {
+      "id": "13",
+      "slug": "oni",
+      "name": "Oni"
+    },
+    {
+      "id": "14",
+      "slug": "olimpico",
+      "name": "Olímpico"
+    },
+    {
+      "id": "15",
+      "slug": "titan",
+      "name": "Titán"
+    },
+    {
+      "id": "16",
+      "slug": "faraon",
+      "name": "Faraón"
+    },
+    {
+      "id": "17",
+      "slug": "desafiante",
+      "name": "Desafiante"
+    },
+    {
+      "id": "18",
+      "slug": "defensor",
+      "name": "Defensor"
+    },
+    {
+      "id": "19",
+      "slug": "licantropo",
+      "name": "Licántropo"
+    },
+    {
+      "id": "20",
+      "slug": "vampiro",
+      "name": "Vampiro"
+    },
+    {
+      "id": "21",
+      "slug": "cazador",
+      "name": "Cazador"
+    },
+    {
+      "id": "22",
+      "slug": "chaman",
+      "name": "Chamán"
+    },
+    {
+      "id": "23",
+      "slug": "dios",
+      "name": "Dios"
+    },
+    {
+      "id": "24",
+      "slug": "abominacion",
+      "name": "Abominación"
+    },
+    {
+      "id": "25",
+      "slug": "kami",
+      "name": "Kami"
+    },
+    {
+      "id": "26",
+      "slug": "xian",
+      "name": "Xian"
+    },
+    {
+      "id": "27",
+      "slug": "criaturas",
+      "name": "Criaturas"
+    },
+    {
+      "id": "28",
+      "slug": "campeon/shaolin",
+      "name": "Campeón / Shaolín"
+    },
+    {
+      "id": "29",
+      "slug": "campeon/ninja",
+      "name": "Campeón / Ninja"
+    },
+    {
+      "id": "30",
+      "slug": "campeon/samurai",
+      "name": "Campeón / Samurái"
+    },
+    {
+      "id": "31",
+      "slug": "campeon",
+      "name": "Campeón"
+    },
+    {
+      "id": "32",
+      "slug": "heroe/sacerdote",
+      "name": "Héroe/Sacerdote"
+    },
+    {
+      "id": "33",
+      "slug": "eterno/sombra",
+      "name": "Eterno/Sombra"
+    },
+    {
+      "id": "34",
+      "slug": "caballero/guerrero",
+      "name": "Caballero/Guerrero"
+    },
+    {
+      "id": "35",
+      "slug": "bestia/guerrero",
+      "name": "Bestia/Guerrero"
+    },
+    {
+      "id": "36",
+      "slug": "caballero/heroe",
+      "name": "Caballero/Héroe"
+    },
+    {
+      "id": "37",
+      "slug": "dragon/eterno",
+      "name": "Dragón/Eterno"
+    },
+    {
+      "id": "38",
+      "slug": "eterno/faerie",
+      "name": "Eterno/Faerie"
+    },
+    {
+      "id": "39",
+      "slug": "paladin",
+      "name": "Paladín"
+    },
+    {
+      "id": "40",
+      "slug": "asesino",
+      "name": "Asesino"
+    },
+    {
+      "id": "41",
+      "slug": "tenebris",
+      "name": "Tenebris"
+    }
+  ],
+  "rarities": [
+    {
+      "id": "0",
+      "slug": "promo",
+      "name": "Promocional"
+    },
+    {
+      "id": "1",
+      "slug": "legendaria",
+      "name": "Legendaria"
+    },
+    {
+      "id": "2",
+      "slug": "ultra-real",
+      "name": "Ultra Real"
+    },
+    {
+      "id": "3",
+      "slug": "mega-real",
+      "name": "Mega Real"
+    },
+    {
+      "id": "4",
+      "slug": "real",
+      "name": "Real"
+    },
+    {
+      "id": "5",
+      "slug": "cortesano",
+      "name": "Cortesano"
+    },
+    {
+      "id": "6",
+      "slug": "vasallo",
+      "name": "Vasallo"
+    },
+    {
+      "id": "7",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "8",
+      "slug": "milenaria",
+      "name": "Milenaria"
+    },
+    {
+      "id": "9",
+      "slug": "secreta",
+      "name": "Secreta"
+    },
+    {
+      "id": "10",
+      "slug": "ficha",
+      "name": "Ficha"
+    },
+    {
+      "id": "11",
+      "slug": "set_paralelo",
+      "name": "Set Paralelo"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "slug": "aliado",
+      "name": "Aliado"
+    },
+    {
+      "id": "2",
+      "slug": "talisman",
+      "name": "Talismán"
+    },
+    {
+      "id": "3",
+      "slug": "arma",
+      "name": "Arma"
+    },
+    {
+      "id": "4",
+      "slug": "totem",
+      "name": "Tótem"
+    },
+    {
+      "id": "5",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "6",
+      "slug": "monumento",
+      "name": "Monumento"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "1",
+      "flag": "1",
+      "slug": "unica",
+      "title": "Única",
+      "alt_title": "Única.",
+      "definition": "Solo puedes tener 1 copia en tu mazo."
+    },
+    {
+      "id": "2",
+      "flag": "2",
+      "slug": "imbloqueable",
+      "title": "Imbloqueable",
+      "alt_title": "Imbloqueables",
+      "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+    },
+    {
+      "id": "3",
+      "flag": "4",
+      "slug": "indesterrable",
+      "title": "Indesterrable",
+      "alt_title": "Indesterrables",
+      "definition": "No puede ser desterrada."
+    },
+    {
+      "id": "4",
+      "flag": "8",
+      "slug": "indestructible",
+      "title": "Indestructible",
+      "alt_title": "Indestructibles",
+      "definition": "Esta carta no puede ser destruida."
+    },
+    {
+      "id": "5",
+      "flag": "16",
+      "slug": "luz",
+      "title": "Luz",
+      "alt_title": "",
+      "definition": "Carta tipo Luz"
+    },
+    {
+      "id": "6",
+      "flag": "32",
+      "slug": "oscuridad",
+      "title": "Oscuridad",
+      "alt_title": "",
+      "definition": "Carta tipo Oscuridad"
+    },
+    {
+      "id": "7",
+      "flag": "64",
+      "slug": "furia",
+      "title": "Furia",
+      "alt_title": "",
+      "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+    },
+    {
+      "id": "8",
+      "flag": "128",
+      "slug": "inmunidad",
+      "title": "Inmunidad",
+      "alt_title": "",
+      "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+    },
+    {
+      "id": "9",
+      "flag": "256",
+      "slug": "alimentar",
+      "title": "Alimentar",
+      "alt_title": "Alimento,Alimenta,Alimentado",
+      "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+    },
+    {
+      "id": "10",
+      "flag": "512",
+      "slug": "purificar",
+      "title": "Purificar",
+      "alt_title": "Purifica,Purificadas",
+      "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+    },
+    {
+      "id": "11",
+      "flag": "1024",
+      "slug": "retador",
+      "title": "Retador",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+    },
+    {
+      "id": "12",
+      "flag": "2048",
+      "slug": "ilusion",
+      "title": "Ilusión",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+    },
+    {
+      "id": "13",
+      "flag": "4096",
+      "slug": "espectral",
+      "title": "Espectral",
+      "alt_title": "",
+      "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+    },
+    {
+      "id": "14",
+      "flag": "8192",
+      "slug": "honor",
+      "title": "Honor",
+      "alt_title": "",
+      "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+    },
+    {
+      "id": "15",
+      "flag": "16384",
+      "slug": "errante",
+      "title": "Errante",
+      "alt_title": "",
+      "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+    },
+    {
+      "id": "16",
+      "flag": "32768",
+      "slug": "exhumar",
+      "title": "Exhumar",
+      "alt_title": "",
+      "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+    },
+    {
+      "id": "17",
+      "flag": "65536",
+      "slug": "mercenario",
+      "title": "Mercenario",
+      "alt_title": "",
+      "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+    },
+    {
+      "id": "18",
+      "flag": "131072",
+      "slug": "que-controles",
+      "title": "que controles",
+      "alt_title": "que controle",
+      "definition": "Cuando la carta se encuentre en tu area de juego."
+    },
+    {
+      "id": "19",
+      "flag": "262144",
+      "slug": "destruir",
+      "title": "Destruir",
+      "alt_title": "´Destruye",
+      "definition": "Enviar al Cementerio."
+    }
+  ],
+  "edition": {
+    "id": "90",
+    "order": "53",
+    "slug": "relatos_del_despertar_gotico",
+    "title": "Relatos del Despertar Gótico",
+    "image": null,
+    "date_release": "2023-07-31",
+    "date_empire_valid": "2024-07-31",
+    "custom_bg": "",
+    "flags": "9"
+  },
+  "cards": [
+    {
+      "id": "14402",
+      "edid": "001",
+      "slug": "ataud_santuario",
+      "name": "ataud santuario",
+      "rarity": "0",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Cuando entra en juego, pon en juego bajo tu control un Aliado de coste 2 o menos de un Cementerio, como un Aliado sin habilidad.\nUna vez por turno, puedes pagar un Oro para que un Aliado gane 3 de Fuerza y su daño sea enviado al Destierro este turno.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14403",
+      "edid": "002",
+      "slug": "carruaje_siniestro",
+      "name": "carruaje siniestro",
+      "rarity": "0",
+      "race": null,
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Exhumar.\nCuando entra en juego, Roba dos cartas.\nEl portador gana 2 de Fuerza y sólo puede salir del juego por efectos de cartas de coste 2 o más.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14404",
+      "edid": "003",
+      "slug": "conde_dracula",
+      "name": "conde dracula",
+      "rarity": "0",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "En tu Vigilia, una vez por turno, puedes convertir un Aliado de coste 2 o menos de un Cementerio en un Aliado Sombra sin habilidad y ponerlo en tu Línea de Defensa.\nLos demás Aliados que controles ganan 1 de Fuerza y su daño es enviado al Destierro.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14405",
+      "edid": "004",
+      "slug": "forma_de_niebla",
+      "name": "forma de niebla",
+      "rarity": "0",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "0",
+      "damage": null,
+      "ability": "Cuando jueges este Talismán, Destiérralo.\nHasta dos Aliados oponentes pierden 3 de Fuerza por el turno.\nSi es tu turno, tu oponente Destierra las primeras dos cartas de su Castillo. De lo contrario, tú Robas una carta.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14406",
+      "edid": "005",
+      "slug": "gusano_blanco",
+      "name": "gusano blanco",
+      "rarity": "0",
+      "race": "11",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "5",
+      "ability": "Exhumar.\nPuedes Descartarlo y pagar un Oro para buscar en tu Castillo un Oro y ponerlo en tu Oro Pagado.\nUna vez en tu turno, genera dos Oros para jugar Aliados Dragones de coste 2 o más.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14407",
+      "edid": "006",
+      "slug": "lucy",
+      "name": "lucy",
+      "rarity": "0",
+      "race": "10",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Cuando entra en juego, Destierra todos los Aliados de coste 1 o menos.\nUna vez por turno, puedes mirar la mano de un oponente y Desterrar una carta de ahí que no sea Oro. Luego, Baraja o Destierra hasta cuatro cartas de los Cementerios.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14408",
+      "edid": "007",
+      "slug": "mina_harker",
+      "name": "mina harker",
+      "rarity": "0",
+      "race": "4",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Furia.\nCuando entra en juego, un oponente muestra su mano y Descarta todos los Talismanes y Tótems de ahí.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14409",
+      "edid": "008",
+      "slug": "novias_de_dracula",
+      "name": "novias de dracula",
+      "rarity": "0",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Exhumar.\nCuando entra en juego, busca en tu Castillo o Cementerio un Aliado Sombra y ponlo en tu mano. Si buscaste a Conde Drácula, juégalo sin pagar su coste.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14410",
+      "edid": "009",
+      "slug": "renfield",
+      "name": "renfield",
+      "rarity": "0",
+      "race": "4",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Furia.\nCuando entra en juego, mira las primeras cinco cartas de tu Castillo. Puedes jugar un Aliado Guerrero de coste 1 o menos de ahí sin pagar su coste y Barajar el resto.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14411",
+      "edid": "010",
+      "slug": "elemental",
+      "name": "elemental",
+      "rarity": "0",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "Muestra la primera carta del Castillo oponente y aplica un efecto según su coste:\n- 1 o menos: Destruye todos los Aliados de coste 1 o menos en juego.\n- 2 o más: Roba tres cartas.\n- Si es Oro: Roba una carta y agrupa un Oro.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14412",
+      "edid": "011",
+      "slug": "baobhan_sith",
+      "name": "baobhan sith",
+      "rarity": "0",
+      "race": "6",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Puedes jugarlo al comienzo de la Vigilia oponente.\nPuedes Desterrarlo para Anular un Arma o Tótem oponente. Luego, Destierra hasta dos cartas del Cementerio oponente.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14413",
+      "edid": "012",
+      "slug": "dr._ogmios",
+      "name": "dr ogmios",
+      "rarity": "0",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Cuando entra en juego, puedes Barajar una carta oponente de coste 2 o menos.\nUna vez por turno, puedes Destruir una carta que controles para mirar la mano de un oponente y Descartar una carta de ahí que no sea Oro o Robar dos cartas.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14414",
+      "edid": "013",
+      "slug": "dr._watson",
+      "name": "dr watson",
+      "rarity": "0",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Una vez por turno, puedes nombrar un tipo de carta y Desterrar la primera carta del Castillo oponente. Si era del tipo nombrado, busca en tu Castillo una carta del mismo tipo y ponla en tu mano, si no, Roba dos cartas.\nLos Aliados que controles ganan 1 de Fuerza.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14415",
+      "edid": "014",
+      "slug": "jonathan_harker",
+      "name": "jonathan harker",
+      "rarity": "0",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Imbloqueable. \nCuando entra en juego, puedes Barajar un Aliado oponente o jugar un Arma desde tu Cementerio por un Oro menos.\nLos Aliados oponentes pierden 1 de Fuerza por cada Arma controles.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14416",
+      "edid": "015",
+      "slug": "pipa_humeante",
+      "name": "pipa humeante",
+      "rarity": "0",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Una vez por turno, puedes hacer que un Aliado gane 1 de Fuerza por el turno . Elige un Aliado para que deba bloquearlo este turno si puede.\nEn tu Vigilia, una vez por turno, puedes mirar la primera carta del Castillo oponente y hasta dos cartas al azar de su mano.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14417",
+      "edid": "016",
+      "slug": "puente_de_londres",
+      "name": "puente de londres",
+      "rarity": "0",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "En tu Fase Final, un oponente Bota dos cartas por cada Tótem que controles. Luego, Destierra dos cartas de un Cementerio.\nUna vez por turno, puedes Barajar una carta de tu mano para cancelar la habilidad de un Oro, Arma o Tótem.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14418",
+      "edid": "017",
+      "slug": "sabueso",
+      "name": "sabueso",
+      "rarity": "0",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Furia. \nCuando entra en juego, puedes buscar en cada Castillo una carta y ponerla en el Cementerio de su dueño.\nCuando sea Destruido, puedes subir otro Aliado de tu Cementerio a tu mano.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14419",
+      "edid": "018",
+      "slug": "sherlock_holmes",
+      "name": "sherlock holmes",
+      "rarity": "0",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Una vez por turno, puedes nombrar un tipo de carta que no sea Oro y elegir tres cartas al azar de la mano de un oponente. Si una de ellas es del tipo nombrado, Descártala, busca en tu Castillo una carta del mismo tipo y ponla en tu mano. Si no, Roba dos cartas.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14420",
+      "edid": "019",
+      "slug": "alma_inmortal",
+      "name": "alma inmortal",
+      "rarity": "0",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Cuando entra en juego, puedes poner en juego bajo tu control un Aliado de un Cementerio, como un Aliado Eterno sin habilidad. \nUna vez por turno, puedes Destruir un Aliado Eterno que controles para Anular o Destruir una carta que no sea Oro.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14421",
+      "edid": "020",
+      "slug": "armas_campesinas",
+      "name": "armas campesinas",
+      "rarity": "0",
+      "race": null,
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "El portador gana 2 de fuerza. \nCuando entra en juego, mira la mano de un oponente y Descarta una carta de ahí que no sea Oro. Luego, puedes Desterrar una carta oponente de coste 1 o menos.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14422",
+      "edid": "021",
+      "slug": "botin_de_cementerio",
+      "name": "botin de cementerio",
+      "rarity": "0",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "En tu Vigilia, una vez por turno, puedes Barajar hasta dos cartas de tu Cementerio.\nSi hay diez o más cartas en tu Cementerio, puedes Desterrarlo para subir hasta dos cartas al azar de tu Cementerio a tu mano.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14423",
+      "edid": "022",
+      "slug": "la_criatura",
+      "name": "la criatura",
+      "rarity": "0",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "4",
+      "ability": "Furia.\nReduce su coste en un Oro por cada Aliado Bestia de coste 1 o más que controles. \nCuando ataca, un oponente Bota una carta por cada Aliado Bestia atacante.\nPuedes Desterrarlo para Anular un Talismán.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14424",
+      "edid": "023",
+      "slug": "laboratorio_siniestro",
+      "name": "laboratorio siniestro",
+      "rarity": "0",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "En tu Vigilia, una vez por turno, puedes buscar en tu Castillo un Aliado y un Oro y ponerlos en tu mano. \nEn tu VIgilia, una vez por turno, un Aliado que controles gana Furia y su daño es enviado al Destierro este turno.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14425",
+      "edid": "024",
+      "slug": "ninos_del_bosque",
+      "name": "nios del bosque",
+      "rarity": "0",
+      "race": "6",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Cuando entra en juego, puedes buscar en tu Castillo un Talismán y ponerlo en tu mano. \nUna vez por turno, puedes Desterrar una carta de tu mano para que no puedas recibir daño de combate hasta tu próximo turno.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14426",
+      "edid": "025",
+      "slug": "saqueadores",
+      "name": "saqueadores",
+      "rarity": "0",
+      "race": "4",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Furia. \nEn tu Vigilia, una vez por turno, puedes mirar las primeras cuatro cartas tu Castillo. Luego, pon hasta dos Aliados y/o Armas de ahí en tu mano y tu oponente Bota dos cartas.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14427",
+      "edid": "026",
+      "slug": "victor_frankenstein",
+      "name": "victor frankenstein",
+      "rarity": "0",
+      "race": "10",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Imbloqueable.\nUna vez por turno, Roba una carta. \nSiempre que fueras a Robar cartas, en vez de eso por cada carta que fueras a Robar mira las dos primeras cartas de tu Castillo, pon una en tu mano y Destierra la otra.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    },
+    {
+      "id": "14428",
+      "edid": "027",
+      "slug": "wurm_electrico",
+      "name": "wurm electrico",
+      "rarity": "0",
+      "race": "11",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "5",
+      "ability": "Furia.\nCuando entra en juego, Destruye todos los Aliados oponentes de coste 2 o menos. Luego, tu oponente Bota cuatro cartas. \nCuando ataca, puedes Robar una carta por cada Aliado Dragón que controles.",
+      "flavour": null,
+      "ed_edid": "90",
+      "ed_slug": "relatos_del_despertar_gotico"
+    }
+  ]
+}

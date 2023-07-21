@@ -1,0 +1,1389 @@
+{
+  "status": "OK",
+  "code": 200,
+  "races": [
+    {
+      "id": "0",
+      "slug": "noraza",
+      "name": "Sin Raza"
+    },
+    {
+      "id": "1",
+      "slug": "caballero",
+      "name": "Caballero"
+    },
+    {
+      "id": "2",
+      "slug": "bestia",
+      "name": "Bestia"
+    },
+    {
+      "id": "3",
+      "slug": "eterno",
+      "name": "Eterno"
+    },
+    {
+      "id": "4",
+      "slug": "guerrero",
+      "name": "Guerrero"
+    },
+    {
+      "id": "5",
+      "slug": "barbaro",
+      "name": "Bárbaro"
+    },
+    {
+      "id": "6",
+      "slug": "faerie",
+      "name": "Faerie"
+    },
+    {
+      "id": "7",
+      "slug": "samurai",
+      "name": "Samurái"
+    },
+    {
+      "id": "8",
+      "slug": "sombra",
+      "name": "Sombra"
+    },
+    {
+      "id": "9",
+      "slug": "ancestral",
+      "name": "Ancestral"
+    },
+    {
+      "id": "10",
+      "slug": "sacerdote",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "11",
+      "slug": "dragon",
+      "name": "Dragón"
+    },
+    {
+      "id": "12",
+      "slug": "heroe",
+      "name": "Héroe"
+    },
+    {
+      "id": "13",
+      "slug": "oni",
+      "name": "Oni"
+    },
+    {
+      "id": "14",
+      "slug": "olimpico",
+      "name": "Olímpico"
+    },
+    {
+      "id": "15",
+      "slug": "titan",
+      "name": "Titán"
+    },
+    {
+      "id": "16",
+      "slug": "faraon",
+      "name": "Faraón"
+    },
+    {
+      "id": "17",
+      "slug": "desafiante",
+      "name": "Desafiante"
+    },
+    {
+      "id": "18",
+      "slug": "defensor",
+      "name": "Defensor"
+    },
+    {
+      "id": "19",
+      "slug": "licantropo",
+      "name": "Licántropo"
+    },
+    {
+      "id": "20",
+      "slug": "vampiro",
+      "name": "Vampiro"
+    },
+    {
+      "id": "21",
+      "slug": "cazador",
+      "name": "Cazador"
+    },
+    {
+      "id": "22",
+      "slug": "chaman",
+      "name": "Chamán"
+    },
+    {
+      "id": "23",
+      "slug": "dios",
+      "name": "Dios"
+    },
+    {
+      "id": "24",
+      "slug": "abominacion",
+      "name": "Abominación"
+    },
+    {
+      "id": "25",
+      "slug": "kami",
+      "name": "Kami"
+    },
+    {
+      "id": "26",
+      "slug": "xian",
+      "name": "Xian"
+    },
+    {
+      "id": "27",
+      "slug": "criaturas",
+      "name": "Criaturas"
+    },
+    {
+      "id": "28",
+      "slug": "campeon/shaolin",
+      "name": "Campeón / Shaolín"
+    },
+    {
+      "id": "29",
+      "slug": "campeon/ninja",
+      "name": "Campeón / Ninja"
+    },
+    {
+      "id": "30",
+      "slug": "campeon/samurai",
+      "name": "Campeón / Samurái"
+    },
+    {
+      "id": "31",
+      "slug": "campeon",
+      "name": "Campeón"
+    },
+    {
+      "id": "32",
+      "slug": "heroe/sacerdote",
+      "name": "Héroe/Sacerdote"
+    },
+    {
+      "id": "33",
+      "slug": "eterno/sombra",
+      "name": "Eterno/Sombra"
+    },
+    {
+      "id": "34",
+      "slug": "caballero/guerrero",
+      "name": "Caballero/Guerrero"
+    },
+    {
+      "id": "35",
+      "slug": "bestia/guerrero",
+      "name": "Bestia/Guerrero"
+    },
+    {
+      "id": "36",
+      "slug": "caballero/heroe",
+      "name": "Caballero/Héroe"
+    },
+    {
+      "id": "37",
+      "slug": "dragon/eterno",
+      "name": "Dragón/Eterno"
+    },
+    {
+      "id": "38",
+      "slug": "eterno/faerie",
+      "name": "Eterno/Faerie"
+    },
+    {
+      "id": "39",
+      "slug": "paladin",
+      "name": "Paladín"
+    },
+    {
+      "id": "40",
+      "slug": "asesino",
+      "name": "Asesino"
+    },
+    {
+      "id": "41",
+      "slug": "tenebris",
+      "name": "Tenebris"
+    }
+  ],
+  "rarities": [
+    {
+      "id": "0",
+      "slug": "promo",
+      "name": "Promocional"
+    },
+    {
+      "id": "1",
+      "slug": "legendaria",
+      "name": "Legendaria"
+    },
+    {
+      "id": "2",
+      "slug": "ultra-real",
+      "name": "Ultra Real"
+    },
+    {
+      "id": "3",
+      "slug": "mega-real",
+      "name": "Mega Real"
+    },
+    {
+      "id": "4",
+      "slug": "real",
+      "name": "Real"
+    },
+    {
+      "id": "5",
+      "slug": "cortesano",
+      "name": "Cortesano"
+    },
+    {
+      "id": "6",
+      "slug": "vasallo",
+      "name": "Vasallo"
+    },
+    {
+      "id": "7",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "8",
+      "slug": "milenaria",
+      "name": "Milenaria"
+    },
+    {
+      "id": "9",
+      "slug": "secreta",
+      "name": "Secreta"
+    },
+    {
+      "id": "10",
+      "slug": "ficha",
+      "name": "Ficha"
+    },
+    {
+      "id": "11",
+      "slug": "set_paralelo",
+      "name": "Set Paralelo"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "slug": "aliado",
+      "name": "Aliado"
+    },
+    {
+      "id": "2",
+      "slug": "talisman",
+      "name": "Talismán"
+    },
+    {
+      "id": "3",
+      "slug": "arma",
+      "name": "Arma"
+    },
+    {
+      "id": "4",
+      "slug": "totem",
+      "name": "Tótem"
+    },
+    {
+      "id": "5",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "6",
+      "slug": "monumento",
+      "name": "Monumento"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "1",
+      "flag": "1",
+      "slug": "unica",
+      "title": "Única",
+      "alt_title": "Única.",
+      "definition": "Solo puedes tener 1 copia en tu mazo."
+    },
+    {
+      "id": "2",
+      "flag": "2",
+      "slug": "imbloqueable",
+      "title": "Imbloqueable",
+      "alt_title": "Imbloqueables",
+      "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+    },
+    {
+      "id": "3",
+      "flag": "4",
+      "slug": "indesterrable",
+      "title": "Indesterrable",
+      "alt_title": "Indesterrables",
+      "definition": "No puede ser desterrada."
+    },
+    {
+      "id": "4",
+      "flag": "8",
+      "slug": "indestructible",
+      "title": "Indestructible",
+      "alt_title": "Indestructibles",
+      "definition": "Esta carta no puede ser destruida."
+    },
+    {
+      "id": "5",
+      "flag": "16",
+      "slug": "luz",
+      "title": "Luz",
+      "alt_title": "",
+      "definition": "Carta tipo Luz"
+    },
+    {
+      "id": "6",
+      "flag": "32",
+      "slug": "oscuridad",
+      "title": "Oscuridad",
+      "alt_title": "",
+      "definition": "Carta tipo Oscuridad"
+    },
+    {
+      "id": "7",
+      "flag": "64",
+      "slug": "furia",
+      "title": "Furia",
+      "alt_title": "",
+      "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+    },
+    {
+      "id": "8",
+      "flag": "128",
+      "slug": "inmunidad",
+      "title": "Inmunidad",
+      "alt_title": "",
+      "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+    },
+    {
+      "id": "9",
+      "flag": "256",
+      "slug": "alimentar",
+      "title": "Alimentar",
+      "alt_title": "Alimento,Alimenta,Alimentado",
+      "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+    },
+    {
+      "id": "10",
+      "flag": "512",
+      "slug": "purificar",
+      "title": "Purificar",
+      "alt_title": "Purifica,Purificadas",
+      "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+    },
+    {
+      "id": "11",
+      "flag": "1024",
+      "slug": "retador",
+      "title": "Retador",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+    },
+    {
+      "id": "12",
+      "flag": "2048",
+      "slug": "ilusion",
+      "title": "Ilusión",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+    },
+    {
+      "id": "13",
+      "flag": "4096",
+      "slug": "espectral",
+      "title": "Espectral",
+      "alt_title": "",
+      "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+    },
+    {
+      "id": "14",
+      "flag": "8192",
+      "slug": "honor",
+      "title": "Honor",
+      "alt_title": "",
+      "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+    },
+    {
+      "id": "15",
+      "flag": "16384",
+      "slug": "errante",
+      "title": "Errante",
+      "alt_title": "",
+      "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+    },
+    {
+      "id": "16",
+      "flag": "32768",
+      "slug": "exhumar",
+      "title": "Exhumar",
+      "alt_title": "",
+      "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+    },
+    {
+      "id": "17",
+      "flag": "65536",
+      "slug": "mercenario",
+      "title": "Mercenario",
+      "alt_title": "",
+      "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+    },
+    {
+      "id": "18",
+      "flag": "131072",
+      "slug": "que-controles",
+      "title": "que controles",
+      "alt_title": "que controle",
+      "definition": "Cuando la carta se encuentre en tu area de juego."
+    },
+    {
+      "id": "19",
+      "flag": "262144",
+      "slug": "destruir",
+      "title": "Destruir",
+      "alt_title": "´Destruye",
+      "definition": "Enviar al Cementerio."
+    }
+  ],
+  "edition": {
+    "id": "89",
+    "order": "1",
+    "slug": "mazos_fx",
+    "title": "Mazos FX",
+    "image": null,
+    "date_release": "2022-12-24",
+    "date_empire_valid": "2022-12-24",
+    "custom_bg": "",
+    "flags": "9"
+  },
+  "cards": [
+    {
+      "id": "14030",
+      "edid": "001",
+      "slug": "wyrm_de_la_plaga",
+      "name": "wyrm de la plaga",
+      "rarity": "4",
+      "race": "11",
+      "type": "1",
+      "keywords": null,
+      "cost": "4",
+      "damage": "4",
+      "ability": "Furia (Puede atacar el turno que entra en juego).\nCuando entra en juego, tu oponente Bota dos cartas por cada Aliado Dragón que controles.",
+      "flavour": "Jueguen con sus pequeñas vidas, mis planes van mucho más allá de sus simples sueños.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14031",
+      "edid": "002",
+      "slug": "draig_goch",
+      "name": "draig goch",
+      "rarity": "4",
+      "race": "11",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "3",
+      "ability": "Furia (Puede atacar el turno que entra en juego).\nCuando haga daño, puedes buscar en tu Castillo un Aliado Dragón de coste 2 o menos y ponerlo en tu mano.",
+      "flavour": "Soy la sangre de esta tierra, la tierra de estos hombres. Soy la luz y soy el fuego que todo lo quema.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14032",
+      "edid": "003",
+      "slug": "cristalino_amarillo",
+      "name": "cristalino amarillo",
+      "rarity": "4",
+      "race": "11",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Furia (Puede atacar el turno que entra en juego).\nEn tu Vigilia, una vez por turno, puedes elegir Barajar hasta dos cartas de tu Cementerio o Robar una carta y Descartar una carta.",
+      "flavour": "Soy el primer nacido, mi reino incluye tanto minerales, como venenos que pueden sanar y matar.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14033",
+      "edid": "004",
+      "slug": "ataque_de_dragon",
+      "name": "ataque de dragon",
+      "rarity": "4",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Destruye un Aliado oponente.",
+      "flavour": "Su poder derrite escudos y doblega voluntades.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14034",
+      "edid": "005",
+      "slug": "dragon_nival",
+      "name": "dragon nival",
+      "rarity": "5",
+      "race": "11",
+      "type": "1",
+      "keywords": null,
+      "cost": "4",
+      "damage": "3",
+      "ability": "Cuando entra en juego, Destruye todos los Aliados de Fuerza 2 o menos.",
+      "flavour": "El solitario señor de las alturas, hermano de las águilas y los lobos, tan sólo tiene un objetivo... Defender su ancestral linaje, aunque para esto tenga que sacrificar su propia vida.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14035",
+      "edid": "006",
+      "slug": "aghast,_el_dragon",
+      "name": "aghast el dragon",
+      "rarity": "5",
+      "race": "11",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "1",
+      "ability": "Cuando entra en juego, busca un Arma en tu Castillo y ponla en tu mano.",
+      "flavour": "El hijo bastardo de la tierra y el infierno, despreciado por su raza, temido por sus enemigos.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14036",
+      "edid": "007",
+      "slug": "dragon_nube",
+      "name": "dragon nube",
+      "rarity": "4",
+      "race": "11",
+      "type": "1",
+      "keywords": null,
+      "cost": "4",
+      "damage": "3",
+      "ability": "Cuando entra en juego, puedes elegir Robar dos cartas o que el oponente Bote dos cartas.",
+      "flavour": "El rugido dolorido de una criatura lastimada se escuchó en los cielos, entonces todos supieron que el fin estaba cerca.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14037",
+      "edid": "008",
+      "slug": "semilla_del_fuego",
+      "name": "semilla del fuego",
+      "rarity": "6",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Destruye un Arma o Tótem.",
+      "flavour": "Pequeñas perlas de fuego cayeron sobre Essex el día de hoy, nada más crecerá ahí por al menos tres generaciones.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14038",
+      "edid": "009",
+      "slug": "cristalino_azul",
+      "name": "cristalino azul",
+      "rarity": "6",
+      "race": "11",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Furia (Puede atacar el turno que entra en juego).\nSi controlas uno o más Cristalino Amarillo gana 1 de Fuerza.",
+      "flavour": "Soy el tercero de mi casta, custodio el firmamento, el aire y las aguas.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14039",
+      "edid": "010",
+      "slug": "tugarin",
+      "name": "tugarin",
+      "rarity": "5",
+      "race": "11",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Furia (Puede atacar el turno que entra en juego).\nCuando entra en juego, puedes elegir Robar una carta o Desterrar una carta de un Cementerio.",
+      "flavour": "El menor de los Zmey trae consigo un mensaje de fuego y destrucción.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14040",
+      "edid": "011",
+      "slug": "nacimiento_del_dragon",
+      "name": "nacimiento del dragon",
+      "rarity": "6",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Sube un Aliado Dragón o un Oro de tu Cementerio a tu mano.",
+      "flavour": "Todo tiene un comienzo y su fin, esto no es ajeno ni para los dragones.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14041",
+      "edid": "012",
+      "slug": "garra_de_cristal",
+      "name": "garra de cristal",
+      "rarity": "5",
+      "race": "0",
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Sólo puede ser portada por un Aliado Dragón.\nEl portador gana 1 de Fuerza y no puede ser Destruido por Talismanes.",
+      "flavour": "Dios Dragón te he creado un regalo, un arma capaz de desgarrar la armadura más poderosa.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14042",
+      "edid": "013",
+      "slug": "collar_de_dragon",
+      "name": "collar de dragon",
+      "rarity": "5",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": null,
+      "flavour": null,
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14043",
+      "edid": "014",
+      "slug": "oro_inicial",
+      "name": "oro inicial",
+      "rarity": "5",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": null,
+      "flavour": null,
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14044",
+      "edid": "015",
+      "slug": "sir_galahad",
+      "name": "sir galahad",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "2",
+      "ability": "Furia (Puede atacar el turno que entra en juego).\nCuando haga daño, el oponente Descarta una carta al azar.",
+      "flavour": "Cuando entra en una ciudad, los justos se alegran, las mujeres muestran sus pañuelos y los tiranos... tiemblan.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14045",
+      "edid": "016",
+      "slug": "mio_cid_campeador",
+      "name": "mio cid campeador",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Imbloqueable (No puede ser bloqueado).\nEn tu Vigilia, una vez por turno, puedes Descartar una carta para buscar un Aliado Caballero de coste 1 en tu Castillo y ponerlo en tu mano.",
+      "flavour": "La trinidad Rodrigo Díaz de Vivar, Tizona y Babicca, se abre paso en la historia, llegando a la tierra donde vive el mito.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14046",
+      "edid": "017",
+      "slug": "sir_tristan",
+      "name": "sir tristan",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "1",
+      "ability": "Cuando entra en juego, Sube una carta de tu Cementerio a tu mano.",
+      "flavour": "Si se es fuerte, se debe ser justo, si se debe ser justo, se debe ser generoso. Un caballero es mucho más que un guerrero.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14047",
+      "edid": "018",
+      "slug": "excalibur_liberada",
+      "name": "excalibur liberada",
+      "rarity": "4",
+      "race": null,
+      "type": "0",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Busca un Arma en tu Castillo y ponla en tu mano.\nUn Aliado gana 1 de Fuerza y es Imbloqueable (No puede ser bloqueado) por el turno.",
+      "flavour": "Se decía que quien liberase Excalibur sería el rey de Inglaterra y el encargado de unificar todos los reinos.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14048",
+      "edid": "019",
+      "slug": "gladius",
+      "name": "gladius",
+      "rarity": "4",
+      "race": null,
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "El portador gana 2 de Fuerza.\nCuando entra en juego, puedes Subir un Arma de tu Cementerio a tu mano.",
+      "flavour": "Quien ose combatir cuerpo a cuerpo contra un legionario, caerá desplomado ante el filo de su espada.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14049",
+      "edid": "020",
+      "slug": "henry_segundo",
+      "name": "henry segundo",
+      "rarity": "5",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Furia (Puede atacar el turno que entra en juego).\nCuando entra en juego, puedes Desterrar una carta de un Cementerio.",
+      "flavour": "Un Hombre de fe limpia e inquebrantable. Las Cruzadas fue un buen entrenamiento para los dolores que le causaría el regreso a casa.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14050",
+      "edid": "021",
+      "slug": "sir_lamorak",
+      "name": "sir lamorak",
+      "rarity": "5",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Imbloqueable (No puede ser bloqueado).\nCuando entra en juego, busca un Oro sin habilidad en tu Castillo y ponlo en tu mano.",
+      "flavour": "Alzó su espada y treinta cayeron; nadie nunca lo derribó de su caballo. Pero la oscuridad nunca cesa de seguir a su presa: ¿Quién lo defenderá de su amada?",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14051",
+      "edid": "022",
+      "slug": "carlomagno",
+      "name": "carlomagno",
+      "rarity": "5",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Cuando entra en juego, Baraja un Arma o Tótem oponente.",
+      "flavour": "Rey Franco, haz de llevar la grandeza de tu pueblo, hasta las esquinas más oscura de la nebulosa Europa.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14052",
+      "edid": "023",
+      "slug": "favor_de_la_corte",
+      "name": "favor de la corte",
+      "rarity": "5",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Sube una carta oponente que no sea Oro a la mano de su dueño.",
+      "flavour": "Si obtienes la gracia de la corte, honra tu palabra, no traiciones al espíritu de la caballería y el buen nombre de tu maestro.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14053",
+      "edid": "024",
+      "slug": "caballero_templario",
+      "name": "caballero templario",
+      "rarity": "6",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Furia (Puede atacar el turno que entra en juego).\nCuando ataca junto a otro Caballero Templario, gana 1 de Fuerza por el turno.",
+      "flavour": "Incansables protectores de Tierra Santa, servirán hasta el final de sus días.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14054",
+      "edid": "025",
+      "slug": "kay",
+      "name": "kay",
+      "rarity": "6",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Cuando ataca gana 2 de Fuerza por el turno.",
+      "flavour": "Juro lealtad a mi rey y al reino.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14055",
+      "edid": "026",
+      "slug": "monje",
+      "name": "monje",
+      "rarity": "5",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Una vez por turno, puedes pagar un Oro para que sea Imbloqueable (No puede ser bloqueado) por el turno.",
+      "flavour": "Sus días pasan sin prisa en un mundo lleno de sufrimiento.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14056",
+      "edid": "027",
+      "slug": "primera_excalibur",
+      "name": "primera excalibur",
+      "rarity": "5",
+      "race": "0",
+      "type": "3",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "El portador gana 1 de Fuerza.\nCuando el portador haga daño, puedes Subir un Aliado Caballero de tu Cementerio a tu mano.",
+      "flavour": "La espada que crea fidelidad en el corazón de los hombres y los transforma en algo más: reyes.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14057",
+      "edid": "028",
+      "slug": "mesa_redonda",
+      "name": "mesa redonda",
+      "rarity": "5",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": null,
+      "flavour": null,
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14058",
+      "edid": "029",
+      "slug": "inti",
+      "name": "inti",
+      "rarity": "4",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "4",
+      "damage": "4",
+      "ability": "Cuando entra en juego, Sube una carta oponente que no sea Oro a la mano de su dueño y Roba una carta.",
+      "flavour": "Pájaro Inti, tráenos la luz del sol y su inmenso poder. Padre de lo que es y lo que será, guardia del futuro, maestro del pasado",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14059",
+      "edid": "030",
+      "slug": "el_gran_zeus",
+      "name": "el gran zeus",
+      "rarity": "4",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "5",
+      "damage": "5",
+      "ability": "Única (Sólo puedes tener una copia en tu Castillo).\nIndestructible (No puede ser Destruido).\nEn tu Vigilia, una vez por turno, puedes Robar dos cartas.",
+      "flavour": "El padre de los dioses de Olimpo, sus designios guían nuestras pequeñas vidas.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14060",
+      "edid": "031",
+      "slug": "odin",
+      "name": "odin",
+      "rarity": "4",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "4",
+      "damage": "4",
+      "ability": "Cuando entra en juego, puedes buscar un Aliado Eterno en tu Castillo y ponerlo en tu mano.",
+      "flavour": "Señor de Asgard, su eterno ojo vigila hasta el fin de los días.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14061",
+      "edid": "032",
+      "slug": "golpe_a_la_tierra",
+      "name": "golpe a la tierra",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "3",
+      "damage": null,
+      "ability": "Única (Sólo puedes tener una copia en tu Castillo).\nBaraja todos los Aliados de Coste 1.",
+      "flavour": "La tierra se abre ante la voluntad del temible Cabrakán, sembrando turbación y pánico entre aquellos pequeños seres llamados humanos.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14062",
+      "edid": "033",
+      "slug": "atlantida",
+      "name": "atlantida",
+      "rarity": "4",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "3",
+      "damage": null,
+      "ability": "Los Aliados oponentes pierden 1 de Fuerza.",
+      "flavour": "La utopía se ha hundido en un océano profundo y oscuro.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14063",
+      "edid": "034",
+      "slug": "afrodita_citerea",
+      "name": "afrodita citerea",
+      "rarity": "5",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "En tu Vigilia, una vez por turno, puedes Destruir un Aliado Eterno que controles para Destruir un Arma o Tótem.",
+      "flavour": "La belleza, el deseo y el amor son sus dominios. Fuerzas que dirigen al mundo a través de los secretos de las doncellas, los guiños, los ardides del amor, el placer y la dulzura.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14064",
+      "edid": "035",
+      "slug": "palas_atenea",
+      "name": "palas atenea",
+      "rarity": "5",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "En tu Vigilia, una vez por turno, puedes elegir Desterrar o Barajar una carta de un Cementerio.",
+      "flavour": "Dama virginal, justa, ingeniosa y protectora de la polis de Atenas. Suyo es el arte de la buena guerra, la cual triunfó, incluso sobre el mismo Ares.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14065",
+      "edid": "036",
+      "slug": "isis",
+      "name": "isis",
+      "rarity": "5",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Exhumar (Puedes jugar esta carta desde tu Cementerio pagando su coste. Si es un Talismán, Destiérralo).",
+      "flavour": "Reina de los dioses, recuperadora del cuerpo de Osiris, protectora de Horus hasta que éste pudo luchar por su patrimonio. Gran maga del firmamento.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14066",
+      "edid": "037",
+      "slug": "machu_pichu",
+      "name": "machu pichu",
+      "rarity": "6",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "3",
+      "damage": null,
+      "ability": "Cuando un Aliado Eterno sea Destruido, puedes elegir Barajar una carta de tu Cementerio o que tu oponente Bote una carta.",
+      "flavour": "Esta es la residencia de los dioses, acariciando el cielo y contemplando a los hombres.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14067",
+      "edid": "038",
+      "slug": "hadas",
+      "name": "hadas",
+      "rarity": "6",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Exhumar (Puedes jugar esta carta desde tu Cementerio pagando su coste. Si es un Talismán, Destiérralo).",
+      "flavour": "Su suave aleteo resuena al son de la naturaleza.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14068",
+      "edid": "039",
+      "slug": "viracocha",
+      "name": "viracocha",
+      "rarity": "6",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Cuando entra en juego, puedes buscar Machu Pichu en tu Castillo y ponerla en tu mano.",
+      "flavour": "Creador de todo cuanto hay, el dios nómade recorre el cosmos. Sus dedos tocan mundos y estos florecen con la vida.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14069",
+      "edid": "040",
+      "slug": "ull",
+      "name": "ull",
+      "rarity": "5",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "3",
+      "ability": "Cuando entra en juego, puedes buscar un Oro en tu Castillo y ponerlo en tu mano.",
+      "flavour": "Experto en el combate, un gran guerrero entre los dioses.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14070",
+      "edid": "041",
+      "slug": "barca_solar",
+      "name": "barca solar",
+      "rarity": "6",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Sube un Aliado Eterno o un Tótem de tu Cementerio a tu mano.",
+      "flavour": "Cuando Egipto abrió sus ojos vio una gran barca surcando el cielo, sobre ella Ra completaba los ciclos de la vida y la muerte, la noche y el día, el bien y el mal",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14071",
+      "edid": "042",
+      "slug": "esna",
+      "name": "esna",
+      "rarity": "6",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "3",
+      "damage": null,
+      "ability": "Cuando juegues un Aliado, puedes Robar una carta.",
+      "flavour": "Dedicado a los grandes dioses de Egipto, nadie negará el legado dejado por sus seguidores. Sus huellas son heridas en nuestra memoria.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14072",
+      "edid": "043",
+      "slug": "ofrend_a_los_dioses",
+      "name": "ofrend a los dioses",
+      "rarity": "5",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": null,
+      "flavour": null,
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14073",
+      "edid": "044",
+      "slug": "unicornio",
+      "name": "unicornio",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Cuando ataca, los Aliados Bestia que controles ganan 1 de Fuerza por el turno.",
+      "flavour": "Briosa bestia que cruza los reinos, existe ahí donde la realidad se hace más blanda. El día de San Juan pueden remediar la impotencia, curar envenenamientos o librar de ponzoña las aguas.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14074",
+      "edid": "045",
+      "slug": "alfa",
+      "name": "alfa",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "4",
+      "ability": "En tu Vigilia, una vez por turno, un Aliado Bestia gana 2 de Fuerza y es Imbloqueable (No puede ser bloqueado) por el turno.",
+      "flavour": "El gran pelaje plateado se levanta orgulloso. Es hijo de la luna y los bosques, guardián de la tierra y su sagrado fuego.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14075",
+      "edid": "046",
+      "slug": "hipogrifo",
+      "name": "hipogrifo",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Furia (Puede atacar el turno que entra en juego).\nGana 1 de Fuerza por cada otro Aliado Bestia que controles.",
+      "flavour": "Simboliza la imposibilidad, y el triunfo de la esperanza sobre la lógica. Es el acompañante fiel para caballeros de ideales nobles.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14076",
+      "edid": "047",
+      "slug": "escuchar_al_bosque",
+      "name": "escuchar al bosque",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Los Aliados Bestia que controles ganan 1 de Fuerza por el turno. Roba una carta.",
+      "flavour": "El bosque habla. Silencia los ruidos de tu mente, ahora sientes el pulso de la tierra.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14077",
+      "edid": "048",
+      "slug": "totem_del_bosque",
+      "name": "totem del bosque",
+      "rarity": "4",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "3",
+      "damage": null,
+      "ability": "Exhumar (Puedes jugar esta carta desde tu Cementerio pagando su coste. Si es un Talismán, Destiérralo).\nTus Aliados ganan 1 de Fuerza.",
+      "flavour": "Sagrado nexo entre el hombre y la naturaleza, danos tu fuerza incansable.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14078",
+      "edid": "049",
+      "slug": "esfinge_del_norte",
+      "name": "esfinge del norte",
+      "rarity": "5",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Cuando entra en juego, puedes buscar una Esfinge del Sur en tu Castillo y ponerla en tu mano.",
+      "flavour": "Bajo el abrasador sol del desierto, desafía con un peligroso acertijo.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14079",
+      "edid": "050",
+      "slug": "cancerbero",
+      "name": "cancerbero",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Puedes Destruirlo para que un Aliado oponente tenga Fuerza 0 por el turno.",
+      "flavour": "Bestial guardián del inframundo, ¿quién se atreverá a cruzar?.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14080",
+      "edid": "051",
+      "slug": "jaguar_de_fuego",
+      "name": "jaguar de fuego",
+      "rarity": "5",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "3",
+      "ability": "Furia (Puede atacar el turno que entra en juego).\nCuando hagas daño con dos o más Bestias, puedes Barajar un Tótem o Arma en juego.",
+      "flavour": "El ocelhuitl brilla en el firmamento, iluminando las creaciones. Su presencia dura unos microsegundos, pero es suficiente como para maravillarnos.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14081",
+      "edid": "052",
+      "slug": "forma_de_jaguar",
+      "name": "forma de jaguar",
+      "rarity": "5",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Un Aliado Bestia gana 2 de Fuerza por el turno.",
+      "flavour": "Adiós forma humana, ahora soy la encarnación del dios jaguar. Soy el guardián de los grandes secretos y las pequeñas voces.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14082",
+      "edid": "053",
+      "slug": "escarabajo_de_las_arenas",
+      "name": "escarabajo de las arenas",
+      "rarity": "6",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Cuando entra en juego, puedes buscar un Escarabajo de las Arenas en tu Castillo y jugarlo sin pagar su coste.",
+      "flavour": "Poderoso y colosal, más peligroso que cualquier tormenta de arena.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14083",
+      "edid": "054",
+      "slug": "bennu",
+      "name": "bennu",
+      "rarity": "6",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Furia (Puede atacar el turno que entra en juego).\nCuando sea Destruido, puedes Desterrar una carta de un Cementerio.",
+      "flavour": "De acuerdo a la leyenda, su canto era tan hermoso que hasta los dioses se detenían para oírlo.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14084",
+      "edid": "055",
+      "slug": "esfinge_del_sur",
+      "name": "esfinge del sur",
+      "rarity": "5",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Cuando entra en juego, puedes buscar una Esfinge del Norte en tu Castillo y ponerla en tu mano.",
+      "flavour": "Si no descubres su secreto encontrarás prematuramente tu final.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14085",
+      "edid": "056",
+      "slug": "travesura_de_coyote",
+      "name": "travesura de coyote",
+      "rarity": "5",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Sube hasta dos Aliados Bestia de coste 1 de tu Cementerio a tu mano.",
+      "flavour": "Coyote era amigo de los hombres y prometió ayudarlos, lo hizo dándoles el fuego sagrado.",
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    },
+    {
+      "id": "14086",
+      "edid": "057",
+      "slug": "quetzal",
+      "name": "quetzal",
+      "rarity": "5",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": null,
+      "flavour": null,
+      "ed_edid": "89",
+      "ed_slug": "mazos_fx"
+    }
+  ]
+}

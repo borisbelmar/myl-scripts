@@ -1,0 +1,637 @@
+{
+  "status": "OK",
+  "code": 200,
+  "races": [
+    {
+      "id": "0",
+      "slug": "noraza",
+      "name": "Sin Raza"
+    },
+    {
+      "id": "1",
+      "slug": "caballero",
+      "name": "Caballero"
+    },
+    {
+      "id": "2",
+      "slug": "bestia",
+      "name": "Bestia"
+    },
+    {
+      "id": "3",
+      "slug": "eterno",
+      "name": "Eterno"
+    },
+    {
+      "id": "4",
+      "slug": "guerrero",
+      "name": "Guerrero"
+    },
+    {
+      "id": "5",
+      "slug": "barbaro",
+      "name": "Bárbaro"
+    },
+    {
+      "id": "6",
+      "slug": "faerie",
+      "name": "Faerie"
+    },
+    {
+      "id": "7",
+      "slug": "samurai",
+      "name": "Samurái"
+    },
+    {
+      "id": "8",
+      "slug": "sombra",
+      "name": "Sombra"
+    },
+    {
+      "id": "9",
+      "slug": "ancestral",
+      "name": "Ancestral"
+    },
+    {
+      "id": "10",
+      "slug": "sacerdote",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "11",
+      "slug": "dragon",
+      "name": "Dragón"
+    },
+    {
+      "id": "12",
+      "slug": "heroe",
+      "name": "Héroe"
+    },
+    {
+      "id": "13",
+      "slug": "oni",
+      "name": "Oni"
+    },
+    {
+      "id": "14",
+      "slug": "olimpico",
+      "name": "Olímpico"
+    },
+    {
+      "id": "15",
+      "slug": "titan",
+      "name": "Titán"
+    },
+    {
+      "id": "16",
+      "slug": "faraon",
+      "name": "Faraón"
+    },
+    {
+      "id": "17",
+      "slug": "desafiante",
+      "name": "Desafiante"
+    },
+    {
+      "id": "18",
+      "slug": "defensor",
+      "name": "Defensor"
+    },
+    {
+      "id": "19",
+      "slug": "licantropo",
+      "name": "Licántropo"
+    },
+    {
+      "id": "20",
+      "slug": "vampiro",
+      "name": "Vampiro"
+    },
+    {
+      "id": "21",
+      "slug": "cazador",
+      "name": "Cazador"
+    },
+    {
+      "id": "22",
+      "slug": "chaman",
+      "name": "Chamán"
+    },
+    {
+      "id": "23",
+      "slug": "dios",
+      "name": "Dios"
+    },
+    {
+      "id": "24",
+      "slug": "abominacion",
+      "name": "Abominación"
+    },
+    {
+      "id": "25",
+      "slug": "kami",
+      "name": "Kami"
+    },
+    {
+      "id": "26",
+      "slug": "xian",
+      "name": "Xian"
+    },
+    {
+      "id": "27",
+      "slug": "criaturas",
+      "name": "Criaturas"
+    },
+    {
+      "id": "28",
+      "slug": "campeon/shaolin",
+      "name": "Campeón / Shaolín"
+    },
+    {
+      "id": "29",
+      "slug": "campeon/ninja",
+      "name": "Campeón / Ninja"
+    },
+    {
+      "id": "30",
+      "slug": "campeon/samurai",
+      "name": "Campeón / Samurái"
+    },
+    {
+      "id": "31",
+      "slug": "campeon",
+      "name": "Campeón"
+    },
+    {
+      "id": "32",
+      "slug": "heroe/sacerdote",
+      "name": "Héroe/Sacerdote"
+    },
+    {
+      "id": "33",
+      "slug": "eterno/sombra",
+      "name": "Eterno/Sombra"
+    },
+    {
+      "id": "34",
+      "slug": "caballero/guerrero",
+      "name": "Caballero/Guerrero"
+    },
+    {
+      "id": "35",
+      "slug": "bestia/guerrero",
+      "name": "Bestia/Guerrero"
+    },
+    {
+      "id": "36",
+      "slug": "caballero/heroe",
+      "name": "Caballero/Héroe"
+    },
+    {
+      "id": "37",
+      "slug": "dragon/eterno",
+      "name": "Dragón/Eterno"
+    },
+    {
+      "id": "38",
+      "slug": "eterno/faerie",
+      "name": "Eterno/Faerie"
+    },
+    {
+      "id": "39",
+      "slug": "paladin",
+      "name": "Paladín"
+    },
+    {
+      "id": "40",
+      "slug": "asesino",
+      "name": "Asesino"
+    },
+    {
+      "id": "41",
+      "slug": "tenebris",
+      "name": "Tenebris"
+    }
+  ],
+  "rarities": [
+    {
+      "id": "0",
+      "slug": "promo",
+      "name": "Promocional"
+    },
+    {
+      "id": "1",
+      "slug": "legendaria",
+      "name": "Legendaria"
+    },
+    {
+      "id": "2",
+      "slug": "ultra-real",
+      "name": "Ultra Real"
+    },
+    {
+      "id": "3",
+      "slug": "mega-real",
+      "name": "Mega Real"
+    },
+    {
+      "id": "4",
+      "slug": "real",
+      "name": "Real"
+    },
+    {
+      "id": "5",
+      "slug": "cortesano",
+      "name": "Cortesano"
+    },
+    {
+      "id": "6",
+      "slug": "vasallo",
+      "name": "Vasallo"
+    },
+    {
+      "id": "7",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "8",
+      "slug": "milenaria",
+      "name": "Milenaria"
+    },
+    {
+      "id": "9",
+      "slug": "secreta",
+      "name": "Secreta"
+    },
+    {
+      "id": "10",
+      "slug": "ficha",
+      "name": "Ficha"
+    },
+    {
+      "id": "11",
+      "slug": "set_paralelo",
+      "name": "Set Paralelo"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "slug": "aliado",
+      "name": "Aliado"
+    },
+    {
+      "id": "2",
+      "slug": "talisman",
+      "name": "Talismán"
+    },
+    {
+      "id": "3",
+      "slug": "arma",
+      "name": "Arma"
+    },
+    {
+      "id": "4",
+      "slug": "totem",
+      "name": "Tótem"
+    },
+    {
+      "id": "5",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "6",
+      "slug": "monumento",
+      "name": "Monumento"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "1",
+      "flag": "1",
+      "slug": "unica",
+      "title": "Única",
+      "alt_title": "Única.",
+      "definition": "Solo puedes tener 1 copia en tu mazo."
+    },
+    {
+      "id": "2",
+      "flag": "2",
+      "slug": "imbloqueable",
+      "title": "Imbloqueable",
+      "alt_title": "Imbloqueables",
+      "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+    },
+    {
+      "id": "3",
+      "flag": "4",
+      "slug": "indesterrable",
+      "title": "Indesterrable",
+      "alt_title": "Indesterrables",
+      "definition": "No puede ser desterrada."
+    },
+    {
+      "id": "4",
+      "flag": "8",
+      "slug": "indestructible",
+      "title": "Indestructible",
+      "alt_title": "Indestructibles",
+      "definition": "Esta carta no puede ser destruida."
+    },
+    {
+      "id": "5",
+      "flag": "16",
+      "slug": "luz",
+      "title": "Luz",
+      "alt_title": "",
+      "definition": "Carta tipo Luz"
+    },
+    {
+      "id": "6",
+      "flag": "32",
+      "slug": "oscuridad",
+      "title": "Oscuridad",
+      "alt_title": "",
+      "definition": "Carta tipo Oscuridad"
+    },
+    {
+      "id": "7",
+      "flag": "64",
+      "slug": "furia",
+      "title": "Furia",
+      "alt_title": "",
+      "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+    },
+    {
+      "id": "8",
+      "flag": "128",
+      "slug": "inmunidad",
+      "title": "Inmunidad",
+      "alt_title": "",
+      "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+    },
+    {
+      "id": "9",
+      "flag": "256",
+      "slug": "alimentar",
+      "title": "Alimentar",
+      "alt_title": "Alimento,Alimenta,Alimentado",
+      "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+    },
+    {
+      "id": "10",
+      "flag": "512",
+      "slug": "purificar",
+      "title": "Purificar",
+      "alt_title": "Purifica,Purificadas",
+      "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+    },
+    {
+      "id": "11",
+      "flag": "1024",
+      "slug": "retador",
+      "title": "Retador",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+    },
+    {
+      "id": "12",
+      "flag": "2048",
+      "slug": "ilusion",
+      "title": "Ilusión",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+    },
+    {
+      "id": "13",
+      "flag": "4096",
+      "slug": "espectral",
+      "title": "Espectral",
+      "alt_title": "",
+      "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+    },
+    {
+      "id": "14",
+      "flag": "8192",
+      "slug": "honor",
+      "title": "Honor",
+      "alt_title": "",
+      "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+    },
+    {
+      "id": "15",
+      "flag": "16384",
+      "slug": "errante",
+      "title": "Errante",
+      "alt_title": "",
+      "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+    },
+    {
+      "id": "16",
+      "flag": "32768",
+      "slug": "exhumar",
+      "title": "Exhumar",
+      "alt_title": "",
+      "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+    },
+    {
+      "id": "17",
+      "flag": "65536",
+      "slug": "mercenario",
+      "title": "Mercenario",
+      "alt_title": "",
+      "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+    },
+    {
+      "id": "18",
+      "flag": "131072",
+      "slug": "que-controles",
+      "title": "que controles",
+      "alt_title": "que controle",
+      "definition": "Cuando la carta se encuentre en tu area de juego."
+    },
+    {
+      "id": "19",
+      "flag": "262144",
+      "slug": "destruir",
+      "title": "Destruir",
+      "alt_title": "´Destruye",
+      "definition": "Enviar al Cementerio."
+    }
+  ],
+  "edition": {
+    "id": "67",
+    "order": "45",
+    "slug": "master_toolkit_2022",
+    "title": "Master Toolkit 2022",
+    "image": "https://api.myl.cl/static/master_toolkit_2022.png",
+    "date_release": "2022-04-30",
+    "date_empire_valid": "2023-11-30",
+    "custom_bg": "https://tor.myl.cl/static/torbg6.jpg",
+    "flags": "9"
+  },
+  "cards": [
+    {
+      "id": "11663",
+      "edid": "001",
+      "slug": "expulsion",
+      "name": "expulsion",
+      "rarity": "2",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Puedes jugar este Talismán en respuesta a que tu oponente juegue una carta.Esa carta entra en juego sin habilidad por el turno. Si es un Talismán, esa carta se resuelve sin efecto.\nPuedes Desterrarla de tu Cementerio para que una carta pierda su habilidad por el turno.",
+      "flavour": null,
+      "ed_edid": "67",
+      "ed_slug": "master_toolkit_2022"
+    },
+    {
+      "id": "11664",
+      "edid": "002",
+      "slug": "la_caida",
+      "name": "la caida",
+      "rarity": "2",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Cuando juegues este Talismán, Destiérralo. Elige hasta dos:\n- Busca en un Castillo dos cartas de distinto nombre y Destiérralas.\n- Destierra una carta que no sea Oro.\n- Mira la mano de tu oponente y Destierra una carta de ahí que no sea Oro.",
+      "flavour": null,
+      "ed_edid": "67",
+      "ed_slug": "master_toolkit_2022"
+    },
+    {
+      "id": "11665",
+      "edid": "003",
+      "slug": "forma_de_serpiente",
+      "name": "forma de serpiente",
+      "rarity": "2",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Cuando resuelvas este Talismán, Barájalo en tu Castillo.\nPurifica hasta cuatro cartas de los Cementerios. Luego, mira las primeras tres cartas de tu Castillo, pon una de ellas en tu mano y Baraja el resto.\nSi Botas esta carta desde tu Castillo por daño, dejas de Botar cartas y Destierras este Talismán.",
+      "flavour": null,
+      "ed_edid": "67",
+      "ed_slug": "master_toolkit_2022"
+    },
+    {
+      "id": "11666",
+      "edid": "004",
+      "slug": "angeles_de_guerra",
+      "name": "ngeles de guerra",
+      "rarity": "2",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Única. \nCuando juegues este Talismán, Destiérralo.\nPuedes jugar este Talismán en respuesta a que un Aliado que controles fuera a ser afectado por un efecto oponente. Prevén ese efecto.\nSi jugaste esta carta en el turno oponente, no puede jugar más cartas hasta la Fase Final.",
+      "flavour": null,
+      "ed_edid": "67",
+      "ed_slug": "master_toolkit_2022"
+    },
+    {
+      "id": "11667",
+      "edid": "005",
+      "slug": "guerra_de_pillanes",
+      "name": "guerra de pillanes",
+      "rarity": "2",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "0",
+      "damage": null,
+      "ability": "Cuando juegues este Talismán, Destiérralo.\nElige uno:\n- Paga un Oro para Anular una carta de coste 2 o menos.\n- Anula un Aliado de coste 0 o jugado sin pagar su coste. Luego, puedes buscar cualquier cantidad de copias de ese Aliado en el Castillo oponente y Desterrarlas.",
+      "flavour": null,
+      "ed_edid": "67",
+      "ed_slug": "master_toolkit_2022"
+    },
+    {
+      "id": "11668",
+      "edid": "006",
+      "slug": "cuervos_de_guerra",
+      "name": "cuervos de guerra",
+      "rarity": "2",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Cuando juegues este Talismán, Destiérralo.\nElige hasta dos:\n- Roba una carta.\n- Anula un Talismán.\n- Destruye la carta objetivo de coste 2 o menos.",
+      "flavour": null,
+      "ed_edid": "67",
+      "ed_slug": "master_toolkit_2022"
+    },
+    {
+      "id": "11669",
+      "edid": "007",
+      "slug": "apertura",
+      "name": "apertura",
+      "rarity": "2",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Elige uno, si es tu primer turno y no has jugado otra carta, en vez de eso haz las dos:\n- Busca un Oro en tu Castillo y ponlo en tu Oro Pagado.\n- Mira las primeras cuatro cartas de tu Castillo. Luego, elige dos cartas de ahí y ponlas en tu mano.",
+      "flavour": null,
+      "ed_edid": "67",
+      "ed_slug": "master_toolkit_2022"
+    },
+    {
+      "id": "11670",
+      "edid": "008",
+      "slug": "tizona",
+      "name": "tizona",
+      "rarity": "2",
+      "race": null,
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Errante.\nEl portador gana 2 Fuerza e Indestructible.\nCuando entra en juego, Roba una carta.\nPuedes Desterrarla para Anular un Talismán o cancelar una habilidad oponente.",
+      "flavour": null,
+      "ed_edid": "67",
+      "ed_slug": "master_toolkit_2022"
+    },
+    {
+      "id": "11671",
+      "edid": "009",
+      "slug": "manzanas_doradas",
+      "name": "manzanas doradas",
+      "rarity": "2",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "En tu Fase Final, si está en tu Reserva, puedes poner la primer o última carta de tu Castillo en tu mano.\nAl comienzo de tu Vigilia, si controlas menos Aliados que tu oponente, Genera un Oro para jugar un Arma o Tótem.",
+      "flavour": null,
+      "ed_edid": "67",
+      "ed_slug": "master_toolkit_2022"
+    },
+    {
+      "id": "11672",
+      "edid": "010",
+      "slug": "salmon_del_saber",
+      "name": "salmon del saber",
+      "rarity": "2",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": null,
+      "ability": "Oro Inicial.\nNo puede salir del juego por efectos de Talismanes.\nAl comienzo del juego, si tienes menos de ocho cartas en tu mano, Roba una carta.\nAl comienzo de tu Vigilia, Roba hasta tener dos cartas en tu mano.",
+      "flavour": null,
+      "ed_edid": "67",
+      "ed_slug": "master_toolkit_2022"
+    }
+  ]
+}

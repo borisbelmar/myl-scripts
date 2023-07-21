@@ -1,0 +1,1181 @@
+{
+  "status": "OK",
+  "code": 200,
+  "races": [
+    {
+      "id": "0",
+      "slug": "noraza",
+      "name": "Sin Raza"
+    },
+    {
+      "id": "1",
+      "slug": "caballero",
+      "name": "Caballero"
+    },
+    {
+      "id": "2",
+      "slug": "bestia",
+      "name": "Bestia"
+    },
+    {
+      "id": "3",
+      "slug": "eterno",
+      "name": "Eterno"
+    },
+    {
+      "id": "4",
+      "slug": "guerrero",
+      "name": "Guerrero"
+    },
+    {
+      "id": "5",
+      "slug": "barbaro",
+      "name": "Bárbaro"
+    },
+    {
+      "id": "6",
+      "slug": "faerie",
+      "name": "Faerie"
+    },
+    {
+      "id": "7",
+      "slug": "samurai",
+      "name": "Samurái"
+    },
+    {
+      "id": "8",
+      "slug": "sombra",
+      "name": "Sombra"
+    },
+    {
+      "id": "9",
+      "slug": "ancestral",
+      "name": "Ancestral"
+    },
+    {
+      "id": "10",
+      "slug": "sacerdote",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "11",
+      "slug": "dragon",
+      "name": "Dragón"
+    },
+    {
+      "id": "12",
+      "slug": "heroe",
+      "name": "Héroe"
+    },
+    {
+      "id": "13",
+      "slug": "oni",
+      "name": "Oni"
+    },
+    {
+      "id": "14",
+      "slug": "olimpico",
+      "name": "Olímpico"
+    },
+    {
+      "id": "15",
+      "slug": "titan",
+      "name": "Titán"
+    },
+    {
+      "id": "16",
+      "slug": "faraon",
+      "name": "Faraón"
+    },
+    {
+      "id": "17",
+      "slug": "desafiante",
+      "name": "Desafiante"
+    },
+    {
+      "id": "18",
+      "slug": "defensor",
+      "name": "Defensor"
+    },
+    {
+      "id": "19",
+      "slug": "licantropo",
+      "name": "Licántropo"
+    },
+    {
+      "id": "20",
+      "slug": "vampiro",
+      "name": "Vampiro"
+    },
+    {
+      "id": "21",
+      "slug": "cazador",
+      "name": "Cazador"
+    },
+    {
+      "id": "22",
+      "slug": "chaman",
+      "name": "Chamán"
+    },
+    {
+      "id": "23",
+      "slug": "dios",
+      "name": "Dios"
+    },
+    {
+      "id": "24",
+      "slug": "abominacion",
+      "name": "Abominación"
+    },
+    {
+      "id": "25",
+      "slug": "kami",
+      "name": "Kami"
+    },
+    {
+      "id": "26",
+      "slug": "xian",
+      "name": "Xian"
+    },
+    {
+      "id": "27",
+      "slug": "criaturas",
+      "name": "Criaturas"
+    },
+    {
+      "id": "28",
+      "slug": "campeon/shaolin",
+      "name": "Campeón / Shaolín"
+    },
+    {
+      "id": "29",
+      "slug": "campeon/ninja",
+      "name": "Campeón / Ninja"
+    },
+    {
+      "id": "30",
+      "slug": "campeon/samurai",
+      "name": "Campeón / Samurái"
+    },
+    {
+      "id": "31",
+      "slug": "campeon",
+      "name": "Campeón"
+    },
+    {
+      "id": "32",
+      "slug": "heroe/sacerdote",
+      "name": "Héroe/Sacerdote"
+    },
+    {
+      "id": "33",
+      "slug": "eterno/sombra",
+      "name": "Eterno/Sombra"
+    },
+    {
+      "id": "34",
+      "slug": "caballero/guerrero",
+      "name": "Caballero/Guerrero"
+    },
+    {
+      "id": "35",
+      "slug": "bestia/guerrero",
+      "name": "Bestia/Guerrero"
+    },
+    {
+      "id": "36",
+      "slug": "caballero/heroe",
+      "name": "Caballero/Héroe"
+    },
+    {
+      "id": "37",
+      "slug": "dragon/eterno",
+      "name": "Dragón/Eterno"
+    },
+    {
+      "id": "38",
+      "slug": "eterno/faerie",
+      "name": "Eterno/Faerie"
+    },
+    {
+      "id": "39",
+      "slug": "paladin",
+      "name": "Paladín"
+    },
+    {
+      "id": "40",
+      "slug": "asesino",
+      "name": "Asesino"
+    },
+    {
+      "id": "41",
+      "slug": "tenebris",
+      "name": "Tenebris"
+    }
+  ],
+  "rarities": [
+    {
+      "id": "0",
+      "slug": "promo",
+      "name": "Promocional"
+    },
+    {
+      "id": "1",
+      "slug": "legendaria",
+      "name": "Legendaria"
+    },
+    {
+      "id": "2",
+      "slug": "ultra-real",
+      "name": "Ultra Real"
+    },
+    {
+      "id": "3",
+      "slug": "mega-real",
+      "name": "Mega Real"
+    },
+    {
+      "id": "4",
+      "slug": "real",
+      "name": "Real"
+    },
+    {
+      "id": "5",
+      "slug": "cortesano",
+      "name": "Cortesano"
+    },
+    {
+      "id": "6",
+      "slug": "vasallo",
+      "name": "Vasallo"
+    },
+    {
+      "id": "7",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "8",
+      "slug": "milenaria",
+      "name": "Milenaria"
+    },
+    {
+      "id": "9",
+      "slug": "secreta",
+      "name": "Secreta"
+    },
+    {
+      "id": "10",
+      "slug": "ficha",
+      "name": "Ficha"
+    },
+    {
+      "id": "11",
+      "slug": "set_paralelo",
+      "name": "Set Paralelo"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "slug": "aliado",
+      "name": "Aliado"
+    },
+    {
+      "id": "2",
+      "slug": "talisman",
+      "name": "Talismán"
+    },
+    {
+      "id": "3",
+      "slug": "arma",
+      "name": "Arma"
+    },
+    {
+      "id": "4",
+      "slug": "totem",
+      "name": "Tótem"
+    },
+    {
+      "id": "5",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "6",
+      "slug": "monumento",
+      "name": "Monumento"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "1",
+      "flag": "1",
+      "slug": "unica",
+      "title": "Única",
+      "alt_title": "Única.",
+      "definition": "Solo puedes tener 1 copia en tu mazo."
+    },
+    {
+      "id": "2",
+      "flag": "2",
+      "slug": "imbloqueable",
+      "title": "Imbloqueable",
+      "alt_title": "Imbloqueables",
+      "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+    },
+    {
+      "id": "3",
+      "flag": "4",
+      "slug": "indesterrable",
+      "title": "Indesterrable",
+      "alt_title": "Indesterrables",
+      "definition": "No puede ser desterrada."
+    },
+    {
+      "id": "4",
+      "flag": "8",
+      "slug": "indestructible",
+      "title": "Indestructible",
+      "alt_title": "Indestructibles",
+      "definition": "Esta carta no puede ser destruida."
+    },
+    {
+      "id": "5",
+      "flag": "16",
+      "slug": "luz",
+      "title": "Luz",
+      "alt_title": "",
+      "definition": "Carta tipo Luz"
+    },
+    {
+      "id": "6",
+      "flag": "32",
+      "slug": "oscuridad",
+      "title": "Oscuridad",
+      "alt_title": "",
+      "definition": "Carta tipo Oscuridad"
+    },
+    {
+      "id": "7",
+      "flag": "64",
+      "slug": "furia",
+      "title": "Furia",
+      "alt_title": "",
+      "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+    },
+    {
+      "id": "8",
+      "flag": "128",
+      "slug": "inmunidad",
+      "title": "Inmunidad",
+      "alt_title": "",
+      "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+    },
+    {
+      "id": "9",
+      "flag": "256",
+      "slug": "alimentar",
+      "title": "Alimentar",
+      "alt_title": "Alimento,Alimenta,Alimentado",
+      "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+    },
+    {
+      "id": "10",
+      "flag": "512",
+      "slug": "purificar",
+      "title": "Purificar",
+      "alt_title": "Purifica,Purificadas",
+      "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+    },
+    {
+      "id": "11",
+      "flag": "1024",
+      "slug": "retador",
+      "title": "Retador",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+    },
+    {
+      "id": "12",
+      "flag": "2048",
+      "slug": "ilusion",
+      "title": "Ilusión",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+    },
+    {
+      "id": "13",
+      "flag": "4096",
+      "slug": "espectral",
+      "title": "Espectral",
+      "alt_title": "",
+      "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+    },
+    {
+      "id": "14",
+      "flag": "8192",
+      "slug": "honor",
+      "title": "Honor",
+      "alt_title": "",
+      "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+    },
+    {
+      "id": "15",
+      "flag": "16384",
+      "slug": "errante",
+      "title": "Errante",
+      "alt_title": "",
+      "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+    },
+    {
+      "id": "16",
+      "flag": "32768",
+      "slug": "exhumar",
+      "title": "Exhumar",
+      "alt_title": "",
+      "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+    },
+    {
+      "id": "17",
+      "flag": "65536",
+      "slug": "mercenario",
+      "title": "Mercenario",
+      "alt_title": "",
+      "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+    },
+    {
+      "id": "18",
+      "flag": "131072",
+      "slug": "que-controles",
+      "title": "que controles",
+      "alt_title": "que controle",
+      "definition": "Cuando la carta se encuentre en tu area de juego."
+    },
+    {
+      "id": "19",
+      "flag": "262144",
+      "slug": "destruir",
+      "title": "Destruir",
+      "alt_title": "´Destruye",
+      "definition": "Enviar al Cementerio."
+    }
+  ],
+  "edition": {
+    "id": "39",
+    "order": "30",
+    "slug": "cuentos-de-ultratumba",
+    "title": "Cuentos de Ultratumba",
+    "image": "https://api.myl.cl/static/cuentos-de-ultratumba.png",
+    "date_release": "2020-11-08",
+    "date_empire_valid": "2022-03-08",
+    "custom_bg": "https://tor.myl.cl/static/torbg6.jpg",
+    "flags": "9"
+  },
+  "cards": [
+    {
+      "id": "7829",
+      "edid": "001",
+      "slug": "licantropo",
+      "name": "licantropo",
+      "rarity": "2",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Oscuridad. Furia. \n Cuando entra en juego, busca en tu Castillo un Aliado Oscuridad o Bestia, que no sea Licántropo, de coste 2 o menos y juégalo sin pagar su coste.\n Cuando un Aliado Oscuridad haga daño de combate, puedes buscar una carta en un Castillo y Desterrarla.",
+      "flavour": "Se levanta la luna llena, con ella el rostro del lobo. Listo para enfrentar a los hombres y su Dios. Tiembla la noche, pues un cazador recorre el campo en busca de sangre, vidas y almas.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7830",
+      "edid": "002",
+      "slug": "gente_sombra",
+      "name": "gente sombra",
+      "rarity": "2",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "4",
+      "ability": "Oscuridad. Inmunidad - Aliados Oponentes.\nEn tu Vigilia, el oponente Destierra las primeras cinco cartas de su Castillo.\nAl comienzo de tu Fase Final, si sólo controlas Aliados Oscuridad y/o Sombra, puedes Destruir una carta que no sea Oscuridad ni Oro y Robar dos cartas.",
+      "flavour": "Uno de nosotros en la luz, otro en la oscuridad. Uno de nosotros con vida, el otro en el descanso final.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7831",
+      "edid": "003",
+      "slug": "lilit",
+      "name": "lilit",
+      "rarity": "2",
+      "race": "9",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "3",
+      "ability": "Oscuridad.\n Cuando entre o salga del juego, si sólo controlas Aliados de coste 3, Oscuridad y/o Ancestrales, gana el control de hasta una carta objetivo de cada tipo.\n Puedes Destruir otro Aliado que controles para cancelar la habilidad objetivo.",
+      "flavour": "La mujer que abandonó a Adán, se enfrentó a Dios, domó a los demonios y aún encarna el misterio y la lujuria.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7832",
+      "edid": "004",
+      "slug": "gargantua",
+      "name": "gargantua",
+      "rarity": "2",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "5",
+      "ability": "Errante. Oscuridad.\nCuando entra en juego, busca en tu Castillo un Aliado Oscuridad y juégalo sin pagar su coste.\nSi sólo controlas Aliados Oscuridad, puedes elegir Destruir un Aliado objetivo, buscar dos cartas en un Castillo y Desterrarlas o Robar dos cartas.",
+      "flavour": "Un ser grotesco, que rompe toda forma y convención. Un glotón, descarado; cualquiera diría que es capaz de comerse al mismo sol, si este fuese sabroso.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7833",
+      "edid": "005",
+      "slug": "tres_brujas",
+      "name": "tres brujas",
+      "rarity": "2",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Oscuridad. Exhumar.\nCuando entra en juego, Sube hasta dos cartas Oscuridad objetivo de tu Cementerio a tu mano.\nPuedes Descartar una carta Oscuridad para buscar en un Castillo, tres cartas con distinto nombre y Desterrarlas.",
+      "flavour": "Oscura es la noche, melindrosa la luna. Es tiempo de conjuros, de hechizos y de la sangre. Escóndete, es la hora de las brujas.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7834",
+      "edid": "006",
+      "slug": "gran_aquelarre",
+      "name": "gran aquelarre",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "0",
+      "damage": null,
+      "ability": "Única.\nCuando juegues este Talismán, Destiérralo.\nSólo puedes jugar este Talismán desde tu mano y en tu Fase de Vigilia.\nJuega una carta del Destierro oponente, de coste 2 o menos, sin pagar su coste. No puedes jugar más cartas por el resto del turno.",
+      "flavour": "A la noche saltan las brujas, listas para convocar espíritus, genios y diablillos. Mil juramentos escuchará la noche, mil conjuros ejecutará la mañana.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7835",
+      "edid": "007",
+      "slug": "bajo_la_cama",
+      "name": "bajo la cama",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "No puede ser Anulado.\nCuando juegues este Talismán, Destiérralo.\nDestierra la carta objetivo en juego que no sea Oro sin habilidad. Luego, si todos los Aliados que controlas son de la misma Raza, Roba dos cartas.",
+      "flavour": "Todos los niños lo sabemos: algo se esconde bajo la cama. Un ser funesto, pérfido y listo para cogernos los pies. Los adultos no saben o han olvidado sus miedos nocturnos.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7836",
+      "edid": "008",
+      "slug": "monje_loco",
+      "name": "monje loco",
+      "rarity": "4",
+      "race": "10",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Oscuridad. Imbloqueable.\nEn tu Vigilia, si sólo controlas Aliados Oscuridad y/o Sacerdotes, elige un tipo de carta al azar. Hasta tu próximo turno, no se pueden jugar cartas de ese tipo.",
+      "flavour": "Brujerías, sortilegios y voces oscuras llenan la cabeza del monje. Este les responde con obediencia y una demente risotada.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7837",
+      "edid": "009",
+      "slug": "momia_vengadora",
+      "name": "momia vengadora",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad. Furia.\nAl comienzo de tu Vigilia, si está en tu Cementerio y recibiste daño el turno anterior, puedes jugarlo sin pagar su coste.\nCuando entra en juego, si controlas otros Aliados Oscuridad y/o Sombra, Destruye o Destierra el Aliado objetivo de coste 2 o menos.",
+      "flavour": "El guardián de la reina ha despertado, todo aquel que se acerque a su majestad ha de conocer su furia eterna y el abrazo del dios Anubis.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7838",
+      "edid": "010",
+      "slug": "fantasma_de_la_opera",
+      "name": "fantasma de la pera",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad.\nSi jugaste una carta del Destierro oponente este turno, puedes jugarlo sin pagar su coste.\nCuando entra en juego, mira la mano del oponente y Destierra un Aliado de ahí o Baraja el Aliado oponente objetivo.",
+      "flavour": "Claro y oscuro: un genio musical que se enamora perdidamente de una joven y talentosa artista. Y al mismo tiempo un ser de las sombras poseído por instintos asesinos.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7839",
+      "edid": "011",
+      "slug": "lenore",
+      "name": "lenore",
+      "rarity": "4",
+      "race": "9",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Oscuridad. Indestructible.\nSi sólo controlas Aliados Oscuridad y/o Ancestrales, puedes Desterrar una carta de tu mano para buscar en tu Castillo una carta Oscuridad o un Ancestral y ponerlo en tu mano. Luego, el oponente Descarta una carta.",
+      "flavour": "La muerte de la doncella significa el fin de su belleza, de su presencia grácil y gentil. ¿Pero qué pasa si te digo que ella está aún entre nosotros?",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7840",
+      "edid": "012",
+      "slug": "zombi_del_bayou",
+      "name": "zombi del bayou",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Oscuridad. Exhumar.\nHasta dos veces por turno, cuando otro Zombi que controles sea Destruido, puedes Subir ese Aliado a tu mano.\nPuedes Desterrar dos Zombi que controles, de tu Cementerio y/o de tu mano para cancelar una habilidad o para Anular una carta.",
+      "flavour": "Algo siniestro y hambriento se mueve entre las quietas aguas del Bayou, un ser que no está ni vivo ni muerto, una ofensa a las leyes de la naturaleza.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7841",
+      "edid": "013",
+      "slug": "sava_el_vampiro",
+      "name": "sava el vampiro",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Única. Oscuridad.\nCuando entra en juego, si sólo controlas Aliados Oscuridad y/o Sombra, busca una carta en el Castillo oponente y Destiérrala. Mientras este Aliado esté en juego, puedes jugar la carta Desterrada.",
+      "flavour": "Las crónicas de la época contaron la leyenda del hombre que asesinaba y bebía la sangre de los campesinos cuando éstos acudían a su molino con sus granos.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7842",
+      "edid": "014",
+      "slug": "montesor_el_bufon",
+      "name": "montesor el bufon",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad.\nCuando entra en juego, si sólo controlas Aliados Oscuridad y/o Sombra, puedes Descartar una carta para jugar el Talismán objetivo de la Zona de Destierro oponente sin pagar su coste.",
+      "flavour": "La venganza transforma a los hombres en demonios. Los vuelve peligrosos, aunque luzcan como payasos.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7843",
+      "edid": "015",
+      "slug": "gnoph_-_keh",
+      "name": "gnoph-keh",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Oscuridad. Furia.\nCuando ataques con dos o más Aliados, si sólo controlas Aliados Oscuridad o Bestia, Destruye el Aliado oponente de coste 2 o menos.\nPuedes Desterrar este Aliado de tu Cementerio para poner un contador de Alimento en el Aliado objetivo.",
+      "flavour": "La bestia de la tierra antigua, de los hielos eternos. Un depredador presuntamente extinto, memoria de un tiempo infinito.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7844",
+      "edid": "016",
+      "slug": "belial",
+      "name": "belial",
+      "rarity": "4",
+      "race": "9",
+      "type": "1",
+      "keywords": null,
+      "cost": "4",
+      "damage": "6",
+      "ability": "Oscuridad. Indesterrable.\nDestruye dos o más Ancestrales que controlas cuyos costes sumen 4 o más para jugarlo sin pagar su coste desde tu mano o Cementerio.\nAl comienzo de tu Fase Final, puedes jugar un Ancestral de coste 3 o menos de tu Cementerio sin pagar su coste.",
+      "flavour": "Cuando de noche él me llame, atrayéndome al infierno, iré. Desciendo como un gato por los tejados.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7845",
+      "edid": "017",
+      "slug": "dis",
+      "name": "dis",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "0",
+      "ability": "Oscuridad. Exhumar.\nEn tu Vigilia, si sólo controlas Aliados Oscuridad, puedes ganar el control del Aliado objetivo. \nGana 1 de Fuerza por cada carta Oscuridad en juego.",
+      "flavour": "Dante fue el primero en atestiguar su existencia, pero no fue el único. El gigantesco tirano aplica inusuales castigos a los traidores, los asesinos y los conspiradores.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7846",
+      "edid": "018",
+      "slug": "mortaja",
+      "name": "mortaja",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Oscuridad.\nCuando entra en juego busca en tu Castillo otro Oro Oscuridad y ponlo en tu mano.\nSi solo controlas Aliados Oscuridad, puedes moverlo a tu Oro Pagado para que la carta objetivo pierda su habilidad hasta la Fase Final.",
+      "flavour": "Atroz espíritu inmortal que se agita y llora por sacudir del cuerpo la mortaja. Solo desea volver a la vida, y regalar el beso de la abuela muerte.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7847",
+      "edid": "019",
+      "slug": "barril_de_amontillado",
+      "name": "barril de amontillado",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Errante.\nPuedes mover este Oro a tu Oro Pagado y mostrar una carta Oscuridad, Sombra o Bestia de tu mano para buscar dos cartas en un Castillo y Desterrarlas.",
+      "flavour": "Venga usted caballero, tengo una barrica de un gran amontillado, ¿le gustaría probar mi exquisito elixir?",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7848",
+      "edid": "020",
+      "slug": "soma",
+      "name": "soma",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Errante. Oscuridad.\nSi está en tu Reserva y todos los Aliados que controlas son de la misma Raza, los demás Oros en juego que no sean Soma pierden su habilidad.",
+      "flavour": "Bebida que el dios lunar Chandri creó con la finalidad de abrir los ojos de la humanidad y así transformar la oscuridad en conocimiento y la noche en día.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7849",
+      "edid": "021",
+      "slug": "calabaza_vampiro",
+      "name": "calabazas vampiro",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Oscuridad.\nCuando entra en juego desde tu mano, muestra cartas de la parte superior de tu Castillo hasta que muestres una carta Oscuridad. Pon esa carta en tu mano y Baraja el resto.",
+      "flavour": "Correrías siniestras se oyen en las noches de Kosovo. Los viejos gitanos dicen que son verduras que han adquirido una extraña nueva vida.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7850",
+      "edid": "022",
+      "slug": "praxis_magia_faustiana",
+      "name": "praxis magia faustiana",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Oscuridad.\nSi está en tu Reserva, las demás cartas Oscuridad que controles no pueden perder su habilidad ni ser Desterradas.\nPuedes Destruir este Oro para cancelar una habilidad que haga objetivo a uno o más Aliados Oscuridad que controles.",
+      "flavour": "Fausto fue un erudito y un doctor en filosofía. Era un alquimista, astrólogo, mago y ocultista itinerante. Este tomo habla de la conjuración de espíritus y diablos.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7851",
+      "edid": "023",
+      "slug": "el_argo",
+      "name": "el argo",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Única.\nEn tu Vigilia, una vez por turno, puedes Descartar una carta para que el oponente Descarte una carta. Sólo puedes utilizar esta habilidad si ese jugador tiene dos o más cartas en mano.",
+      "flavour": "La nave tenía el don del habla, pues Argos la construyó con madera del oráculo de Dodona, siguiendo las instrucciones de la misma diosa Atenea.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7852",
+      "edid": "024",
+      "slug": "compendium_maleficarum",
+      "name": "compendium maleficarum",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Cuando entra en juego, nombra una carta. Tu oponente no puede jugar cartas con ese nombre durante su próximo turno.\nAl comienzo de tu Vigilia, si está en tu Cementerio, puedes Desterrar otra carta de tu Cementerio para Subirlo a tu mano.",
+      "flavour": "Aquí se detallan las viles artes y la enemistad de las brujas contra toda la raza humana.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7853",
+      "edid": "025",
+      "slug": "grimorio_arcano",
+      "name": "grimorio arcano",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Cuando un Aliado entre en juego bajo tu control desde un Cementerio, ese Aliado gana 1 de Fuerza y Furia hasta la Fase Final.",
+      "flavour": "Letras antiguas, símbolos olvidados, magias añejas, conocimientos que parecían perdidos vuelven a vivir frente a los ojos del lector iniciado.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7854",
+      "edid": "026",
+      "slug": "gato_negro",
+      "name": "gato negro",
+      "rarity": "4",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "Mira la mano del oponente objetivo. Puedes elegir Desterrar un Talismán de ahí o convertir este Talismán en un Oro sin habilidad y ponerlo en tu Zona de Oro Pagado.",
+      "flavour": "Aquel gato hizo florecer en mí los más sombríos, los más malignos de todos los pensamientos. La tristeza se acrecentó hasta hacerme aborrecer a todas las cosas y a la humanidad entera.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7855",
+      "edid": "027",
+      "slug": "abduccion",
+      "name": "abduccion",
+      "rarity": "4",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "Cuando juegues este Talismán, Destiérralo.\nPuedes jugar este Talismán en respuesta a una habilidad o Talismán oponente.\nEl Aliado objetivo pierde su habilidad. Destierra ese Aliado y ponlo en juego bajo el control de su dueño al comienzo de la próxima Fase Final.",
+      "flavour": "La luz ha venido otra vez, y aunque hay testigos oculares del evento mismo, el secuestro ha sido borrado de la mente consciente de la víctima.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7856",
+      "edid": "028",
+      "slug": "infestacion_impia",
+      "name": "infestacion impia",
+      "rarity": "4",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Por cada Aliado que controle el oponente puedes buscar en tu Castillo un Aliado Oscuridad y ponerlo en tu mano.",
+      "flavour": "Aquellas pequeñas criaturas parecían poseídas por algo que iba más allá de sus diminutas vidas, una voluntad infernal y un propósito maligno.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7857",
+      "edid": "029",
+      "slug": "baile_siniestro",
+      "name": "baile siniestro",
+      "rarity": "4",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": "0",
+      "ability": "Cuando este Talismán se resuelva, Barájalo en tu Castillo y Roba una carta.\nJuega un Aliado Oscuridad de tu Cementerio sin pagar su coste.",
+      "flavour": "¡Bailan los huesos! Por la noche se reúnen y comparten sus suertes. El destino final fue el mismo para el rico, el pobre, el débil y el poderoso.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7858",
+      "edid": "030",
+      "slug": "rhan_-_tegoth",
+      "name": "rhan-tegoth",
+      "rarity": "5",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad. Exhumar.\nPuedes Destruir otro Aliado que controles para generar un Oro.\nSi sólo controlas Aliados Oscuridad y/o Sombra, puedes pagar un Oro para buscar en un Castillo una carta y Desterrarla.",
+      "flavour": "El horror avanza casi sin hacer ruido, cobrando todas sus deudas. La creación de Tsathoggua desgarra el frágil tejido del espacio y el tiempo.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7859",
+      "edid": "031",
+      "slug": "roger_bolingbroke",
+      "name": "roger bolingbroke",
+      "rarity": "5",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Oscuridad.\nEn tu Fase de Vigilia, si hay tres o más cartas en el Destierro oponente, puedes Subir el Aliado Oscuridad o Sombra objetivo de tu Cementerio a tu mano.",
+      "flavour": "El alto mago, nigromante y astrólogo; temido por los poderosos. Tuvieron que ejecutarlo tres veces, así fue ahorcado, ahogado y finalmente decapitado.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7860",
+      "edid": "032",
+      "slug": "vampiro_gitano",
+      "name": "vampiro gitano",
+      "rarity": "5",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Oscuridad.\nCuando entra en juego, si sólo controlas Aliados Oscuridad y/o Sombra, puedes jugar un Talismán de coste 2 o menos del Destierro oponente. Pon ese Talismán en el Cementerio de su dueño.",
+      "flavour": "En los caminos caminan aquellos que vuelven de su muerte, vampiros listos para consumar las maldades que dejaron pendientes en vida.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7861",
+      "edid": "033",
+      "slug": "katthveli",
+      "name": "katthveli",
+      "rarity": "5",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad. Furia.\nCuando entra en juego, puedes jugar un Aliado Oscuridad o Bestia de tu Cementerio de coste 2 o menos, que no sea Katthveli, sin pagar su coste.",
+      "flavour": "Una de las famosas ballenas monstruosas del norte, es salvaje y capaz de atacar presas aún mayores que ella.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7862",
+      "edid": "034",
+      "slug": "wilbur_whateley",
+      "name": "wilbur whateley",
+      "rarity": "5",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Oscuridad. Furia.\nPuedes Desterrar un Aliado Oscuridad o Bestia de tu Cementerio para Robar una carta. Luego, pon un contador de Alimento en este Aliado.",
+      "flavour": "La bestia humana promulgaba el evangelio del miedo, nutriendo a un horroroso engendro al que llama su hermano.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7863",
+      "edid": "035",
+      "slug": "pentagruel",
+      "name": "pentagruel",
+      "rarity": "5",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Oscuridad. Furia.\nCuando entra en juego, busca en tu Castillo o Cementerio un Aliado Gargantúa y ponlo en tu mano.\nCuando sea Desterrado desde tu Castillo, busca en tu Castillo oponente hasta dos cartas y Destiérralas.",
+      "flavour": "La jovial sonrisa del ogro esconde un hambre sin límites. Aunque si debo apegarme a la verdad, ese es tan solo uno de sus múltiples deseos y obsesiones.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7864",
+      "edid": "036",
+      "slug": "ponzona",
+      "name": "ponzoa",
+      "rarity": "5",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Oscuridad.\nCuando entra en juego, si controlas otra carta Oscuridad, puedes Destruir el Aliado objetivo de coste 1 o menos. Luego, Roba una carta.\nLos Aliados que controles de los que no seas dueño se consideran Oscuridad.",
+      "flavour": "La reina de Dinamarca, viuda, y madre de Hamlet, muere accidentalmente al beber veneno de una copa ofrecida realmente a su hijo.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7865",
+      "edid": "037",
+      "slug": "capilla_en_el_roble",
+      "name": "capilla en el roble",
+      "rarity": "5",
+      "race": "0",
+      "type": "4",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "Oscuridad.\nPuedes pagar un Oro para buscar en tu Castillo un Aliado Oscuridad y ponerlo en tu mano o Cementerio.\nCuando un Aliado Oscuridad entre en juego bajo tu control, puedes Robar dos cartas y Descartar una carta.",
+      "flavour": "El ermitaño cuida de la capilla, trepando al viejo roble día tras día. Guardián de los secretos que unen a Dios, la naturaleza y el hombre.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7866",
+      "edid": "038",
+      "slug": "zombi",
+      "name": "zombi",
+      "rarity": "6",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Oscuridad. Exhumar. Mercenario.\nEste Aliado gana 1 de Fuerza por cada Aliado Zombi en juego y en las Zonas de Destierro.",
+      "flavour": "Solamente un hougan es capaz de corromper y manipular un espíritu nzambi, torcerlo al punto que no recuerde su humanidad, deseos o familia.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7867",
+      "edid": "039",
+      "slug": "zombi_desatado",
+      "name": "zombi desatado",
+      "rarity": "6",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Oscuridad. Exhumar.\nEn tu Vigilia, puedes Desterrar dos Zombi de tu Cementerio y/o mano para que el oponente objetivo Descarte una carta o para Robar una carta.",
+      "flavour": "Ya no hay más espacio en el infierno, los muertos caminarán nuevamente por la Tierra.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7868",
+      "edid": "040",
+      "slug": "aranas_de_leng",
+      "name": "araas de leng",
+      "rarity": "6",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Oscuridad. Furia.\nPuedes pagar un Oro y Desterrar este Aliado de tu Cementerio para Desterrar un Arma o Tótem objetivo en juego.",
+      "flavour": "Habitantes de pesadillas, en un comienzo obedecían a la diosa olvidada de los arácnidos, pero ahora deambulan los caminos del ensueño esperando una nueva presa.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7869",
+      "edid": "041",
+      "slug": "hukka",
+      "name": "hukka",
+      "rarity": "6",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Oscuridad. Furia.\nCuando entra en juego, Roba dos cartas. Luego, Descarta dos cartas, un Aliado Oscuridad o Bestia.",
+      "flavour": "Cazador de humanos y bestias. La fuerza del bosque profundo, sembrador de la muerte y aniquilador de todo lo que brilla.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7870",
+      "edid": "042",
+      "slug": "ballesta_abismal",
+      "name": "ballesta abismal",
+      "rarity": "6",
+      "race": "0",
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "Exhumar. \nEl portador gana 1 de Fuerza.\nCuando el portador haga daño de combate, si todos los Aliados que controlas son de la misma Raza, puedes; Buscar tres cartas en un Castillo y Desterrarlas o Desterrar la carta objetivo en juego de coste 3 o menos.",
+      "flavour": "Un arma diseñada en el medievo francés, pensada para limpiar los caminos de cuantas sombras y enemigos te puedan asaltar.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7871",
+      "edid": "043",
+      "slug": "cuervo",
+      "name": "cuervo",
+      "rarity": "6",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Oscuridad.\nCuando entra en juego, puedes mirar las primeras tres cartas de tu Castillo, elegir una carta Oscuridad de ahí y ponerla en tu mano. Luego, Baraja el resto.",
+      "flavour": "Un ave de estigia se posó en mi puerta y me recordó que aún estoy amarrado a las viejas sombras.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    },
+    {
+      "id": "7872",
+      "edid": "044",
+      "slug": "arbol_aullador",
+      "name": "rbol aullador",
+      "rarity": "6",
+      "race": "0",
+      "type": "4",
+      "keywords": null,
+      "cost": "2",
+      "damage": "0",
+      "ability": "Oscuridad.\nLos Aliados Oscuridad de coste 1 o más en tu Cementerio tienen Exhumar.\nCuando un Aliado Oscuridad entra en juego bajo tu control, los Aliados Oscuridad que controles ganan 1 de Fuerza hasta la Fase Final.",
+      "flavour": "Nos gusta ser sus dioses, pero nos gusta más que nos teman.",
+      "ed_edid": "39",
+      "ed_slug": "cuentos-de-ultratumba"
+    }
+  ]
+}

@@ -1,0 +1,989 @@
+{
+  "status": "OK",
+  "code": 200,
+  "races": [
+    {
+      "id": "0",
+      "slug": "noraza",
+      "name": "Sin Raza"
+    },
+    {
+      "id": "1",
+      "slug": "caballero",
+      "name": "Caballero"
+    },
+    {
+      "id": "2",
+      "slug": "bestia",
+      "name": "Bestia"
+    },
+    {
+      "id": "3",
+      "slug": "eterno",
+      "name": "Eterno"
+    },
+    {
+      "id": "4",
+      "slug": "guerrero",
+      "name": "Guerrero"
+    },
+    {
+      "id": "5",
+      "slug": "barbaro",
+      "name": "Bárbaro"
+    },
+    {
+      "id": "6",
+      "slug": "faerie",
+      "name": "Faerie"
+    },
+    {
+      "id": "7",
+      "slug": "samurai",
+      "name": "Samurái"
+    },
+    {
+      "id": "8",
+      "slug": "sombra",
+      "name": "Sombra"
+    },
+    {
+      "id": "9",
+      "slug": "ancestral",
+      "name": "Ancestral"
+    },
+    {
+      "id": "10",
+      "slug": "sacerdote",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "11",
+      "slug": "dragon",
+      "name": "Dragón"
+    },
+    {
+      "id": "12",
+      "slug": "heroe",
+      "name": "Héroe"
+    },
+    {
+      "id": "13",
+      "slug": "oni",
+      "name": "Oni"
+    },
+    {
+      "id": "14",
+      "slug": "olimpico",
+      "name": "Olímpico"
+    },
+    {
+      "id": "15",
+      "slug": "titan",
+      "name": "Titán"
+    },
+    {
+      "id": "16",
+      "slug": "faraon",
+      "name": "Faraón"
+    },
+    {
+      "id": "17",
+      "slug": "desafiante",
+      "name": "Desafiante"
+    },
+    {
+      "id": "18",
+      "slug": "defensor",
+      "name": "Defensor"
+    },
+    {
+      "id": "19",
+      "slug": "licantropo",
+      "name": "Licántropo"
+    },
+    {
+      "id": "20",
+      "slug": "vampiro",
+      "name": "Vampiro"
+    },
+    {
+      "id": "21",
+      "slug": "cazador",
+      "name": "Cazador"
+    },
+    {
+      "id": "22",
+      "slug": "chaman",
+      "name": "Chamán"
+    },
+    {
+      "id": "23",
+      "slug": "dios",
+      "name": "Dios"
+    },
+    {
+      "id": "24",
+      "slug": "abominacion",
+      "name": "Abominación"
+    },
+    {
+      "id": "25",
+      "slug": "kami",
+      "name": "Kami"
+    },
+    {
+      "id": "26",
+      "slug": "xian",
+      "name": "Xian"
+    },
+    {
+      "id": "27",
+      "slug": "criaturas",
+      "name": "Criaturas"
+    },
+    {
+      "id": "28",
+      "slug": "campeon/shaolin",
+      "name": "Campeón / Shaolín"
+    },
+    {
+      "id": "29",
+      "slug": "campeon/ninja",
+      "name": "Campeón / Ninja"
+    },
+    {
+      "id": "30",
+      "slug": "campeon/samurai",
+      "name": "Campeón / Samurái"
+    },
+    {
+      "id": "31",
+      "slug": "campeon",
+      "name": "Campeón"
+    },
+    {
+      "id": "32",
+      "slug": "heroe/sacerdote",
+      "name": "Héroe/Sacerdote"
+    },
+    {
+      "id": "33",
+      "slug": "eterno/sombra",
+      "name": "Eterno/Sombra"
+    },
+    {
+      "id": "34",
+      "slug": "caballero/guerrero",
+      "name": "Caballero/Guerrero"
+    },
+    {
+      "id": "35",
+      "slug": "bestia/guerrero",
+      "name": "Bestia/Guerrero"
+    },
+    {
+      "id": "36",
+      "slug": "caballero/heroe",
+      "name": "Caballero/Héroe"
+    },
+    {
+      "id": "37",
+      "slug": "dragon/eterno",
+      "name": "Dragón/Eterno"
+    },
+    {
+      "id": "38",
+      "slug": "eterno/faerie",
+      "name": "Eterno/Faerie"
+    },
+    {
+      "id": "39",
+      "slug": "paladin",
+      "name": "Paladín"
+    },
+    {
+      "id": "40",
+      "slug": "asesino",
+      "name": "Asesino"
+    },
+    {
+      "id": "41",
+      "slug": "tenebris",
+      "name": "Tenebris"
+    }
+  ],
+  "rarities": [
+    {
+      "id": "0",
+      "slug": "promo",
+      "name": "Promocional"
+    },
+    {
+      "id": "1",
+      "slug": "legendaria",
+      "name": "Legendaria"
+    },
+    {
+      "id": "2",
+      "slug": "ultra-real",
+      "name": "Ultra Real"
+    },
+    {
+      "id": "3",
+      "slug": "mega-real",
+      "name": "Mega Real"
+    },
+    {
+      "id": "4",
+      "slug": "real",
+      "name": "Real"
+    },
+    {
+      "id": "5",
+      "slug": "cortesano",
+      "name": "Cortesano"
+    },
+    {
+      "id": "6",
+      "slug": "vasallo",
+      "name": "Vasallo"
+    },
+    {
+      "id": "7",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "8",
+      "slug": "milenaria",
+      "name": "Milenaria"
+    },
+    {
+      "id": "9",
+      "slug": "secreta",
+      "name": "Secreta"
+    },
+    {
+      "id": "10",
+      "slug": "ficha",
+      "name": "Ficha"
+    },
+    {
+      "id": "11",
+      "slug": "set_paralelo",
+      "name": "Set Paralelo"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "slug": "aliado",
+      "name": "Aliado"
+    },
+    {
+      "id": "2",
+      "slug": "talisman",
+      "name": "Talismán"
+    },
+    {
+      "id": "3",
+      "slug": "arma",
+      "name": "Arma"
+    },
+    {
+      "id": "4",
+      "slug": "totem",
+      "name": "Tótem"
+    },
+    {
+      "id": "5",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "6",
+      "slug": "monumento",
+      "name": "Monumento"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "1",
+      "flag": "1",
+      "slug": "unica",
+      "title": "Única",
+      "alt_title": "Única.",
+      "definition": "Solo puedes tener 1 copia en tu mazo."
+    },
+    {
+      "id": "2",
+      "flag": "2",
+      "slug": "imbloqueable",
+      "title": "Imbloqueable",
+      "alt_title": "Imbloqueables",
+      "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+    },
+    {
+      "id": "3",
+      "flag": "4",
+      "slug": "indesterrable",
+      "title": "Indesterrable",
+      "alt_title": "Indesterrables",
+      "definition": "No puede ser desterrada."
+    },
+    {
+      "id": "4",
+      "flag": "8",
+      "slug": "indestructible",
+      "title": "Indestructible",
+      "alt_title": "Indestructibles",
+      "definition": "Esta carta no puede ser destruida."
+    },
+    {
+      "id": "5",
+      "flag": "16",
+      "slug": "luz",
+      "title": "Luz",
+      "alt_title": "",
+      "definition": "Carta tipo Luz"
+    },
+    {
+      "id": "6",
+      "flag": "32",
+      "slug": "oscuridad",
+      "title": "Oscuridad",
+      "alt_title": "",
+      "definition": "Carta tipo Oscuridad"
+    },
+    {
+      "id": "7",
+      "flag": "64",
+      "slug": "furia",
+      "title": "Furia",
+      "alt_title": "",
+      "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+    },
+    {
+      "id": "8",
+      "flag": "128",
+      "slug": "inmunidad",
+      "title": "Inmunidad",
+      "alt_title": "",
+      "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+    },
+    {
+      "id": "9",
+      "flag": "256",
+      "slug": "alimentar",
+      "title": "Alimentar",
+      "alt_title": "Alimento,Alimenta,Alimentado",
+      "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+    },
+    {
+      "id": "10",
+      "flag": "512",
+      "slug": "purificar",
+      "title": "Purificar",
+      "alt_title": "Purifica,Purificadas",
+      "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+    },
+    {
+      "id": "11",
+      "flag": "1024",
+      "slug": "retador",
+      "title": "Retador",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+    },
+    {
+      "id": "12",
+      "flag": "2048",
+      "slug": "ilusion",
+      "title": "Ilusión",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+    },
+    {
+      "id": "13",
+      "flag": "4096",
+      "slug": "espectral",
+      "title": "Espectral",
+      "alt_title": "",
+      "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+    },
+    {
+      "id": "14",
+      "flag": "8192",
+      "slug": "honor",
+      "title": "Honor",
+      "alt_title": "",
+      "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+    },
+    {
+      "id": "15",
+      "flag": "16384",
+      "slug": "errante",
+      "title": "Errante",
+      "alt_title": "",
+      "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+    },
+    {
+      "id": "16",
+      "flag": "32768",
+      "slug": "exhumar",
+      "title": "Exhumar",
+      "alt_title": "",
+      "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+    },
+    {
+      "id": "17",
+      "flag": "65536",
+      "slug": "mercenario",
+      "title": "Mercenario",
+      "alt_title": "",
+      "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+    },
+    {
+      "id": "18",
+      "flag": "131072",
+      "slug": "que-controles",
+      "title": "que controles",
+      "alt_title": "que controle",
+      "definition": "Cuando la carta se encuentre en tu area de juego."
+    },
+    {
+      "id": "19",
+      "flag": "262144",
+      "slug": "destruir",
+      "title": "Destruir",
+      "alt_title": "´Destruye",
+      "definition": "Enviar al Cementerio."
+    }
+  ],
+  "edition": {
+    "id": "56",
+    "order": "40",
+    "slug": "hermanos_grimm_elaguadelavida_y_johndeacero",
+    "title": "Hermanos Grimm El Agua de la Vida y John de Acero",
+    "image": "https://api.myl.cl/static/hermanos_grimm.png",
+    "date_release": "2021-09-14",
+    "date_empire_valid": "2023-09-14",
+    "custom_bg": "https://tor.myl.cl/static/torbg6.jpg",
+    "flags": "9"
+  },
+  "cards": [
+    {
+      "id": "9959",
+      "edid": "001",
+      "slug": "bosque_peligroso",
+      "name": "bosque peligroso",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oro Inicial.\nCuando sea utilizado para pagar el coste de un Príncipe o John de Acero, puedes mirar las primeras tres cartas de tu Castillo y ordenarlas.\nEn tu Fase Final, si controlas uno o más Príncipe y/o John de Acero, puedes Desterrar dos cartas de un Cementerio.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9960",
+      "edid": "002",
+      "slug": "explorador",
+      "name": "explorador",
+      "rarity": "6",
+      "race": "4",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Oscuridad. Furia (Puede atacar cuando entra en juego).\nCuando entra en juego, mira las primeras dos cartas de tu Castillo. Pon una en tu mano y la otra al fondo de tu Castillo.\nCuando ataca, puedes mirar las primeras tres cartas de cualquier Castillo y ordenarlas.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9961",
+      "edid": "003",
+      "slug": "john_de_acero",
+      "name": "john de acero",
+      "rarity": "4",
+      "race": "6",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Luz. Indestructible (No puede ser Destruido).\nLos Aliados Luz y Príncipe que controles ganan 1 de Fuerza.\nEn tu Vigilia, puedes Barajar una carta de tu mano para buscar un Príncipe de coste 2 o menos en tu Castillo y ponerlo en juego.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9962",
+      "edid": "004",
+      "slug": "enjaular_a_la_bestia",
+      "name": "enjaular a la bestia",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Baraja un Aliado en juego en el Castillo de su dueño. Si es de coste 1 o menos, en vez de eso, Baraja todos los Aliados con ese nombre en el Castillo de su dueño.\nPuedes buscar un Aliado del mismo coste del Aliado Barajado de esta manera y jugarlo sin pagar su coste. Este Aliado entra sin habilidad por el turno.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9963",
+      "edid": "005",
+      "slug": "pelota_perdida",
+      "name": "pelota perdida",
+      "rarity": "5",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Cuando entra en juego, puedes buscar un Príncipe de coste 2 o menos y ponerlo en tu mano.\nEn tu Fase Final, si controlas dos o más Príncipe, tu oponente Bota dos cartas.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9964",
+      "edid": "006",
+      "slug": "huida_salvaje",
+      "name": "huida salvaje",
+      "rarity": "6",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Baraja un Príncipe que controles para Robar dos cartas.\nBaraja un Aliado oponente de coste igual o menor del Príncipe Barajado.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9965",
+      "edid": "007",
+      "slug": "manantial_magico",
+      "name": "manantial magico",
+      "rarity": "5",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Cuando entra en juego, puedes mirar las primeras tres cartas de tu Castillo y ordenarlas.\nCuando sea utilizado para pagar el coste de una carta que no sea Aliado, puedes Barajar hasta dos cartas de tu Cementerio.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9966",
+      "edid": "008",
+      "slug": "juramento_de_john",
+      "name": "juramento de john",
+      "rarity": "5",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Busca un Príncipe o John de Acero en tu Castillo o Cementerio y ponlo en tu mano.\nSi controlas uno o más Príncipe, puedes jugarla sin pagar su coste.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9967",
+      "edid": "009",
+      "slug": "principe_errante",
+      "name": "principe errante",
+      "rarity": "6",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Luz.\nEn tu Vigilia, si controlas dos o más Príncipe y/o John de Acero, puedes Robar una carta.\nAl comienzo de tu Vigilia, puedes Barajar este Aliado en tu Castillo para buscar un Príncipe de coste 2 en tu Castillo y ponerlo en juego.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9968",
+      "edid": "010",
+      "slug": "principe_jardinero",
+      "name": "principe jardinero",
+      "rarity": "5",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Luz.\nEn tu Vigilia, si controlas dos o más Príncipe y/o John de Acero, puedes Barajar dos cartas de tu Cementerio en tu Castillo.\nAl comienzo de tu Vigilia, puedes Barajar este Aliado en tu Castillo para buscar un Príncipe de coste 3 en tu Castillo y ponerlo en juego.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9969",
+      "edid": "011",
+      "slug": "princesa_generosa",
+      "name": "princesa generosa",
+      "rarity": "4",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Luz.\nLos Príncipe que controles ganan 1 de Fuerza.\nEn tu Vigilia, puedes Descartar una carta para Generar un Oro para jugar Aliados Príncipe.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9970",
+      "edid": "012",
+      "slug": "principe_defensor",
+      "name": "principe defensor",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "3",
+      "ability": "Luz. Indestructible (No puede ser Destruido).\nEn tu Vigilia, si controlas dos o más Príncipe y/o John de Acero, puedes Destruir un Aliado oponente.\nAl comienzo de tu Vigilia, puedes Barajar este Aliado en tu Castillo para buscar un Príncipe de coste 4 en tu Castillo y ponerlo en juego.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9971",
+      "edid": "013",
+      "slug": "manzanas_doradas",
+      "name": "manzanas doradas",
+      "rarity": "2",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "En tu Fase Final, si está en tu Reserva, puedes poner la primera o última carta de tu Castillo en tu mano.\nAl comienzo de tu Vigilia, si controlas menos Aliados que tu oponente, Genera un Oro para jugar Armas o Tótem.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9972",
+      "edid": "014",
+      "slug": "boda_magica",
+      "name": "boda magica",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Muestra las primeras seis cartas de tu Castillo. Luego, elige dos cartas de ahí, ponlas en tu mano y Baraja el resto.\nSi tienes menos cartas en la mano que tu oponente, puedes pagar un Oro y Desterrar las primeras dos cartas de tu Castillo para jugarlo sin pagar su coste.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9973",
+      "edid": "015",
+      "slug": "joven_principe",
+      "name": "joven principe",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "4",
+      "damage": "3",
+      "ability": "Luz. Furia (Puede atacar cuando entra en juego).\nCuando ataca, tus Príncipe ganan 2 de Fuerza y son Imbloqueables por el turno.\nSi controlas dos o más Principe, reduce su coste en dos Oros y no puede ser Anulado.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9974",
+      "edid": "016",
+      "slug": "rey_moribundo",
+      "name": "rey moribundo",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "0",
+      "ability": "Luz.\nEn tu Vigilia, puedes Descartar una carta para buscar un Príncipe o Rey en tu Castillo y ponerlo en tu mano.\nPuedes Desterrar una carta de tu Cementerio para que un Príncipe o Rey gane 2 de Fuerza por el turno.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9975",
+      "edid": "017",
+      "slug": "principes_codiciosos",
+      "name": "principes codiciosos",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad. Furia (Puede atacar cuando entra en juego).\nCuando entra en juego o cuando ataca, un Aliado oponente no puede Bloquear por el turno.\nHasta dos veces por turno, puedes Desterrar una carta de tu Cementerio para que un Aliado pierda 2 de Fuerza por el turno.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9976",
+      "edid": "018",
+      "slug": "duende_del_sendero",
+      "name": "duende del sendero",
+      "rarity": "4",
+      "race": "6",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Oscuridad.\nCuando entra en juego, nombra una carta que no sea Oro. Luego, sube a la mano de su dueño todas las cartas en juego con ese nombre.\nMientras esté en juego, no se pueden jugar cartas con el nombre elegido.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9977",
+      "edid": "019",
+      "slug": "principe_bondadoso",
+      "name": "principe bondadoso",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Luz. Indestructible (No puede ser Destruido).\nElige un Príncipe o Rey que controles para que gane 1 de Fuerza por cada otro Príncipe o Rey que controles.\nEn tu Vigilia, si controlas dos o más Rey y/o Principe, puedes Barajar una carta de tu mano para Robar dos cartas.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9978",
+      "edid": "020",
+      "slug": "regalos_del_duende",
+      "name": "regalos del duende",
+      "rarity": "2",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Cuando entra en juego, puedes buscar un Arma o Tótem en tu Castillo y ponerla en tu mano.\nCuando un Tótem o Arma sea Destruido, puedes poner una carta de tu mano en el fondo de tu Castillo para ganar el control de un Tótem o Arma oponente",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9979",
+      "edid": "021",
+      "slug": "castillo_encantado",
+      "name": "castillo encantado",
+      "rarity": "5",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Si está en tu Reserva, los Aliados no bloqueados hacen uno de daño.\nAl comienzo de la Vigilia de cada jugador, ese jugador puede pagar un Oro para que este Oro pierda su habilidad por el turno.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9980",
+      "edid": "022",
+      "slug": "princesa_de_plata",
+      "name": "princesa de plata",
+      "rarity": "4",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Luz.\nCuando entra en juego, puedes buscar un Oro o un Aliado Luz en tu Castillo o Cementerio y ponerlo en tu mano.\nPuedes Descartar una carta de tu mano para que el Aliado Luz o Príncipe que controles gane 2 de Fuerza y sea Imbloqueable por el turno.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9981",
+      "edid": "023",
+      "slug": "el_agua_de_la_vida",
+      "name": "el agua de la vida",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oro Inicial.\nPuedes pagar este Oro para subir un Rey, Reina, Princesa y/o Príncipe de tu Cementerio a tu mano.\nSi controlas dos o más Rey, Reina, Princesa y/o Príncipe, puedes Purificar hasta dos cartas de los Cementerios.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9982",
+      "edid": "024",
+      "slug": "rescate_de_los_principes",
+      "name": "rescate de los principes",
+      "rarity": "6",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Pon en juego un Príncipe de coste 2 o menos de tu Cementerio. Ese Aliado gana Furia por el turno.\nSi controlas menos Aliados que tu oponente, reduce el coste de este Talismán en un Oro.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9983",
+      "edid": "025",
+      "slug": "regreso_a_casa",
+      "name": "regreso a casa",
+      "rarity": "6",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Un Príncipe que controles gana 2 de Fuerza por el turno. Luego, si ataca este turno, puedes Agruparlo en la Fase Final.\nSi controlas dos o más Principe, puedes Desterrarlo de tu Cementerio para que un Aliado gane 2 de Fuerza por el turno.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9984",
+      "edid": "026",
+      "slug": "traicion_de_hermanos",
+      "name": "traicion de hermanos",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Intercambia el control de un Oro que controles por uno de tu oponente. Luego, tu oponente Descarta una carta de su mano.\nSi controlas menos Oros que tu oponente, el Oro intercambiado a tu oponente cambia su habilidad por \"Al comienzo de fu Fase Final, Bota una carta\".",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9985",
+      "edid": "027",
+      "slug": "escape_del_reino",
+      "name": "escape del reino",
+      "rarity": "4",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Elige un Aliado oponente y ponlo en el fondo del Castillo de su dueño. Luego, Destierra dos cartas de un Cementerio.\nPuedes pagar un Oro y Desterrarlo de tu Cementerio para Destruir un Aliado oponente de coste 3 o menos.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9986",
+      "edid": "028",
+      "slug": "ofrendas_de_reinos_lejanos",
+      "name": "ofrendas de reinos lejanos",
+      "rarity": "5",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Cuando entra en juego, puedes Robar una carta.\nCuando sea utilizado para pagar el coste de un Rey o Príncipe, puedes poner la primera o última carta de tu Castillo en tu mano.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9987",
+      "edid": "029",
+      "slug": "senda_dorada",
+      "name": "senda dorada",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Busca un Aliado de coste 2 o menos en tu Castillo y juégalo sin pagar su coste. \nUn Aliado que controles gana Furia y 1 de Fuerza por cada Oro que controles, por el turno.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "9988",
+      "edid": "030",
+      "slug": "perdon_del_rey",
+      "name": "perdon del rey",
+      "rarity": "6",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Sube un Príncipe de tu Cementerio a tu mano.\nSi controlas un Rey o Reina, puedes subir otra carta de tu Cementerio al azar a tu mano.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "10203",
+      "edid": "064",
+      "slug": "fin_de_la_maldicion",
+      "name": "fin de la maldicion",
+      "rarity": "2",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Sólo puedes jugar un Fin de la Maldición por turno y cuando lo juegues, Destiérralo.\nJuega un Talismán del Castillo oponente por un Oro menos. Luego, cada jugador gana el control de las cartas de las que sea dueño.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    },
+    {
+      "id": "11421",
+      "edid": "062",
+      "slug": "hacer_el_bien",
+      "name": "hacer el bien",
+      "rarity": "0",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Única. Exhumar. \nAnula una carta de coste 3 o menos.",
+      "flavour": null,
+      "ed_edid": "56",
+      "ed_slug": "hermanos_grimm_elaguadelavida_y_johndeacero"
+    }
+  ]
+}

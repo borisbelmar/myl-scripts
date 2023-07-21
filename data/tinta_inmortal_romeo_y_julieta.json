@@ -1,0 +1,989 @@
+{
+  "status": "OK",
+  "code": 200,
+  "races": [
+    {
+      "id": "0",
+      "slug": "noraza",
+      "name": "Sin Raza"
+    },
+    {
+      "id": "1",
+      "slug": "caballero",
+      "name": "Caballero"
+    },
+    {
+      "id": "2",
+      "slug": "bestia",
+      "name": "Bestia"
+    },
+    {
+      "id": "3",
+      "slug": "eterno",
+      "name": "Eterno"
+    },
+    {
+      "id": "4",
+      "slug": "guerrero",
+      "name": "Guerrero"
+    },
+    {
+      "id": "5",
+      "slug": "barbaro",
+      "name": "Bárbaro"
+    },
+    {
+      "id": "6",
+      "slug": "faerie",
+      "name": "Faerie"
+    },
+    {
+      "id": "7",
+      "slug": "samurai",
+      "name": "Samurái"
+    },
+    {
+      "id": "8",
+      "slug": "sombra",
+      "name": "Sombra"
+    },
+    {
+      "id": "9",
+      "slug": "ancestral",
+      "name": "Ancestral"
+    },
+    {
+      "id": "10",
+      "slug": "sacerdote",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "11",
+      "slug": "dragon",
+      "name": "Dragón"
+    },
+    {
+      "id": "12",
+      "slug": "heroe",
+      "name": "Héroe"
+    },
+    {
+      "id": "13",
+      "slug": "oni",
+      "name": "Oni"
+    },
+    {
+      "id": "14",
+      "slug": "olimpico",
+      "name": "Olímpico"
+    },
+    {
+      "id": "15",
+      "slug": "titan",
+      "name": "Titán"
+    },
+    {
+      "id": "16",
+      "slug": "faraon",
+      "name": "Faraón"
+    },
+    {
+      "id": "17",
+      "slug": "desafiante",
+      "name": "Desafiante"
+    },
+    {
+      "id": "18",
+      "slug": "defensor",
+      "name": "Defensor"
+    },
+    {
+      "id": "19",
+      "slug": "licantropo",
+      "name": "Licántropo"
+    },
+    {
+      "id": "20",
+      "slug": "vampiro",
+      "name": "Vampiro"
+    },
+    {
+      "id": "21",
+      "slug": "cazador",
+      "name": "Cazador"
+    },
+    {
+      "id": "22",
+      "slug": "chaman",
+      "name": "Chamán"
+    },
+    {
+      "id": "23",
+      "slug": "dios",
+      "name": "Dios"
+    },
+    {
+      "id": "24",
+      "slug": "abominacion",
+      "name": "Abominación"
+    },
+    {
+      "id": "25",
+      "slug": "kami",
+      "name": "Kami"
+    },
+    {
+      "id": "26",
+      "slug": "xian",
+      "name": "Xian"
+    },
+    {
+      "id": "27",
+      "slug": "criaturas",
+      "name": "Criaturas"
+    },
+    {
+      "id": "28",
+      "slug": "campeon/shaolin",
+      "name": "Campeón / Shaolín"
+    },
+    {
+      "id": "29",
+      "slug": "campeon/ninja",
+      "name": "Campeón / Ninja"
+    },
+    {
+      "id": "30",
+      "slug": "campeon/samurai",
+      "name": "Campeón / Samurái"
+    },
+    {
+      "id": "31",
+      "slug": "campeon",
+      "name": "Campeón"
+    },
+    {
+      "id": "32",
+      "slug": "heroe/sacerdote",
+      "name": "Héroe/Sacerdote"
+    },
+    {
+      "id": "33",
+      "slug": "eterno/sombra",
+      "name": "Eterno/Sombra"
+    },
+    {
+      "id": "34",
+      "slug": "caballero/guerrero",
+      "name": "Caballero/Guerrero"
+    },
+    {
+      "id": "35",
+      "slug": "bestia/guerrero",
+      "name": "Bestia/Guerrero"
+    },
+    {
+      "id": "36",
+      "slug": "caballero/heroe",
+      "name": "Caballero/Héroe"
+    },
+    {
+      "id": "37",
+      "slug": "dragon/eterno",
+      "name": "Dragón/Eterno"
+    },
+    {
+      "id": "38",
+      "slug": "eterno/faerie",
+      "name": "Eterno/Faerie"
+    },
+    {
+      "id": "39",
+      "slug": "paladin",
+      "name": "Paladín"
+    },
+    {
+      "id": "40",
+      "slug": "asesino",
+      "name": "Asesino"
+    },
+    {
+      "id": "41",
+      "slug": "tenebris",
+      "name": "Tenebris"
+    }
+  ],
+  "rarities": [
+    {
+      "id": "0",
+      "slug": "promo",
+      "name": "Promocional"
+    },
+    {
+      "id": "1",
+      "slug": "legendaria",
+      "name": "Legendaria"
+    },
+    {
+      "id": "2",
+      "slug": "ultra-real",
+      "name": "Ultra Real"
+    },
+    {
+      "id": "3",
+      "slug": "mega-real",
+      "name": "Mega Real"
+    },
+    {
+      "id": "4",
+      "slug": "real",
+      "name": "Real"
+    },
+    {
+      "id": "5",
+      "slug": "cortesano",
+      "name": "Cortesano"
+    },
+    {
+      "id": "6",
+      "slug": "vasallo",
+      "name": "Vasallo"
+    },
+    {
+      "id": "7",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "8",
+      "slug": "milenaria",
+      "name": "Milenaria"
+    },
+    {
+      "id": "9",
+      "slug": "secreta",
+      "name": "Secreta"
+    },
+    {
+      "id": "10",
+      "slug": "ficha",
+      "name": "Ficha"
+    },
+    {
+      "id": "11",
+      "slug": "set_paralelo",
+      "name": "Set Paralelo"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "slug": "aliado",
+      "name": "Aliado"
+    },
+    {
+      "id": "2",
+      "slug": "talisman",
+      "name": "Talismán"
+    },
+    {
+      "id": "3",
+      "slug": "arma",
+      "name": "Arma"
+    },
+    {
+      "id": "4",
+      "slug": "totem",
+      "name": "Tótem"
+    },
+    {
+      "id": "5",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "6",
+      "slug": "monumento",
+      "name": "Monumento"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "1",
+      "flag": "1",
+      "slug": "unica",
+      "title": "Única",
+      "alt_title": "Única.",
+      "definition": "Solo puedes tener 1 copia en tu mazo."
+    },
+    {
+      "id": "2",
+      "flag": "2",
+      "slug": "imbloqueable",
+      "title": "Imbloqueable",
+      "alt_title": "Imbloqueables",
+      "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+    },
+    {
+      "id": "3",
+      "flag": "4",
+      "slug": "indesterrable",
+      "title": "Indesterrable",
+      "alt_title": "Indesterrables",
+      "definition": "No puede ser desterrada."
+    },
+    {
+      "id": "4",
+      "flag": "8",
+      "slug": "indestructible",
+      "title": "Indestructible",
+      "alt_title": "Indestructibles",
+      "definition": "Esta carta no puede ser destruida."
+    },
+    {
+      "id": "5",
+      "flag": "16",
+      "slug": "luz",
+      "title": "Luz",
+      "alt_title": "",
+      "definition": "Carta tipo Luz"
+    },
+    {
+      "id": "6",
+      "flag": "32",
+      "slug": "oscuridad",
+      "title": "Oscuridad",
+      "alt_title": "",
+      "definition": "Carta tipo Oscuridad"
+    },
+    {
+      "id": "7",
+      "flag": "64",
+      "slug": "furia",
+      "title": "Furia",
+      "alt_title": "",
+      "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+    },
+    {
+      "id": "8",
+      "flag": "128",
+      "slug": "inmunidad",
+      "title": "Inmunidad",
+      "alt_title": "",
+      "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+    },
+    {
+      "id": "9",
+      "flag": "256",
+      "slug": "alimentar",
+      "title": "Alimentar",
+      "alt_title": "Alimento,Alimenta,Alimentado",
+      "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+    },
+    {
+      "id": "10",
+      "flag": "512",
+      "slug": "purificar",
+      "title": "Purificar",
+      "alt_title": "Purifica,Purificadas",
+      "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+    },
+    {
+      "id": "11",
+      "flag": "1024",
+      "slug": "retador",
+      "title": "Retador",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+    },
+    {
+      "id": "12",
+      "flag": "2048",
+      "slug": "ilusion",
+      "title": "Ilusión",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+    },
+    {
+      "id": "13",
+      "flag": "4096",
+      "slug": "espectral",
+      "title": "Espectral",
+      "alt_title": "",
+      "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+    },
+    {
+      "id": "14",
+      "flag": "8192",
+      "slug": "honor",
+      "title": "Honor",
+      "alt_title": "",
+      "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+    },
+    {
+      "id": "15",
+      "flag": "16384",
+      "slug": "errante",
+      "title": "Errante",
+      "alt_title": "",
+      "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+    },
+    {
+      "id": "16",
+      "flag": "32768",
+      "slug": "exhumar",
+      "title": "Exhumar",
+      "alt_title": "",
+      "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+    },
+    {
+      "id": "17",
+      "flag": "65536",
+      "slug": "mercenario",
+      "title": "Mercenario",
+      "alt_title": "",
+      "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+    },
+    {
+      "id": "18",
+      "flag": "131072",
+      "slug": "que-controles",
+      "title": "que controles",
+      "alt_title": "que controle",
+      "definition": "Cuando la carta se encuentre en tu area de juego."
+    },
+    {
+      "id": "19",
+      "flag": "262144",
+      "slug": "destruir",
+      "title": "Destruir",
+      "alt_title": "´Destruye",
+      "definition": "Enviar al Cementerio."
+    }
+  ],
+  "edition": {
+    "id": "54",
+    "order": "38",
+    "slug": "tinta_inmortal_romeo_y_julieta",
+    "title": "Tinta Inmortal Romeo y Julieta",
+    "image": "https://api.myl.cl/static/tinta_inmortal.png",
+    "date_release": "2021-09-14",
+    "date_empire_valid": "2023-09-14",
+    "custom_bg": "https://tor.myl.cl/static/torbg6.jpg",
+    "flags": "9"
+  },
+  "cards": [
+    {
+      "id": "9899",
+      "edid": "001",
+      "slug": "romeo",
+      "name": "romeo",
+      "rarity": "4",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Luz. Furia (Puede atacar cuando entra en juego).\nEn tu Vigilia, puedes mostrar un Aliado Luz o Héroe de tu mano para Destruir un Aliado oponente o Robar dos cartas.\nSi Julieta sale del juego, Destruye este Aliado.\n\nSi hace daño de combate, puedes Desterrar una carta en juego que no sea Oro. Luego, Destierra todas sus copias en juego y en el Cementerio de su dueño.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9900",
+      "edid": "002",
+      "slug": "julieta",
+      "name": "julieta",
+      "rarity": "4",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Luz. \nCuando entra en juego o cuando ataca, puedes subir una carta de tu Cementerio a tu mano. \nSi Romeo sale del juego, Destruye este Aliado.\n\nEn tu Vigilia, puedes mirar las primeras o últimas tres cartas de tu Castillo. Pon un Aliado de ahí en tu mano y Baraja el resto. Si es Romeo, puedes ponerlo en juego.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9901",
+      "edid": "003",
+      "slug": "duelo_en_verona",
+      "name": "duelo en verona",
+      "rarity": "5",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Cuando entra en juego, puedes buscar a Romeo o Julieta en tu Castillo o Cementerio y ponerla en tu mano.  \n\nPuedes pagar este Oro y Descartar una carta de tu mano para Destruir un Aliado oponente de Fuerza 3 o menos.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9902",
+      "edid": "004",
+      "slug": "principe_scala",
+      "name": "principe scala",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Indestructible (No puede ser Destruido).\nCuando entra en juego o cuando ataca, puedes Descartar una carta para Barajar un Aliado oponente de Fuerza igual o menor a este Aliado.\n\nEn tu Vigilia, puedes buscar un Príncipe en tu Castillo y ponerlo en tu mano. Luego, Purifica tantas cartas de los Cementerios como coste tenga esa carta.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9903",
+      "edid": "005",
+      "slug": "benvolio",
+      "name": "benvolio",
+      "rarity": "4",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Luz.\nSi controlas a Romeo, este Aliado gana 2 de Fuerza.\nSi controlas a Julieta, este Aliado es Indestructible.\n\nEn tu Vigilia, puedes Descartar un Aliado Luz o Héroe de tu mano para Destruir un Aliado oponente de coste 2 o menos.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9904",
+      "edid": "006",
+      "slug": "mercucio",
+      "name": "mercucio",
+      "rarity": "4",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Luz.\nSi controlas a Romeo, este Aliado gana 2 de Fuerza.\nSi controlas a Julieta, este Aliado es Imbloqueable.\n\nSi está en tu Cementerio, puedes Desterrarlo para buscar a Romeo o Julieta en tu Castillo o Cementerio y ponerla en tu mano.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9905",
+      "edid": "007",
+      "slug": "encuentro_de_miradas",
+      "name": "encuentro de miradas",
+      "rarity": "5",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Busca a Romeo o Julieta en tu Castillo o Cementerio y juégalo sin pagar su coste.\n\nSi está en tu Cementerio, puedes Desterrarlo para buscar a Romeo o Julieta en tu Castillo y ponerla en tu mano.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9906",
+      "edid": "008",
+      "slug": "encuentro_en_el_balcon",
+      "name": "encuentro en el balcon",
+      "rarity": "5",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "En tu Vigilia, si controlas a Romeo y/o Julieta, puedes Robar una carta. Luego, Descarta una carta.\n\nSi un Aliado Luz que controles fuera a ser Destruido, puedes Destruir este Oro para prevenirlo.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9907",
+      "edid": "009",
+      "slug": "fray_lorenzo",
+      "name": "fray lorenzo",
+      "rarity": "6",
+      "race": "10",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Luz.\nEn tu Vigilia, puedes Desterrar las primeras dos cartas de tu Castillo. Puedes jugar una de ellas pagando su coste.\n\nSi controlas a Romeo, Genera un Oro para jugar esa carta.\n Si controlas a Julieta, la carta no puede ser Anulada.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9908",
+      "edid": "010",
+      "slug": "senora_capuleto",
+      "name": "seora capuleto",
+      "rarity": "5",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad.\nSi controlas a Julieta, puedes mirar las primeras dos cartas de tu Castillo. Pon una en tu mano y la otra al fondo de tu Castillo.\n\nLos Aliados oponentes pierden 1 de Fuerza y tu oponente sólo puede declarar ataque con un Aliado.\n Si Julieta sale del juego, puedes Robar hasta dos cartas.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9909",
+      "edid": "011",
+      "slug": "capilla_subterranea",
+      "name": "capilla subterranea",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Puedes pagar este Oro y Desterrar un Aliado que controles para buscar un Aliado de coste 1 o menos y jugarlo sin pagar su coste.\n\nSi este Oro es utilizado para pagar el coste de Romeo o Julieta, no pueden ser Anulados.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9910",
+      "edid": "012",
+      "slug": "teobaldo",
+      "name": "teobaldo",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad.\nCuando entra en juego o cuando ataque, Destruye un Aliado oponente de coste 2 o menos. Si controlas a Julieta, puedes Destruir un Aliado adicional.\n\nCuando un oponente Robe una o más cartas por efectos, ese jugador Descarta una carta al azar.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9911",
+      "edid": "013",
+      "slug": "adios_amigo",
+      "name": "adios amigo",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "0",
+      "damage": null,
+      "ability": "Exhumar (Puedes jugarla desde tu Cementerio pagando su coste. Si es un Talismán, Destiérralo).\nHasta tu próximo turno, ningún jugador recibe daño.\n\nSi está en tu Cementerio, puedes Desterrarlo para Anular un Aliado de coste 1 o menos.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9912",
+      "edid": "014",
+      "slug": "duelo_a_muerte",
+      "name": "duelo a muerte",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Elige un Aliado de cada jugador y Destruye el de menor Fuerza.\n\nMuestra la primera carta de tu Castillo. Puedes jugarla reduciendo su coste en dos Oros o ponerla en tu mano. Si es un Oro, ponlo en tu Oro Pagado.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9913",
+      "edid": "015",
+      "slug": "destierro_de_romeo",
+      "name": "destierro de romeo",
+      "rarity": "6",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "3",
+      "damage": null,
+      "ability": "Destierra un Aliado en juego. Luego, Roba dos cartas.\n\nSi controlas un Héroe, reduce su coste en dos Oros y no puede ser Anulado.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9914",
+      "edid": "016",
+      "slug": "criados_chismosos",
+      "name": "criados chismosos",
+      "rarity": "6",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Al comienzo de tu Vigilia, si está en tu Cementerio y controlas a Romeo o Julieta, puedes ponerlo en tu Oro Pagado.\n\nPuedes Descartar este Oro para prevenir que un Héroe salga del juego o para que un Héroe gane 2 de Fuerza hasta la Fase Final.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9915",
+      "edid": "017",
+      "slug": "viejo_capuleto",
+      "name": "viejo capuleto",
+      "rarity": "5",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "5",
+      "ability": "Oscuridad.\nCuando entra en juego o cuando ataca, puedes buscar en tu Castillo o Cementerio un Caballero y ponerlo en tu mano.\n\nCuando un oponente fuera a buscar una o más cartas en su Castillo, puedes buscar esa misma cantidad de cartas en tu Castillo y ponerlas en tu mano.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9916",
+      "edid": "018",
+      "slug": "santuario_en_la_abadia",
+      "name": "santuario en la abadia",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Si está en tu Reserva, puedes Barajar este Oro para buscar un Oro con distinto nombre y ponerlo en tu Oro Pagado. Si controlas a Romeo o Julieta, puedes ponerlo en tu Reserva.\n\nPuedes Destruir este Oro para prevenir que un Héroe que controles salga del juego. Si ese Aliado es Romeo o Julieta, en vez de eso puedes subir este Oro a tu mano.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9917",
+      "edid": "019",
+      "slug": "fray_juan",
+      "name": "fray juan",
+      "rarity": "6",
+      "race": "10",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "3",
+      "ability": "En tu Vigilia, puedes Barajar o Desterrar hasta una carta de los Cementerios por cada Aliado en juego.\n\nPuedes elegir dos Aliados que controles para que ganen 1 de Fuerza por cada tipo de carta en tu Destierro.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9918",
+      "edid": "020",
+      "slug": "conde_paris",
+      "name": "conde paris",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad.\nEn tu Fase Final, tu oponente Destruye un Aliado que controle. Si controlas a Julieta, en vez de eso tú eliges ese Aliado.\n\nEl primer Aliado que juegue tu oponente en cada uno de sus turnos cuesta dos Oros adicionales, a menos que tu oponente Destierre las tres primeras cartas de su Castillo.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9919",
+      "edid": "021",
+      "slug": "matrimonio_forzado",
+      "name": "matrimonio forzado",
+      "rarity": "5",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Destruye una carta oponente que no sea Oro. Luego, Destierra las primeras tres cartas de tu Castillo.\n\nSi controlas un Conde o a Julieta, puedes jugar esta carta sin pagar su coste. Si lo haces, no puede ser Anulada.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9920",
+      "edid": "022",
+      "slug": "narcotico",
+      "name": "narcotico",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oscuridad.\nPuedes pagar este Oro para que un Aliado oponente pierda su habilidad y no pueda Atacar ni Bloquear hasta la Fase Final.\n\nSi está en tu Cementerio, puedes Desterrarlo para que un Aliado pierda su habilidad y 3 de Fuerza hasta la Fase Final.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9921",
+      "edid": "023",
+      "slug": "boticario_de_mantua",
+      "name": "boticario de mantua",
+      "rarity": "6",
+      "race": "10",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Cuando entra en juego, puedes buscar un Oro en tu Castillo y ponerlo en tu mano.\n\nEn tu Vigilia, puedes Destruir otro Aliado que controles para buscar un Oro en tu Castillo y ponerlo en tu mano. Luego, pon la última carta de tu Castillo en tu mano.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9922",
+      "edid": "024",
+      "slug": "panteon_de_los_capuletos",
+      "name": "panteon de los capuletos",
+      "rarity": "2",
+      "race": "0",
+      "type": "4",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Puedes subir un Aliado de tu Cementerio a tu mano.\n\nPuedes mirar la primera carta de cualquier Castillo, si es un Aliado puedes jugarlo reduciendo su coste en dos Oros. Si es Romeo o Julieta, puedes ponerlo en juego.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9923",
+      "edid": "025",
+      "slug": "estocada_letal",
+      "name": "estocada letal",
+      "rarity": "4",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Destruye un Aliado oponente. Luego, Roba una carta.\n\nSi el Aliado Destruido era Oscuridad o Caballero, puedes Purificar hasta dos cartas de los Cementerios y Robar una carta adicional.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9924",
+      "edid": "026",
+      "slug": "veneno",
+      "name": "veneno",
+      "rarity": "2",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Puedes pagar este Oro y elegir un Aliado en juego. Ese Aliado es Destruido en la próxima Fase Final oponente.\n\nSi está en tu Reserva, los Aliados de coste 2 o menos no disparan sus habilidades al entrar en juego.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9925",
+      "edid": "027",
+      "slug": "daga_del_dolor",
+      "name": "daga del dolor",
+      "rarity": "2",
+      "race": "0",
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Exhumar (Puedes jugarla desde tu Cementerio pagando su coste. Si es un Talismán, Destiérralo).\nCuando entra en juego, Roba dos cartas.\n\nPuedes Destruir al portador de este Arma para que tu oponente elija entre Desterrar las tres primeras cartas de su Castillo o que Descarte una carta de su mano.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9926",
+      "edid": "028",
+      "slug": "sentencia_del_principe",
+      "name": "sentencia del principe",
+      "rarity": "6",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Cada jugador Destruye un Aliado que controle. Si controlas uno o más Príncipe, en vez de eso sólo tu oponente Destruye uno de sus Aliados.\n\nRecupera el control de todas las cartas de las que seas dueño. Por cada carta recuperada de esta manera, tu oponente Bota dos cartas.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9927",
+      "edid": "029",
+      "slug": "viejo_montesco",
+      "name": "viejo montesco",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "4",
+      "ability": "Oscuridad.\nEn tu Vigilia, puedes Barajar hasta dos Aliados de tu Cementerio en tu Castillo. Luego, Roba dos cartas\n\nCuando tu oponente fuera a Barajar una o más cartas, tu oponente Bota dos cartas. Si controlas a Romeo, en vez de eso tu oponente Bota cuatro cartas.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "9928",
+      "edid": "030",
+      "slug": "amantes_eternos",
+      "name": "amantes eternos",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oro Inicial.\nSi está en tu Reserva y controlas a Romeo y Julieta, tus Aliados ganan 1 de Fuerza.\n\nSi un Aliado Luz que controles fuera a ser Destruido, puedes poner una carta de tu mano en el fondo de tu Castillo para prevenirlo.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "10163",
+      "edid": "061",
+      "slug": "romeo_y_julieta",
+      "name": "romeo y julieta",
+      "rarity": "2",
+      "race": null,
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Errante. \nEntra en juego como un Aliado de Raza a tu elección y pon la última carta de tu Castillo en tu mano. \nPuedes Barajarlo para Anular un Talismán o cancelar una habilidad.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    },
+    {
+      "id": "11425",
+      "edid": "062",
+      "slug": "mascarada",
+      "name": "mascarada",
+      "rarity": "0",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "0",
+      "damage": null,
+      "ability": "Única. \nCuando lo juegues, Destiérralo. \nBusca una carta en tu Castillo y ponla debajo de un Aliado que controles, boca abajo. Puedes jugar esa carta como si estuviera en tu mano, excepto el turno que jugaste este Talismán.",
+      "flavour": null,
+      "ed_edid": "54",
+      "ed_slug": "tinta_inmortal_romeo_y_julieta"
+    }
+  ]
+}

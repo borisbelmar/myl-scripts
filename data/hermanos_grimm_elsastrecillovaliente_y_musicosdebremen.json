@@ -1,0 +1,989 @@
+{
+  "status": "OK",
+  "code": 200,
+  "races": [
+    {
+      "id": "0",
+      "slug": "noraza",
+      "name": "Sin Raza"
+    },
+    {
+      "id": "1",
+      "slug": "caballero",
+      "name": "Caballero"
+    },
+    {
+      "id": "2",
+      "slug": "bestia",
+      "name": "Bestia"
+    },
+    {
+      "id": "3",
+      "slug": "eterno",
+      "name": "Eterno"
+    },
+    {
+      "id": "4",
+      "slug": "guerrero",
+      "name": "Guerrero"
+    },
+    {
+      "id": "5",
+      "slug": "barbaro",
+      "name": "Bárbaro"
+    },
+    {
+      "id": "6",
+      "slug": "faerie",
+      "name": "Faerie"
+    },
+    {
+      "id": "7",
+      "slug": "samurai",
+      "name": "Samurái"
+    },
+    {
+      "id": "8",
+      "slug": "sombra",
+      "name": "Sombra"
+    },
+    {
+      "id": "9",
+      "slug": "ancestral",
+      "name": "Ancestral"
+    },
+    {
+      "id": "10",
+      "slug": "sacerdote",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "11",
+      "slug": "dragon",
+      "name": "Dragón"
+    },
+    {
+      "id": "12",
+      "slug": "heroe",
+      "name": "Héroe"
+    },
+    {
+      "id": "13",
+      "slug": "oni",
+      "name": "Oni"
+    },
+    {
+      "id": "14",
+      "slug": "olimpico",
+      "name": "Olímpico"
+    },
+    {
+      "id": "15",
+      "slug": "titan",
+      "name": "Titán"
+    },
+    {
+      "id": "16",
+      "slug": "faraon",
+      "name": "Faraón"
+    },
+    {
+      "id": "17",
+      "slug": "desafiante",
+      "name": "Desafiante"
+    },
+    {
+      "id": "18",
+      "slug": "defensor",
+      "name": "Defensor"
+    },
+    {
+      "id": "19",
+      "slug": "licantropo",
+      "name": "Licántropo"
+    },
+    {
+      "id": "20",
+      "slug": "vampiro",
+      "name": "Vampiro"
+    },
+    {
+      "id": "21",
+      "slug": "cazador",
+      "name": "Cazador"
+    },
+    {
+      "id": "22",
+      "slug": "chaman",
+      "name": "Chamán"
+    },
+    {
+      "id": "23",
+      "slug": "dios",
+      "name": "Dios"
+    },
+    {
+      "id": "24",
+      "slug": "abominacion",
+      "name": "Abominación"
+    },
+    {
+      "id": "25",
+      "slug": "kami",
+      "name": "Kami"
+    },
+    {
+      "id": "26",
+      "slug": "xian",
+      "name": "Xian"
+    },
+    {
+      "id": "27",
+      "slug": "criaturas",
+      "name": "Criaturas"
+    },
+    {
+      "id": "28",
+      "slug": "campeon/shaolin",
+      "name": "Campeón / Shaolín"
+    },
+    {
+      "id": "29",
+      "slug": "campeon/ninja",
+      "name": "Campeón / Ninja"
+    },
+    {
+      "id": "30",
+      "slug": "campeon/samurai",
+      "name": "Campeón / Samurái"
+    },
+    {
+      "id": "31",
+      "slug": "campeon",
+      "name": "Campeón"
+    },
+    {
+      "id": "32",
+      "slug": "heroe/sacerdote",
+      "name": "Héroe/Sacerdote"
+    },
+    {
+      "id": "33",
+      "slug": "eterno/sombra",
+      "name": "Eterno/Sombra"
+    },
+    {
+      "id": "34",
+      "slug": "caballero/guerrero",
+      "name": "Caballero/Guerrero"
+    },
+    {
+      "id": "35",
+      "slug": "bestia/guerrero",
+      "name": "Bestia/Guerrero"
+    },
+    {
+      "id": "36",
+      "slug": "caballero/heroe",
+      "name": "Caballero/Héroe"
+    },
+    {
+      "id": "37",
+      "slug": "dragon/eterno",
+      "name": "Dragón/Eterno"
+    },
+    {
+      "id": "38",
+      "slug": "eterno/faerie",
+      "name": "Eterno/Faerie"
+    },
+    {
+      "id": "39",
+      "slug": "paladin",
+      "name": "Paladín"
+    },
+    {
+      "id": "40",
+      "slug": "asesino",
+      "name": "Asesino"
+    },
+    {
+      "id": "41",
+      "slug": "tenebris",
+      "name": "Tenebris"
+    }
+  ],
+  "rarities": [
+    {
+      "id": "0",
+      "slug": "promo",
+      "name": "Promocional"
+    },
+    {
+      "id": "1",
+      "slug": "legendaria",
+      "name": "Legendaria"
+    },
+    {
+      "id": "2",
+      "slug": "ultra-real",
+      "name": "Ultra Real"
+    },
+    {
+      "id": "3",
+      "slug": "mega-real",
+      "name": "Mega Real"
+    },
+    {
+      "id": "4",
+      "slug": "real",
+      "name": "Real"
+    },
+    {
+      "id": "5",
+      "slug": "cortesano",
+      "name": "Cortesano"
+    },
+    {
+      "id": "6",
+      "slug": "vasallo",
+      "name": "Vasallo"
+    },
+    {
+      "id": "7",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "8",
+      "slug": "milenaria",
+      "name": "Milenaria"
+    },
+    {
+      "id": "9",
+      "slug": "secreta",
+      "name": "Secreta"
+    },
+    {
+      "id": "10",
+      "slug": "ficha",
+      "name": "Ficha"
+    },
+    {
+      "id": "11",
+      "slug": "set_paralelo",
+      "name": "Set Paralelo"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "slug": "aliado",
+      "name": "Aliado"
+    },
+    {
+      "id": "2",
+      "slug": "talisman",
+      "name": "Talismán"
+    },
+    {
+      "id": "3",
+      "slug": "arma",
+      "name": "Arma"
+    },
+    {
+      "id": "4",
+      "slug": "totem",
+      "name": "Tótem"
+    },
+    {
+      "id": "5",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "6",
+      "slug": "monumento",
+      "name": "Monumento"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "1",
+      "flag": "1",
+      "slug": "unica",
+      "title": "Única",
+      "alt_title": "Única.",
+      "definition": "Solo puedes tener 1 copia en tu mazo."
+    },
+    {
+      "id": "2",
+      "flag": "2",
+      "slug": "imbloqueable",
+      "title": "Imbloqueable",
+      "alt_title": "Imbloqueables",
+      "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+    },
+    {
+      "id": "3",
+      "flag": "4",
+      "slug": "indesterrable",
+      "title": "Indesterrable",
+      "alt_title": "Indesterrables",
+      "definition": "No puede ser desterrada."
+    },
+    {
+      "id": "4",
+      "flag": "8",
+      "slug": "indestructible",
+      "title": "Indestructible",
+      "alt_title": "Indestructibles",
+      "definition": "Esta carta no puede ser destruida."
+    },
+    {
+      "id": "5",
+      "flag": "16",
+      "slug": "luz",
+      "title": "Luz",
+      "alt_title": "",
+      "definition": "Carta tipo Luz"
+    },
+    {
+      "id": "6",
+      "flag": "32",
+      "slug": "oscuridad",
+      "title": "Oscuridad",
+      "alt_title": "",
+      "definition": "Carta tipo Oscuridad"
+    },
+    {
+      "id": "7",
+      "flag": "64",
+      "slug": "furia",
+      "title": "Furia",
+      "alt_title": "",
+      "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+    },
+    {
+      "id": "8",
+      "flag": "128",
+      "slug": "inmunidad",
+      "title": "Inmunidad",
+      "alt_title": "",
+      "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+    },
+    {
+      "id": "9",
+      "flag": "256",
+      "slug": "alimentar",
+      "title": "Alimentar",
+      "alt_title": "Alimento,Alimenta,Alimentado",
+      "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+    },
+    {
+      "id": "10",
+      "flag": "512",
+      "slug": "purificar",
+      "title": "Purificar",
+      "alt_title": "Purifica,Purificadas",
+      "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+    },
+    {
+      "id": "11",
+      "flag": "1024",
+      "slug": "retador",
+      "title": "Retador",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+    },
+    {
+      "id": "12",
+      "flag": "2048",
+      "slug": "ilusion",
+      "title": "Ilusión",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+    },
+    {
+      "id": "13",
+      "flag": "4096",
+      "slug": "espectral",
+      "title": "Espectral",
+      "alt_title": "",
+      "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+    },
+    {
+      "id": "14",
+      "flag": "8192",
+      "slug": "honor",
+      "title": "Honor",
+      "alt_title": "",
+      "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+    },
+    {
+      "id": "15",
+      "flag": "16384",
+      "slug": "errante",
+      "title": "Errante",
+      "alt_title": "",
+      "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+    },
+    {
+      "id": "16",
+      "flag": "32768",
+      "slug": "exhumar",
+      "title": "Exhumar",
+      "alt_title": "",
+      "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+    },
+    {
+      "id": "17",
+      "flag": "65536",
+      "slug": "mercenario",
+      "title": "Mercenario",
+      "alt_title": "",
+      "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+    },
+    {
+      "id": "18",
+      "flag": "131072",
+      "slug": "que-controles",
+      "title": "que controles",
+      "alt_title": "que controle",
+      "definition": "Cuando la carta se encuentre en tu area de juego."
+    },
+    {
+      "id": "19",
+      "flag": "262144",
+      "slug": "destruir",
+      "title": "Destruir",
+      "alt_title": "´Destruye",
+      "definition": "Enviar al Cementerio."
+    }
+  ],
+  "edition": {
+    "id": "55",
+    "order": "39",
+    "slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen",
+    "title": "Hermanos Grimm El Sastrecillo Valiente y Los Músicos de Bremen",
+    "image": "https://api.myl.cl/static/hermanos_grimm.png",
+    "date_release": "2021-09-14",
+    "date_empire_valid": "2023-09-14",
+    "custom_bg": "https://tor.myl.cl/static/torbg6.jpg",
+    "flags": "9"
+  },
+  "cards": [
+    {
+      "id": "9929",
+      "edid": "001",
+      "slug": "burro_viajero",
+      "name": "burro viajero",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Luz. Furia (Puede atacar cuando entra en juego).\nCuando entra en juego, busca un Perro en tu Castillo o Cementerio y ponlo en tu mano.\nPuedes Descartar un Aliado Bestia Luz para que un Aliado gane 3 de Fuerza por el turno.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9930",
+      "edid": "002",
+      "slug": "perro_cazador",
+      "name": "perro cazador",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Luz. Furia (Puede atacar cuando entra en juego).\nCuando entra en juego, busca un Gato en tu Castillo o Cementerio y ponlo en tu mano.\nPuedes Barajar un Aliado Bestia Luz que controles o de tu mano, para Destruir un Aliado de coste 1 o menos.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9931",
+      "edid": "003",
+      "slug": "gato_cantante",
+      "name": "gato cantante",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Luz. Furia (Puede atacar cuando entra en juego).\nCuando entra en juego, busca un Gallo en tu Castillo o Cementerio y ponlo en tu mano.\nEn tu Vigilia, si controlas 2 o más Aliados Bestia Luz, puedes Barajar un Aliado Bestia Luz que controles o de tu mano para Robar dos cartas.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9932",
+      "edid": "004",
+      "slug": "gallo_trovador",
+      "name": "gallo trovador",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Luz. Furia (Puede atacar cuando entra en juego).\nCuando entra en juego, busca un Burro en tu Castillo o Cementerio y ponlo en tu mano.\nSi controlas dos o más Aliados Bestia Luz, puedes Barajar dos cartas de tu Cementerio en tu Castillo. Luego, puedes Robar una carta.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9933",
+      "edid": "005",
+      "slug": "viaje_a_bremen",
+      "name": "viaje a bremen",
+      "rarity": "5",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Busca en tu Castillo un Aliado Bestia Luz de coste 2 o menos y ponlo en tu mano. Luego, Roba una carta.\nSi controlas menos Aliados que tu oponente, en vez de ponerlo en tu mano, puedes pagar un Oro y ponerlo en juego bajo tu control.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9934",
+      "edid": "006",
+      "slug": "bremen",
+      "name": "bremen",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oro Inicial.\nSi sólo controlas Aliados Bestia Luz, puedes pagar este Oro para subir un Aliado de tu Cementerio a tu mano.\nSi está en tu Reserva, cuando fueras a Barajar una o más cartas de tu Cementerio a tu Castillo, puedes Barajar una carta adicional.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9935",
+      "edid": "007",
+      "slug": "bandidos_de_bremen",
+      "name": "bandidos de bremen",
+      "rarity": "6",
+      "race": "5",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Oscuridad. Furia (Puede atacar cuando entra en juego).\nSi controlas menos Oros que tu oponente, gana 2 de Fuerza.\nEn tu Fase final, si este Aliado hizo daño al Castillo oponente, puedes buscar un Bandido en tu Castillo y ponerlo en tu mano.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9936",
+      "edid": "008",
+      "slug": "guarida_de_los_bandidos",
+      "name": "guarida de los bandidos",
+      "rarity": "5",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oscuridad. \nEn tu Fase Final, si controlas dos o más Bandidos, tu oponente Descarta una carta.\nCuando entra en juego, puedes mirar las primeras tres cartas de tu Castillo. Pon una carta Oscuridad en tu mano y el resto en el fondo de tu Castillo.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9937",
+      "edid": "009",
+      "slug": "fantasma_cantante",
+      "name": "fantasma cantante",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Luz. Furia (Puede atacar cuando entra en juego).\nCuando entra en juego, Baraja una carta en juego que no sea Oro. Luego, Roba una carta y Descarta una carta.\nEn tu Vigilia, elige hasta dos Aliados oponentes para que no puedan Atacar ni Bloquear hasta tu próximo turno.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9938",
+      "edid": "010",
+      "slug": "festin_del_triunfo",
+      "name": "festin del triunfo",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Los Aliados que controles ganan 1 de Fuerza por el turno.\nBusca dos cartas en el Castillo oponente y Destiérralas.\nElige hasta dos Aliados que controles para que hagan el doble de daño este turno.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9939",
+      "edid": "011",
+      "slug": "dulce_descanso",
+      "name": "dulce descanso",
+      "rarity": "6",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Baraja hasta una carta de tu Cementerio por cada Aliado que controles.\nDestierra hasta tres cartas del Cementerio oponente. Luego, Roba una carta.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9940",
+      "edid": "012",
+      "slug": "volver_a_la_guarida",
+      "name": "volver a la guarida",
+      "rarity": "4",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Roba hasta una carta por cada Oro Pagado que controles.\nBaraja hasta dos Aliados en juego o juega un Tótem de coste 3 o menos de tu Cementerio, sin pagar su coste.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9941",
+      "edid": "013",
+      "slug": "bandidos_derrotados",
+      "name": "bandidos derrotados",
+      "rarity": "6",
+      "race": "5",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "4",
+      "ability": "Oscuridad. Furia (Puede atacar cuando entra en juego).\nPierde 1 de Fuerza por cada Aliado en la Línea de Ataque oponente.\nSi ataca y controlas menos Oros que tu oponente, puedes Robar una carta. Luego, Descarta una carta.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9942",
+      "edid": "014",
+      "slug": "refugio_de_bremen",
+      "name": "refugio de bremen",
+      "rarity": "5",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Luz. \nEn tu Fase Final, si controlas dos o más Aliados Bestia Luz, Baraja una carta de tu Cementerio en tu Castillo.\nCuando entra en juego, puedes mirar las primeras tres cartas de tu Castillo. Pon una carta Luz en tu mano y el resto en el fondo de tu Castillo.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9943",
+      "edid": "015",
+      "slug": "banda_eterna",
+      "name": "banda eterna",
+      "rarity": "2",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Luz.\nEn tu Vigilia, puedes mostrar la primera o última carta de tu Castillo. Si es una carta Luz, puedes ponerla en tu mano.\nSi está en tu Reserva y controlas dos o más Aliados Bestia Luz, los Aliados oponentes de coste par pierden su habilidad y los Aliados oponentes de coste impar pierden 1 de Fuerza.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9944",
+      "edid": "016",
+      "slug": "sastrecillo_valiente",
+      "name": "sastrecillo valiente",
+      "rarity": "4",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Luz. Imbloqueable (Este Aliado no puede ser Bloqueado).\nCuando entra en juego o cuanto ataca, elige hasta dos Aliados para que ganen o pierdan 2 de Fuerza por el turno.\nLos Aliados oponentes con Fuerza menor a este Aliado pierden su habilidad.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9945",
+      "edid": "017",
+      "slug": "dulce_mermelada",
+      "name": "dulce mermelada",
+      "rarity": "2",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Luz. Errante (Sólo puedes controlar una copia de esta carta).\nCuando entra en juego, busca un Oro en tu Castillo y ponlo en tu mano.\nEn tu Fase Final, puedes Barajar una carta de tu mano para Agrupar otro Oro que controles.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9946",
+      "edid": "018",
+      "slug": "siete_de_golpe",
+      "name": "siete de golpe",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "7",
+      "damage": null,
+      "ability": "Reduce su coste en un Oro por cada carta en tu mano.\nDestruye un Aliado y mira las primeras cinco cartas de tu Castillo. Pon tres cartas en tu mano y Baraja el resto.\nSi controlas el Sastrecillo Valiente, en vez de poner una de esas cartas en tu mano, puedes ponerla en juego.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9947",
+      "edid": "019",
+      "slug": "condecoracion_de_triunfo",
+      "name": "condecoracion de triunfo",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Si está en tu Reserva, los Aliados Atacantes ganan 1 de Fuerza.\nPuedes Descartar esta carta de tu mano para que un Aliado gane 3 de Fuerza y sea Indestructible por el turno.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9948",
+      "edid": "020",
+      "slug": "viaje_de_valentia",
+      "name": "viaje de valentia",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oro Inicial.\nSi sólo controlas Aliados Luz, puedes mirar la primera carta de tu Castillo en cualquier momento.\nPuedes pagar este Oro para Robar una carta. Luego, pon una carta de tu mano en el fondo de tu Castillo.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9949",
+      "edid": "021",
+      "slug": "gigante_salvaje",
+      "name": "gigante salvaje",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad. Furia (Puede atacar cuando entra en juego).\nCuando entra en juego, puedes buscar un Aliado Salvaje en tu Castillo o Cementerio y ponerlo en tu mano.\nEn tu Fase Final, cada jugador que controle tres o menos Oros, Bota tres cartas.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9950",
+      "edid": "022",
+      "slug": "hogar_del_gigante",
+      "name": "hogar del gigante",
+      "rarity": "5",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oscuridad.\nSi está en tu Reserva, tus Aliados Salvaje ganan 1 de Fuerza cuando atacan.\nPuedes pagar este Oro para que un Aliado que controles sea Indestructible hasta tu próximo turno.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9951",
+      "edid": "023",
+      "slug": "mazazo",
+      "name": "mazazo",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "0",
+      "damage": null,
+      "ability": "Destruye un Aliado oponente de coste 1 o menos.\nCuando se resuelva, puedes Botar una carta y repetir este efecto. \nEn tu Fase Final, si está en tu Cementerio y todos los Aliados que controlas son de la misma Raza, tu oponente Bota dos cartas.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9952",
+      "edid": "024",
+      "slug": "asustando_al_gigante",
+      "name": "asustando al gigante",
+      "rarity": "5",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Los Aliados oponentes pierden 3 de Fuerza por el turno.\nBaraja todos los Aliados en juego con Fuerza 0.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9953",
+      "edid": "025",
+      "slug": "llegada_al_reino",
+      "name": "llegada al reino",
+      "rarity": "6",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Busca un Aliado Luz o Héroe de coste 2 o menos en tu Castillo y ponlo en tu mano.\nSi buscaste a el Sastrecillo Valiente, puedes ponerlo en juego bajo tu control.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9954",
+      "edid": "026",
+      "slug": "pruebas_del_rey",
+      "name": "pruebas del rey",
+      "rarity": "4",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Roba una carta y pon la última carta de tu Castillo en tu mano. Luego, si tu oponente controla tres o más Aliados, puedes Barajar un Aliado oponente.\nSi hay cinco o más Aliados en juego, tus Aliados ganan 2 de Fuerza y son Imbloqueables por el turno.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9955",
+      "edid": "027",
+      "slug": "salvajes_gigantescos",
+      "name": "salvajes gigantescos",
+      "rarity": "5",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "5",
+      "ability": "Oscuridad. Furia (Puede atacar cuando entra en juego).\nCuando entra o sale del juego, sube otro Aliado Salvaje de tu Cementerio a tu mano.\nEn tu Fase Final, cada jugador que controle dos o más Aliados Destruye un Aliado que controle.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9956",
+      "edid": "028",
+      "slug": "unicornio_salvaje",
+      "name": "unicornio salvaje",
+      "rarity": "6",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Luz. Furia (Puede atacar cuando entra en juego).\nCuando ataca, tu oponente Bota una carta por cada Aliado Salvaje que controles.\nEn la Fase Final, cada jugador que tenga seis o más cartas en su mano Descarta una carta.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9957",
+      "edid": "029",
+      "slug": "gran_jabali_salvaje",
+      "name": "gran jabali salvaje",
+      "rarity": "6",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "4",
+      "ability": "Oscuridad. Furia. \nCuando entra en juego, puedes jugar otro Aliado Salvaje de tu Cementerio sin pagar su coste.\nCuando ataca, Destruye el Aliado con menor Fuerza en juego.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "9958",
+      "edid": "030",
+      "slug": "recompensa_del_rey",
+      "name": "recompensa del rey",
+      "rarity": "4",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Destruye hasta dos Aliados oponentes de Fuerza igual o menor a la del Aliado con mayor Fuerza que controles.\nEn tu Fase Final, por cada Aliado Destruido este turno puedes elegir entre Barajar una carta de tu Cementerio en tu Castillo o Robar una carta.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "10202",
+      "edid": "063",
+      "slug": "princesa_orgullosa",
+      "name": "princesa orgullosa",
+      "rarity": "2",
+      "race": null,
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Entra en juego con una Raza a tu elección. Cuando entra en juego, puedes Barajar una carta en juego que no sea Oro y muestra cartas de tu Castillo hasta mostrar un Aliado. Pon ese Aliado en tu mano y Baraja el resto.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    },
+    {
+      "id": "11422",
+      "edid": "062",
+      "slug": "descubriendo_la_musica",
+      "name": "descubriendo la musica",
+      "rarity": "0",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Anular este Talismán cuesta un Oro adicional. \nTu oponente elige hasta dos cartas que controle que no sean Oro y Baraja el resto. \nPuedes Desterrarlo de tu Cementerio para subir una carta, que no sea Oro, al azar de tu Cementerio a tu mano.",
+      "flavour": null,
+      "ed_edid": "55",
+      "ed_slug": "hermanos_grimm_elsastrecillovaliente_y_musicosdebremen"
+    }
+  ]
+}

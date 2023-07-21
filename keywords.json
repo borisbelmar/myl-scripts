@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1",
+    "flag": "1",
+    "slug": "unica",
+    "title": "Única",
+    "alt_title": "Única.",
+    "definition": "Solo puedes tener 1 copia en tu mazo."
+  },
+  {
+    "id": "2",
+    "flag": "2",
+    "slug": "imbloqueable",
+    "title": "Imbloqueable",
+    "alt_title": "Imbloqueables",
+    "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+  },
+  {
+    "id": "3",
+    "flag": "4",
+    "slug": "indesterrable",
+    "title": "Indesterrable",
+    "alt_title": "Indesterrables",
+    "definition": "No puede ser desterrada."
+  },
+  {
+    "id": "4",
+    "flag": "8",
+    "slug": "indestructible",
+    "title": "Indestructible",
+    "alt_title": "Indestructibles",
+    "definition": "Esta carta no puede ser destruida."
+  },
+  {
+    "id": "5",
+    "flag": "16",
+    "slug": "luz",
+    "title": "Luz",
+    "alt_title": "",
+    "definition": "Carta tipo Luz"
+  },
+  {
+    "id": "6",
+    "flag": "32",
+    "slug": "oscuridad",
+    "title": "Oscuridad",
+    "alt_title": "",
+    "definition": "Carta tipo Oscuridad"
+  },
+  {
+    "id": "7",
+    "flag": "64",
+    "slug": "furia",
+    "title": "Furia",
+    "alt_title": "",
+    "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+  },
+  {
+    "id": "8",
+    "flag": "128",
+    "slug": "inmunidad",
+    "title": "Inmunidad",
+    "alt_title": "",
+    "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+  },
+  {
+    "id": "9",
+    "flag": "256",
+    "slug": "alimentar",
+    "title": "Alimentar",
+    "alt_title": "Alimento,Alimenta,Alimentado",
+    "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+  },
+  {
+    "id": "10",
+    "flag": "512",
+    "slug": "purificar",
+    "title": "Purificar",
+    "alt_title": "Purifica,Purificadas",
+    "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+  },
+  {
+    "id": "11",
+    "flag": "1024",
+    "slug": "retador",
+    "title": "Retador",
+    "alt_title": "",
+    "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+  },
+  {
+    "id": "12",
+    "flag": "2048",
+    "slug": "ilusion",
+    "title": "Ilusión",
+    "alt_title": "",
+    "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+  },
+  {
+    "id": "13",
+    "flag": "4096",
+    "slug": "espectral",
+    "title": "Espectral",
+    "alt_title": "",
+    "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+  },
+  {
+    "id": "14",
+    "flag": "8192",
+    "slug": "honor",
+    "title": "Honor",
+    "alt_title": "",
+    "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+  },
+  {
+    "id": "15",
+    "flag": "16384",
+    "slug": "errante",
+    "title": "Errante",
+    "alt_title": "",
+    "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+  },
+  {
+    "id": "16",
+    "flag": "32768",
+    "slug": "exhumar",
+    "title": "Exhumar",
+    "alt_title": "",
+    "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+  },
+  {
+    "id": "17",
+    "flag": "65536",
+    "slug": "mercenario",
+    "title": "Mercenario",
+    "alt_title": "",
+    "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+  },
+  {
+    "id": "18",
+    "flag": "131072",
+    "slug": "que-controles",
+    "title": "que controles",
+    "alt_title": "que controle",
+    "definition": "Cuando la carta se encuentre en tu area de juego."
+  },
+  {
+    "id": "19",
+    "flag": "262144",
+    "slug": "destruir",
+    "title": "Destruir",
+    "alt_title": "Destruye",
+    "definition": "Enviar al Cementerio."
+  }
+]

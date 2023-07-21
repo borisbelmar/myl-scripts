@@ -1,0 +1,1453 @@
+{
+  "status": "OK",
+  "code": 200,
+  "races": [
+    {
+      "id": "0",
+      "slug": "noraza",
+      "name": "Sin Raza"
+    },
+    {
+      "id": "1",
+      "slug": "caballero",
+      "name": "Caballero"
+    },
+    {
+      "id": "2",
+      "slug": "bestia",
+      "name": "Bestia"
+    },
+    {
+      "id": "3",
+      "slug": "eterno",
+      "name": "Eterno"
+    },
+    {
+      "id": "4",
+      "slug": "guerrero",
+      "name": "Guerrero"
+    },
+    {
+      "id": "5",
+      "slug": "barbaro",
+      "name": "Bárbaro"
+    },
+    {
+      "id": "6",
+      "slug": "faerie",
+      "name": "Faerie"
+    },
+    {
+      "id": "7",
+      "slug": "samurai",
+      "name": "Samurái"
+    },
+    {
+      "id": "8",
+      "slug": "sombra",
+      "name": "Sombra"
+    },
+    {
+      "id": "9",
+      "slug": "ancestral",
+      "name": "Ancestral"
+    },
+    {
+      "id": "10",
+      "slug": "sacerdote",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "11",
+      "slug": "dragon",
+      "name": "Dragón"
+    },
+    {
+      "id": "12",
+      "slug": "heroe",
+      "name": "Héroe"
+    },
+    {
+      "id": "13",
+      "slug": "oni",
+      "name": "Oni"
+    },
+    {
+      "id": "14",
+      "slug": "olimpico",
+      "name": "Olímpico"
+    },
+    {
+      "id": "15",
+      "slug": "titan",
+      "name": "Titán"
+    },
+    {
+      "id": "16",
+      "slug": "faraon",
+      "name": "Faraón"
+    },
+    {
+      "id": "17",
+      "slug": "desafiante",
+      "name": "Desafiante"
+    },
+    {
+      "id": "18",
+      "slug": "defensor",
+      "name": "Defensor"
+    },
+    {
+      "id": "19",
+      "slug": "licantropo",
+      "name": "Licántropo"
+    },
+    {
+      "id": "20",
+      "slug": "vampiro",
+      "name": "Vampiro"
+    },
+    {
+      "id": "21",
+      "slug": "cazador",
+      "name": "Cazador"
+    },
+    {
+      "id": "22",
+      "slug": "chaman",
+      "name": "Chamán"
+    },
+    {
+      "id": "23",
+      "slug": "dios",
+      "name": "Dios"
+    },
+    {
+      "id": "24",
+      "slug": "abominacion",
+      "name": "Abominación"
+    },
+    {
+      "id": "25",
+      "slug": "kami",
+      "name": "Kami"
+    },
+    {
+      "id": "26",
+      "slug": "xian",
+      "name": "Xian"
+    },
+    {
+      "id": "27",
+      "slug": "criaturas",
+      "name": "Criaturas"
+    },
+    {
+      "id": "28",
+      "slug": "campeon/shaolin",
+      "name": "Campeón / Shaolín"
+    },
+    {
+      "id": "29",
+      "slug": "campeon/ninja",
+      "name": "Campeón / Ninja"
+    },
+    {
+      "id": "30",
+      "slug": "campeon/samurai",
+      "name": "Campeón / Samurái"
+    },
+    {
+      "id": "31",
+      "slug": "campeon",
+      "name": "Campeón"
+    },
+    {
+      "id": "32",
+      "slug": "heroe/sacerdote",
+      "name": "Héroe/Sacerdote"
+    },
+    {
+      "id": "33",
+      "slug": "eterno/sombra",
+      "name": "Eterno/Sombra"
+    },
+    {
+      "id": "34",
+      "slug": "caballero/guerrero",
+      "name": "Caballero/Guerrero"
+    },
+    {
+      "id": "35",
+      "slug": "bestia/guerrero",
+      "name": "Bestia/Guerrero"
+    },
+    {
+      "id": "36",
+      "slug": "caballero/heroe",
+      "name": "Caballero/Héroe"
+    },
+    {
+      "id": "37",
+      "slug": "dragon/eterno",
+      "name": "Dragón/Eterno"
+    },
+    {
+      "id": "38",
+      "slug": "eterno/faerie",
+      "name": "Eterno/Faerie"
+    },
+    {
+      "id": "39",
+      "slug": "paladin",
+      "name": "Paladín"
+    },
+    {
+      "id": "40",
+      "slug": "asesino",
+      "name": "Asesino"
+    },
+    {
+      "id": "41",
+      "slug": "tenebris",
+      "name": "Tenebris"
+    }
+  ],
+  "rarities": [
+    {
+      "id": "0",
+      "slug": "promo",
+      "name": "Promocional"
+    },
+    {
+      "id": "1",
+      "slug": "legendaria",
+      "name": "Legendaria"
+    },
+    {
+      "id": "2",
+      "slug": "ultra-real",
+      "name": "Ultra Real"
+    },
+    {
+      "id": "3",
+      "slug": "mega-real",
+      "name": "Mega Real"
+    },
+    {
+      "id": "4",
+      "slug": "real",
+      "name": "Real"
+    },
+    {
+      "id": "5",
+      "slug": "cortesano",
+      "name": "Cortesano"
+    },
+    {
+      "id": "6",
+      "slug": "vasallo",
+      "name": "Vasallo"
+    },
+    {
+      "id": "7",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "8",
+      "slug": "milenaria",
+      "name": "Milenaria"
+    },
+    {
+      "id": "9",
+      "slug": "secreta",
+      "name": "Secreta"
+    },
+    {
+      "id": "10",
+      "slug": "ficha",
+      "name": "Ficha"
+    },
+    {
+      "id": "11",
+      "slug": "set_paralelo",
+      "name": "Set Paralelo"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "slug": "aliado",
+      "name": "Aliado"
+    },
+    {
+      "id": "2",
+      "slug": "talisman",
+      "name": "Talismán"
+    },
+    {
+      "id": "3",
+      "slug": "arma",
+      "name": "Arma"
+    },
+    {
+      "id": "4",
+      "slug": "totem",
+      "name": "Tótem"
+    },
+    {
+      "id": "5",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "6",
+      "slug": "monumento",
+      "name": "Monumento"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "1",
+      "flag": "1",
+      "slug": "unica",
+      "title": "Única",
+      "alt_title": "Única.",
+      "definition": "Solo puedes tener 1 copia en tu mazo."
+    },
+    {
+      "id": "2",
+      "flag": "2",
+      "slug": "imbloqueable",
+      "title": "Imbloqueable",
+      "alt_title": "Imbloqueables",
+      "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+    },
+    {
+      "id": "3",
+      "flag": "4",
+      "slug": "indesterrable",
+      "title": "Indesterrable",
+      "alt_title": "Indesterrables",
+      "definition": "No puede ser desterrada."
+    },
+    {
+      "id": "4",
+      "flag": "8",
+      "slug": "indestructible",
+      "title": "Indestructible",
+      "alt_title": "Indestructibles",
+      "definition": "Esta carta no puede ser destruida."
+    },
+    {
+      "id": "5",
+      "flag": "16",
+      "slug": "luz",
+      "title": "Luz",
+      "alt_title": "",
+      "definition": "Carta tipo Luz"
+    },
+    {
+      "id": "6",
+      "flag": "32",
+      "slug": "oscuridad",
+      "title": "Oscuridad",
+      "alt_title": "",
+      "definition": "Carta tipo Oscuridad"
+    },
+    {
+      "id": "7",
+      "flag": "64",
+      "slug": "furia",
+      "title": "Furia",
+      "alt_title": "",
+      "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+    },
+    {
+      "id": "8",
+      "flag": "128",
+      "slug": "inmunidad",
+      "title": "Inmunidad",
+      "alt_title": "",
+      "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+    },
+    {
+      "id": "9",
+      "flag": "256",
+      "slug": "alimentar",
+      "title": "Alimentar",
+      "alt_title": "Alimento,Alimenta,Alimentado",
+      "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+    },
+    {
+      "id": "10",
+      "flag": "512",
+      "slug": "purificar",
+      "title": "Purificar",
+      "alt_title": "Purifica,Purificadas",
+      "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+    },
+    {
+      "id": "11",
+      "flag": "1024",
+      "slug": "retador",
+      "title": "Retador",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+    },
+    {
+      "id": "12",
+      "flag": "2048",
+      "slug": "ilusion",
+      "title": "Ilusión",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+    },
+    {
+      "id": "13",
+      "flag": "4096",
+      "slug": "espectral",
+      "title": "Espectral",
+      "alt_title": "",
+      "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+    },
+    {
+      "id": "14",
+      "flag": "8192",
+      "slug": "honor",
+      "title": "Honor",
+      "alt_title": "",
+      "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+    },
+    {
+      "id": "15",
+      "flag": "16384",
+      "slug": "errante",
+      "title": "Errante",
+      "alt_title": "",
+      "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+    },
+    {
+      "id": "16",
+      "flag": "32768",
+      "slug": "exhumar",
+      "title": "Exhumar",
+      "alt_title": "",
+      "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+    },
+    {
+      "id": "17",
+      "flag": "65536",
+      "slug": "mercenario",
+      "title": "Mercenario",
+      "alt_title": "",
+      "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+    },
+    {
+      "id": "18",
+      "flag": "131072",
+      "slug": "que-controles",
+      "title": "que controles",
+      "alt_title": "que controle",
+      "definition": "Cuando la carta se encuentre en tu area de juego."
+    },
+    {
+      "id": "19",
+      "flag": "262144",
+      "slug": "destruir",
+      "title": "Destruir",
+      "alt_title": "´Destruye",
+      "definition": "Enviar al Cementerio."
+    }
+  ],
+  "edition": {
+    "id": "34",
+    "order": "25",
+    "slug": "terrores-nocturnos",
+    "title": "Terrores Nocturnos",
+    "image": "https://api.myl.cl/static/terrores_nocturnos.png",
+    "date_release": "2019-08-10",
+    "date_empire_valid": "2021-11-10",
+    "custom_bg": "https://tor.myl.cl/static/torbg6.jpg",
+    "flags": "9"
+  },
+  "cards": [
+    {
+      "id": "6784",
+      "edid": "001",
+      "slug": "nyarlathotep",
+      "name": "nyarlathotep",
+      "rarity": "2",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "5",
+      "ability": "Oscuridad. Indestructible.\nCuando entra en juego, si sólo controlas Aliados Oscuridad y/o Sombra, por cada Oro que controles, puedes buscar una carta en un Castillo y Desterrarla.\nUna vez por turno, puedes jugar una carta del Destierro oponente pagando su coste.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6785",
+      "edid": "002",
+      "slug": "dracula",
+      "name": "dracula",
+      "rarity": "2",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "3",
+      "ability": "Oscuridad.\nCuando entra en juego, busca en tu Castillo un Aliado Oscuridad o Sombra, de coste 2 o menos y juégalo sin pagar su coste.\nEn tu Fase de Vigilia, una vez por turno, puedes Desterrar una carta Oscuridad de tu Cementerio para que el oponente objetivo Destierre las primeras tres cartas de su Castillo.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6786",
+      "edid": "003",
+      "slug": "beerwolf",
+      "name": "beerwolf",
+      "rarity": "2",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad. Furia.\nEn tu Fase de Vigilia, puedes quitar un contador de Alimento de un Aliado que controles para poner este Aliado en juego desde tu Cementerio.\nCuando ataca, puedes poner hasta dos contadores de Alimento en otros Aliados Oscuridad o Bestia.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6787",
+      "edid": "004",
+      "slug": "camazotz",
+      "name": "camazotz",
+      "rarity": "2",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "3",
+      "ability": "Única. Exhumar. Inmunidad - Aliados.\nEn tu Fase de Vigilia, una vez por turno, puedes buscar en tu Castillo una Bestia, de coste 2 o menos y jugarla sin pagar su coste. Luego, pon un contador de Alimento en ese Aliado.\nLos demás Aliados con contadores de Alimento que controles no pueden ser Destruidos por Talismanes.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6788",
+      "edid": "005",
+      "slug": "gran-aquelarre",
+      "name": "gran aquelarre",
+      "rarity": "2",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Unica.\nCuando juegues este Talismán, Destiérralo.\nSólo puedes jugar este Talismán desde tu mano y en tu Fase de Vigilia.\nJuega una carta, de coste 2 o menos, del Destierro del oponente objetivo sin pagar su coste.\nNo puedes jugar más cartas por el resto del turno.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6789",
+      "edid": "006",
+      "slug": "bajo-la-cama",
+      "name": "bajo la cama",
+      "rarity": "2",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "No puede ser Anulado.\nCuando juegues este Talismán, Destiérralo.\nDestierra la carta objetivo en juego que no sea Oro sin habilidad. Luego, si todos los Aliados que controlas son de la misma Raza, Roba dos cartas.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6790",
+      "edid": "007",
+      "slug": "ballesta-abismal",
+      "name": "ballesta abismal",
+      "rarity": "2",
+      "race": null,
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "Exhumar.\nEl portador gana 1 de Fuerza.\nCuando el portador haga daño de combate, si todos los Aliados que controlas son de la misma Raza, puedes; Buscar tres cartas en un Castillo y Desterrarlas o Desterrar la carta objetivo en juego de coste 3 o menos.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6791",
+      "edid": "008",
+      "slug": "baston-de-la-noche",
+      "name": "baston de la noche",
+      "rarity": "2",
+      "race": null,
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Exhumar.\nEl portador gana 1 de Fuerza.\nCuando el portador haga daño de combate, si todos los Aliados que controlas son de la misma Raza, puedes; Poner en juego el Aliado objetivo de coste 2 o menos de tu Cementerio o Robar dos cartas.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6792",
+      "edid": "009",
+      "slug": "shezmu",
+      "name": "shezmu",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Cuando entra en juego, si sólo controlas Aliados Sombra o controlas otro Aliado Sombra, gana el control del Aliado oponente objetivo. Ese Aliado gana Furia hasta la Fase Final.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6793",
+      "edid": "010",
+      "slug": "boogeyman",
+      "name": "boogeyman",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Oscuridad. \nDestierra el daño de combate hecho por este Aliado.\nCuando este u otro Aliado Oscuridad o Sombra sea Destruido, puedes buscar una carta en un Castillo y Desterrarla.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6794",
+      "edid": "011",
+      "slug": "sava-el-vampiro",
+      "name": "sava el vampiro",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Oscuridad.\nCuando entra en juego, si sólo controlas Aliados Oscuridad y/o Sombra, busca una carta en el Castillo oponente y Destiérrala. Mientras este Aliado esté en juego, puedes jugar la carta Desterrada.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6795",
+      "edid": "012",
+      "slug": "jinete-sin-cabeza",
+      "name": "jinete sin cabeza",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Oscuridad. Furia.\nCuando haga daño de combate, puedes Desterrar una carta Oscuridad de tu mano para jugar una carta de la Zona de Destierro oponente, del mismo coste, sin pagar su coste.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6796",
+      "edid": "013",
+      "slug": "montesor-el-bufon",
+      "name": "montesor el bufon",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad.\nCuando entra en juego, si sólo controlas Aliados Oscuridad y/o Sombra, puedes Descartar una carta para jugar el Talismán objetivo de la Zona de Destierro oponente sin pagar su coste.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6797",
+      "edid": "014",
+      "slug": "agrat-bat-mahlat",
+      "name": "agrat bat mahlat",
+      "rarity": "4",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Oscuridad.\nUna vez por turno, si sólo controlas Aliados Oscuridad y/o Sombra, este Aliado se convierte en una copia del Aliado objetivo en la Zona de Destierro oponente, hasta la Fase Final.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6798",
+      "edid": "015",
+      "slug": "kraken-antiguo",
+      "name": "kraken antiguo",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Oscuridad. Furia.\nHasta dos veces por turno, cuando otro Aliado Oscuridad o Bestia fuera a salir del juego, puedes Desterrar un Aliado de tu Cementerio para prevenirlo. Luego, pon un contador de Alimento en ese Aliado.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6799",
+      "edid": "016",
+      "slug": "pantera-negra",
+      "name": "pantera negra",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Oscuridad. Furia.\nCuando ataque, si sólo controlas Aliados Oscuridad y/o Bestia, el jugador defensor no puede jugar Talismanes hasta la Fase Final.\nLos Aliados con contadores de Alimento que controles ganan Inmunidad - Talismanes.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6800",
+      "edid": "017",
+      "slug": "cuervo-negro",
+      "name": "cuervo negro",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Oscuridad. Furia.\nCuando haga daño de combate, pon un contador de Alimento en este Aliado.\nPuedes quitar un contador de Alimento de un Aliado que controles para buscar un Aliado Oscuridad o Bestia en tu Castillo y ponerlo en tu Cementerio.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6801",
+      "edid": "018",
+      "slug": "cerdos-calavera",
+      "name": "cerdos calavera",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad. Furia.\nUna vez por turno, puedes Desterrar un Aliado Oscuridad o Bestia de tu Cementerio para buscar una carta del mismo coste en tu Castillo y ponerla en tu mano. Luego, pon un contador de Alimento en este Aliado.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6802",
+      "edid": "019",
+      "slug": "taumafiskur",
+      "name": "taumafiskur",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Oscuridad.\nCuando ataca, hasta tres Aliados Oscuridad y/o Bestia ganan 1 de Fuerza hasta la Fase Final.\nPuedes Desterrar otros tres Aliados Oscuridad y/o Bestia de tu Cementerio para poner este Aliado en juego desde tu Cementerio.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6803",
+      "edid": "020",
+      "slug": "gnoph-keh",
+      "name": "gnoph-keh",
+      "rarity": "4",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Oscuridad. Furia.\nCuando ataques con dos o más Aliados, si sólo controlas Aliados Oscuridad o Bestia, Destruye el Aliado oponente de coste 2 o menos.\nPuedes Desterrar este Aliado de tu Cementerio para poner un contador de Alimento en el Aliado objetivo.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6804",
+      "edid": "021",
+      "slug": "liberar-demonio",
+      "name": "liberar demonio",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "3",
+      "damage": "0",
+      "ability": "Busca en tu Castillo o Cementerio un Aliado Oscuridad o Sombra, de coste 3 o menos y ponlo en juego bajo tu control.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6805",
+      "edid": "022",
+      "slug": "catalepsia",
+      "name": "catalepsia",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "Sólo puedes jugar este Talismán en tu Fase de Vigilia.\nCuando juegues este Talismán, Destiérralo.\nHasta la Fase Final, los Aliados de coste 1 o más en tu Cementerio tienen Exhumar.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6806",
+      "edid": "023",
+      "slug": "maldicion-gitana",
+      "name": "maldicion gitana",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "No puede ser Anulado.\nCuando juegues este Talismán, Destiérralo.\nHasta tu próximo turno, el oponente objetivo no puede Robar cartas por efectos ni jugar cartas que no sean Aliado.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6807",
+      "edid": "024",
+      "slug": "gato-negro",
+      "name": "gato negro",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Mira la mano del oponente objetivo. Puedes elegir Desterrar un Talismán de ahi o convertir este Talismán en un Oro sin habilidad y ponerlo en tu Zona de Oro Pagado.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6808",
+      "edid": "025",
+      "slug": "estilete-negro",
+      "name": "estilete negro",
+      "rarity": "4",
+      "race": null,
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "El portador gana 1 de Fuerza.\nCuando el portador haga daño de combate, puedes buscar una carta en un Castillo y Desterrarla. Luego, Roba una carta.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6809",
+      "edid": "026",
+      "slug": "aguasperdidas",
+      "name": "aguasperdidas",
+      "rarity": "4",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Una vez por turno, puedes Desterrar dos Aliados de tu Cementerio para Robar una carta.\nLos Aliados Oscuridad, Sombra y Bestia ganan 1 de Fuerza.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6810",
+      "edid": "027",
+      "slug": "barril-de-amontillado",
+      "name": "barril de amontillado",
+      "rarity": "4",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Puedes mover este Oro a tu Zona de Oro Pagado y mostrar una carta Oscuridad, Sombra o Bestia de tu mano para buscar dos cartas en un Castillo y Desterrarlas.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6811",
+      "edid": "028",
+      "slug": "grimorio-arcano",
+      "name": "grimorio arcano",
+      "rarity": "4",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "Una vez por turno, cuando un Aliado entre en juego bajo tu control desde un Cementerio, ese Aliado gana 1 de Fuerza y Furia hasta la Fase Final.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6812",
+      "edid": "029",
+      "slug": "nosferatu",
+      "name": "nosferatu",
+      "rarity": "5",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Oscuridad. Inmunidad - Cartas Luz.\nCuando entra en juego o bloquee, si sólo controlas Aliados Oni y/o Sombra, Destruye el Aliado objetivo en la Línea de Defensa oponente.\nAl final de la Fase de Vigilia oponente, el Aliado objetivo pierde su habilidad y debe atacar este turno si puede.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6813",
+      "edid": "030",
+      "slug": "viy",
+      "name": "viy",
+      "rarity": "5",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Oscuridad. Inmunidad - Cartas Luz.\nCuando entra en juego o bloquee, si sólo controlas Aliados Oni y/o Sombra, tu oponente muestra cartas de su Castillo hasta mostrar un Oro. Luego, pon todas las cartas mostradas de esta manera en su Cementerio.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6814",
+      "edid": "031",
+      "slug": "rhan-tegoth",
+      "name": "rhan-tegoth",
+      "rarity": "5",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad. Exhumar.\nUna vez por turno, puedes Destruir otro Aliado que controles para generar un Oro.\nUna vez por turno, si sólo controlas Aliados Oscuridad y/o Sombra, puedes pagar un Oro para buscar una carta en un Castillo y Desterrarla.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6815",
+      "edid": "032",
+      "slug": "roger-bolingbroke",
+      "name": "roger bolingbroke",
+      "rarity": "5",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Oscuridad.\nEn tu Fase de Vigilia, una vez por turno, si hay tres o más cartas en la Zona de Destierro oponente, puedes Subir el Aliado Oscuridad o Sombra objetivo de tu Cementerio a tu mano.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6816",
+      "edid": "033",
+      "slug": "vampiro-gitano",
+      "name": "vampiro gitano",
+      "rarity": "5",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Oscuridad.\nCuando entra en juego, si sólo controlas Aliados Oscuridad y/o Sombra, puedes jugar un Talismán de coste 2 o menos de la Zona de Destierro oponente. Pon ese Talismán en el Cementerio de su dueño.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6817",
+      "edid": "034",
+      "slug": "mr.-hyde",
+      "name": "mr hyde",
+      "rarity": "5",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Oscuridad.\nNo puede ser Anulado.\nCuando entra en juego, puedes Destruir un Aliado oponente objetivo que no sea Oscuridad. Luego, tu oponente Descarta una carta.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6818",
+      "edid": "035",
+      "slug": "gran-gargola",
+      "name": "gran gargola",
+      "rarity": "5",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "3",
+      "ability": "Oscuridad.\nSi es tu turno, las demás Bestias que controles ganan 2 de Fuerza.\nSi no es tu turno, los demás Aliados de coste 2 o menos que controlas pierden su habilidad.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6819",
+      "edid": "036",
+      "slug": "katthveli",
+      "name": "katthveli",
+      "rarity": "5",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad. Furia.\nCuando entra en juego, puedes jugar un Aliado Oscuridad o Bestia de tu Cementerio de coste 2 o menos, que no sea Katthveli, sin pagar su coste.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6820",
+      "edid": "037",
+      "slug": "mi-go",
+      "name": "mi-go",
+      "rarity": "5",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad. Furia.\nCuando un Aliado Oscuridad o Bestia sea Desterrado de tu Cementerio, cada oponente Bota una carta. Luego, pon un contador de Alimento en este Aliado. Puedes utilizar esta habilidad hasta tres veces por turno.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6821",
+      "edid": "038",
+      "slug": "wilbur-whateley",
+      "name": "wilbur whateley",
+      "rarity": "5",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Oscuridad. Furia.\nUna vez por turno, puedes Desterrar un Aliado Oscuridad o Bestia de tu Cementerio para Robar una carta. Luego, pon un contador de Alimento en este Aliado.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6822",
+      "edid": "039",
+      "slug": "salir-del-espejo",
+      "name": "salir del espejo",
+      "rarity": "5",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "Sube el Aliado Oscuridad o Sombra objetivo que controles a la mano de su dueño. Luego, pon un Aliado Oscuridad o Sombra, del mismo o menor coste y con distinto nombre, de tu mano en juego.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6823",
+      "edid": "040",
+      "slug": "poltergeist",
+      "name": "poltergeist",
+      "rarity": "5",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "El oponente objetivo Bota cinco cartas.\nPuedes Desterrar este Talismán y un Guerrero, Bestia o Bárbaro de tu Cementerio para que el oponente objetivo Bote tres cartas.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6824",
+      "edid": "041",
+      "slug": "mortaja-sangrienta",
+      "name": "mortaja sangrienta",
+      "rarity": "5",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "3",
+      "damage": "0",
+      "ability": "Destruye todos los Aliados de coste 2 o menos.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6825",
+      "edid": "042",
+      "slug": "caceria-de-brujas",
+      "name": "caceria de brujas",
+      "rarity": "5",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Mira la mano del oponente objetivo y Descarta todos los Talismanes de ahí.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6826",
+      "edid": "043",
+      "slug": "mosquete-de-charleville",
+      "name": "mosquete de charleville",
+      "rarity": "5",
+      "race": null,
+      "type": "3",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Exhumar.\nEl portador gana 1 de Fuerza por cada carta en la mano del oponente objetivo.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6827",
+      "edid": "044",
+      "slug": "horca",
+      "name": "horca",
+      "rarity": "5",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "2",
+      "damage": "0",
+      "ability": "En tu Fase de Vigilia, una vez por turno, si sólo controlas Aliados Oscuridad, Sombra y/o Bestia, puedes buscar dos cartas con distinto nombre en el Castillo oponente y Desterrarlas. Luego, ese oponente busca una carta en tu Castillo y la Destierra.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6828",
+      "edid": "045",
+      "slug": "zombi",
+      "name": "zombi",
+      "rarity": "6",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Oscuridad. Exhumar. Mercenario.\nEste Aliado gana 1 de Fuerza por cada Aliado Zombi en juego y en las Zonas de Destierro.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6829",
+      "edid": "046",
+      "slug": "llorona",
+      "name": "llorona",
+      "rarity": "6",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "3",
+      "ability": "Oscuridad.\nCuando entra en juego, puedes jugar hasta dos Aliados Oscuridad y/o Sombra, de coste 1 o menos, de tu Cementerio sin pagar su coste.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6830",
+      "edid": "047",
+      "slug": "ghoul",
+      "name": "ghoul",
+      "rarity": "6",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Oscuridad. Exhumar.\nUna vez por turno, puedes Desterrar hasta dos Aliados objetivo del Cementerio del jugador objetivo. Luego, ese jugador Destierra la primera carta de su Castillo por cada Aliado Desterrado de esta manera.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6831",
+      "edid": "048",
+      "slug": "muerte",
+      "name": "muerte",
+      "rarity": "6",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad.\nDestierra el daño de combate hecho por Aliados Oscuridad o Sombra que controles.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6832",
+      "edid": "049",
+      "slug": "sucubo",
+      "name": "sucubo",
+      "rarity": "6",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Oscuridad. Inmunidad - Cartas Luz.\nCuando entra en juego o bloquee, si sólo controlas Aliados Oni y/o Sombra, Destierra hasta tres cartas objetivo de un Cementerio.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6833",
+      "edid": "050",
+      "slug": "hukka",
+      "name": "hukka",
+      "rarity": "6",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Oscuridad. Furia.\nCuando entra en juego, Roba dos cartas. Luego, Descarta dos cartas, un Aliado Oscuridad o Bestia.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6834",
+      "edid": "051",
+      "slug": "thunn-ha",
+      "name": "thunnha",
+      "rarity": "6",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Oscuridad. Furia.\nCuando entra en juego, puedes Desterrar hasta dos Aliados Oscuridad o Bestia de tu Cementerio. Luego, por cada Aliado Desterrado de esta manera, Roba una carta y pon un contador de Alimento en este Aliado.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6835",
+      "edid": "052",
+      "slug": "aranas-de-leng",
+      "name": "araas de leng",
+      "rarity": "6",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Oscuridad. Furia.\nPuedes pagar un Oro y Desterrar este Aliado de tu Cementerio para Desterrar un Arma o Tótem objetivo en juego.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6836",
+      "edid": "053",
+      "slug": "lobo-espectral",
+      "name": "lobo espectral",
+      "rarity": "6",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Oscuridad. Furia.\nCuando entra en juego, puedes jugar una copia de este Aliado de tu Cementerio sin pagar su coste.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6837",
+      "edid": "054",
+      "slug": "el-monstruo",
+      "name": "el monstruo",
+      "rarity": "6",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Oscuridad.\nNo puede ser Anulado.\nUna vez por turno, puedes Desterrar la primera carta de tu Castillo para Destruir un Aliado oponente objetivo de coste 1 o menos",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6838",
+      "edid": "055",
+      "slug": "locura-magistral",
+      "name": "locura magistral",
+      "rarity": "6",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": "0",
+      "ability": "Mira la mano del jugador objetivo y Destierra una carta de ahí. Luego, Roba una carta.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6839",
+      "edid": "056",
+      "slug": "teriantropía",
+      "name": "teriantropia",
+      "rarity": "6",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Destierra un Aliado Oscuridad o Bestia objetivo de tu Cementerio. Luego, pon tantos contadores de Alimento en Aliados que controles como Fuerza tenga el Aliado Desterrado.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6840",
+      "edid": "057",
+      "slug": "contrato",
+      "name": "contrato",
+      "rarity": "6",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Sube la carta objetivo de tu Cementerio a tu mano.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6841",
+      "edid": "058",
+      "slug": "guillotina",
+      "name": "guillotina",
+      "rarity": "6",
+      "race": null,
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": "0",
+      "ability": "Cuando el Aliado portador ataque, Destrúyelo.\nCuando esta Arma sea Destruida, puedes ponerla en tu mano.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6842",
+      "edid": "059",
+      "slug": "cementerio-impuro",
+      "name": "cementerio impuro",
+      "rarity": "6",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "2",
+      "damage": "0",
+      "ability": "Cuando un Aliado de coste 3 o más entre en juego bajo tu control, si lo jugaste de tu Cementerio, el oponente objetivo Descarta una carta.",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6843",
+      "edid": "060",
+      "slug": "robert",
+      "name": "robert",
+      "rarity": "7",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "-",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    },
+    {
+      "id": "6844",
+      "edid": "061",
+      "slug": "glossopetrae",
+      "name": "glossopetrae",
+      "rarity": "7",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": "0",
+      "damage": "0",
+      "ability": "-",
+      "flavour": null,
+      "ed_edid": "34",
+      "ed_slug": "terrores-nocturnos"
+    }
+  ]
+}

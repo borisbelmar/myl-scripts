@@ -1,0 +1,957 @@
+{
+  "status": "OK",
+  "code": 200,
+  "races": [
+    {
+      "id": "0",
+      "slug": "noraza",
+      "name": "Sin Raza"
+    },
+    {
+      "id": "1",
+      "slug": "caballero",
+      "name": "Caballero"
+    },
+    {
+      "id": "2",
+      "slug": "bestia",
+      "name": "Bestia"
+    },
+    {
+      "id": "3",
+      "slug": "eterno",
+      "name": "Eterno"
+    },
+    {
+      "id": "4",
+      "slug": "guerrero",
+      "name": "Guerrero"
+    },
+    {
+      "id": "5",
+      "slug": "barbaro",
+      "name": "Bárbaro"
+    },
+    {
+      "id": "6",
+      "slug": "faerie",
+      "name": "Faerie"
+    },
+    {
+      "id": "7",
+      "slug": "samurai",
+      "name": "Samurái"
+    },
+    {
+      "id": "8",
+      "slug": "sombra",
+      "name": "Sombra"
+    },
+    {
+      "id": "9",
+      "slug": "ancestral",
+      "name": "Ancestral"
+    },
+    {
+      "id": "10",
+      "slug": "sacerdote",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "11",
+      "slug": "dragon",
+      "name": "Dragón"
+    },
+    {
+      "id": "12",
+      "slug": "heroe",
+      "name": "Héroe"
+    },
+    {
+      "id": "13",
+      "slug": "oni",
+      "name": "Oni"
+    },
+    {
+      "id": "14",
+      "slug": "olimpico",
+      "name": "Olímpico"
+    },
+    {
+      "id": "15",
+      "slug": "titan",
+      "name": "Titán"
+    },
+    {
+      "id": "16",
+      "slug": "faraon",
+      "name": "Faraón"
+    },
+    {
+      "id": "17",
+      "slug": "desafiante",
+      "name": "Desafiante"
+    },
+    {
+      "id": "18",
+      "slug": "defensor",
+      "name": "Defensor"
+    },
+    {
+      "id": "19",
+      "slug": "licantropo",
+      "name": "Licántropo"
+    },
+    {
+      "id": "20",
+      "slug": "vampiro",
+      "name": "Vampiro"
+    },
+    {
+      "id": "21",
+      "slug": "cazador",
+      "name": "Cazador"
+    },
+    {
+      "id": "22",
+      "slug": "chaman",
+      "name": "Chamán"
+    },
+    {
+      "id": "23",
+      "slug": "dios",
+      "name": "Dios"
+    },
+    {
+      "id": "24",
+      "slug": "abominacion",
+      "name": "Abominación"
+    },
+    {
+      "id": "25",
+      "slug": "kami",
+      "name": "Kami"
+    },
+    {
+      "id": "26",
+      "slug": "xian",
+      "name": "Xian"
+    },
+    {
+      "id": "27",
+      "slug": "criaturas",
+      "name": "Criaturas"
+    },
+    {
+      "id": "28",
+      "slug": "campeon/shaolin",
+      "name": "Campeón / Shaolín"
+    },
+    {
+      "id": "29",
+      "slug": "campeon/ninja",
+      "name": "Campeón / Ninja"
+    },
+    {
+      "id": "30",
+      "slug": "campeon/samurai",
+      "name": "Campeón / Samurái"
+    },
+    {
+      "id": "31",
+      "slug": "campeon",
+      "name": "Campeón"
+    },
+    {
+      "id": "32",
+      "slug": "heroe/sacerdote",
+      "name": "Héroe/Sacerdote"
+    },
+    {
+      "id": "33",
+      "slug": "eterno/sombra",
+      "name": "Eterno/Sombra"
+    },
+    {
+      "id": "34",
+      "slug": "caballero/guerrero",
+      "name": "Caballero/Guerrero"
+    },
+    {
+      "id": "35",
+      "slug": "bestia/guerrero",
+      "name": "Bestia/Guerrero"
+    },
+    {
+      "id": "36",
+      "slug": "caballero/heroe",
+      "name": "Caballero/Héroe"
+    },
+    {
+      "id": "37",
+      "slug": "dragon/eterno",
+      "name": "Dragón/Eterno"
+    },
+    {
+      "id": "38",
+      "slug": "eterno/faerie",
+      "name": "Eterno/Faerie"
+    },
+    {
+      "id": "39",
+      "slug": "paladin",
+      "name": "Paladín"
+    },
+    {
+      "id": "40",
+      "slug": "asesino",
+      "name": "Asesino"
+    },
+    {
+      "id": "41",
+      "slug": "tenebris",
+      "name": "Tenebris"
+    }
+  ],
+  "rarities": [
+    {
+      "id": "0",
+      "slug": "promo",
+      "name": "Promocional"
+    },
+    {
+      "id": "1",
+      "slug": "legendaria",
+      "name": "Legendaria"
+    },
+    {
+      "id": "2",
+      "slug": "ultra-real",
+      "name": "Ultra Real"
+    },
+    {
+      "id": "3",
+      "slug": "mega-real",
+      "name": "Mega Real"
+    },
+    {
+      "id": "4",
+      "slug": "real",
+      "name": "Real"
+    },
+    {
+      "id": "5",
+      "slug": "cortesano",
+      "name": "Cortesano"
+    },
+    {
+      "id": "6",
+      "slug": "vasallo",
+      "name": "Vasallo"
+    },
+    {
+      "id": "7",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "8",
+      "slug": "milenaria",
+      "name": "Milenaria"
+    },
+    {
+      "id": "9",
+      "slug": "secreta",
+      "name": "Secreta"
+    },
+    {
+      "id": "10",
+      "slug": "ficha",
+      "name": "Ficha"
+    },
+    {
+      "id": "11",
+      "slug": "set_paralelo",
+      "name": "Set Paralelo"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "slug": "aliado",
+      "name": "Aliado"
+    },
+    {
+      "id": "2",
+      "slug": "talisman",
+      "name": "Talismán"
+    },
+    {
+      "id": "3",
+      "slug": "arma",
+      "name": "Arma"
+    },
+    {
+      "id": "4",
+      "slug": "totem",
+      "name": "Tótem"
+    },
+    {
+      "id": "5",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "6",
+      "slug": "monumento",
+      "name": "Monumento"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "1",
+      "flag": "1",
+      "slug": "unica",
+      "title": "Única",
+      "alt_title": "Única.",
+      "definition": "Solo puedes tener 1 copia en tu mazo."
+    },
+    {
+      "id": "2",
+      "flag": "2",
+      "slug": "imbloqueable",
+      "title": "Imbloqueable",
+      "alt_title": "Imbloqueables",
+      "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+    },
+    {
+      "id": "3",
+      "flag": "4",
+      "slug": "indesterrable",
+      "title": "Indesterrable",
+      "alt_title": "Indesterrables",
+      "definition": "No puede ser desterrada."
+    },
+    {
+      "id": "4",
+      "flag": "8",
+      "slug": "indestructible",
+      "title": "Indestructible",
+      "alt_title": "Indestructibles",
+      "definition": "Esta carta no puede ser destruida."
+    },
+    {
+      "id": "5",
+      "flag": "16",
+      "slug": "luz",
+      "title": "Luz",
+      "alt_title": "",
+      "definition": "Carta tipo Luz"
+    },
+    {
+      "id": "6",
+      "flag": "32",
+      "slug": "oscuridad",
+      "title": "Oscuridad",
+      "alt_title": "",
+      "definition": "Carta tipo Oscuridad"
+    },
+    {
+      "id": "7",
+      "flag": "64",
+      "slug": "furia",
+      "title": "Furia",
+      "alt_title": "",
+      "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+    },
+    {
+      "id": "8",
+      "flag": "128",
+      "slug": "inmunidad",
+      "title": "Inmunidad",
+      "alt_title": "",
+      "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+    },
+    {
+      "id": "9",
+      "flag": "256",
+      "slug": "alimentar",
+      "title": "Alimentar",
+      "alt_title": "Alimento,Alimenta,Alimentado",
+      "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+    },
+    {
+      "id": "10",
+      "flag": "512",
+      "slug": "purificar",
+      "title": "Purificar",
+      "alt_title": "Purifica,Purificadas",
+      "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+    },
+    {
+      "id": "11",
+      "flag": "1024",
+      "slug": "retador",
+      "title": "Retador",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+    },
+    {
+      "id": "12",
+      "flag": "2048",
+      "slug": "ilusion",
+      "title": "Ilusión",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+    },
+    {
+      "id": "13",
+      "flag": "4096",
+      "slug": "espectral",
+      "title": "Espectral",
+      "alt_title": "",
+      "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+    },
+    {
+      "id": "14",
+      "flag": "8192",
+      "slug": "honor",
+      "title": "Honor",
+      "alt_title": "",
+      "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+    },
+    {
+      "id": "15",
+      "flag": "16384",
+      "slug": "errante",
+      "title": "Errante",
+      "alt_title": "",
+      "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+    },
+    {
+      "id": "16",
+      "flag": "32768",
+      "slug": "exhumar",
+      "title": "Exhumar",
+      "alt_title": "",
+      "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+    },
+    {
+      "id": "17",
+      "flag": "65536",
+      "slug": "mercenario",
+      "title": "Mercenario",
+      "alt_title": "",
+      "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+    },
+    {
+      "id": "18",
+      "flag": "131072",
+      "slug": "que-controles",
+      "title": "que controles",
+      "alt_title": "que controle",
+      "definition": "Cuando la carta se encuentre en tu area de juego."
+    },
+    {
+      "id": "19",
+      "flag": "262144",
+      "slug": "destruir",
+      "title": "Destruir",
+      "alt_title": "´Destruye",
+      "definition": "Enviar al Cementerio."
+    }
+  ],
+  "edition": {
+    "id": "63",
+    "order": "41",
+    "slug": "cuentos_de_terror_poe",
+    "title": "Cuentos de Terror Edgar Allan Poe/ Temporada Acero",
+    "image": "https://api.myl.cl/static/cuentos_de_terror.png",
+    "date_release": "2021-10-25",
+    "date_empire_valid": "2023-10-24",
+    "custom_bg": "https://tor.myl.cl/static/torbg6.jpg",
+    "flags": "9"
+  },
+  "cards": [
+    {
+      "id": "10593",
+      "edid": "001",
+      "slug": "edgar_allan_poe",
+      "name": "edgar allan poe",
+      "rarity": "2",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "5",
+      "ability": "Oscuridad. Guardián. \nNo puede ser Anulado.\nLos Aliados oponentes con contadores pierden su habilidad.\nEn tu Vigilia, puedes Barajar un Aliado y todas sus copias en juego.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10594",
+      "edid": "002",
+      "slug": "lector_solitario",
+      "name": "lector solitario",
+      "rarity": "3",
+      "race": null,
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Entra en juego con una Raza a tu elección.\nCuando entra en juego, puedes quitar o duplicar todos los contadores de tus Aliados y ganan Indestructible por el turno.\nPuedes quitar un contador de otro Aliado para buscar una carta de coste igual a los contadores sobre ese Aliado.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10595",
+      "edid": "003",
+      "slug": "libro_de_olvidada_ciencia",
+      "name": "libro de olvidada ciencia",
+      "rarity": "4",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oscuridad.\nCuando entra en juego, puedes buscar un Talismán en tu Castillo o Cementerio y ponerlo en tu mano.\nSi está en tu Cementerio, puedes Desterrarlo para poner o quitar un contador.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10596",
+      "edid": "004",
+      "slug": "algo_alla_afuera",
+      "name": "algo alla afuera",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Pon un contador en hasta tres Aliados en juego. Luego, Purifica hasta una carta de los Cementerios por cada Aliado con contador en juego.\nSi está en tu Cementerio, los Aliados con contadores pierden 1 de Fuerza.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10597",
+      "edid": "005",
+      "slug": "cuervo_nocturno",
+      "name": "cuervo nocturno",
+      "rarity": "2",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Oscuridad.\nEntra en juego con dos contadores.\nPuedes mover un contador de este a otro Aliado en juego para Robar una carta.\nCuando salga del juego, si no tiene contadores, conviértelo en un Tótem con la habilidad \"Al comienzo de tu Vigilia, si controlas cartas con contadores, Destierra una carta de tu mano al azar\", y ponlo bajo el control de tu oponente.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10598",
+      "edid": "006",
+      "slug": "fantasma_de_leonora",
+      "name": "fantasma de leonora",
+      "rarity": "4",
+      "race": "0",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Exhumar.\nPuedes mover esta carta bajo un Aliado oponente para convertirlo en un Sombra con la habilidad \"Al comienzo de tu Vigilia, Descarta una carta por cada Sombra que controles, hasta un máximo de tres\".\nEn tu Vigilia, puedes Robar una carta por cada Sombra que controle tu oponente. Luego, pon un contador en una carta en juego.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10599",
+      "edid": "007",
+      "slug": "tormento_nocturno",
+      "name": "tormento nocturno",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Reduce su coste en un Oro si tu oponente controlas tres o más cartas con contadores.\nDestruye o Destierra una carta en juego que no sea Oro. Luego, convierte este Talismán en un Tótem Oscuridad con la habilidad \"En tu Fase Final, si tu oponente controlas dos o más cartas con contadores, tu oponente Bota tres cartas\".",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10600",
+      "edid": "008",
+      "slug": "busto_de_pallas",
+      "name": "busto de pallas",
+      "rarity": "4",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "En tu Vigilia, puedes poner o mover un contador sobre un Aliado en juego. Si ese Aliado es Oscuridad y/o Luz, puedes mover un contador adicional.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10601",
+      "edid": "009",
+      "slug": "espiral_de_locura",
+      "name": "espiral de locura",
+      "rarity": "3",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Pon un contador sobre cada Aliado en juego. Luego, por cada Aliado en juego, lanza un dado de seis caras y según su resultado aplica el siguiente efecto:\n1 - 2: Sube el Aliado a la mano de su dueño.\n3 - 4: Destruye el Aliado.\n5 - 6: Su controlador Roba una carta.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10602",
+      "edid": "010",
+      "slug": "nunca_mas",
+      "name": "nunca mas",
+      "rarity": "3",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Cuando jueges este Talismán, Destiérralo.\nCuesta un Oro menos por cada ¡Nunca más! en tu Destierro.\nAnula una carta. Luego, Roba una carta por cada Oro pagado para jugar este Talismán.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10603",
+      "edid": "011",
+      "slug": "prisionero_de_guerra",
+      "name": "prisionero de guerra",
+      "rarity": "2",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Luz. Indestructible. Indesterrable.\nPuedes quitar un contador de una carta en juego y elegir hasta dos:\n- Busca una carta Luz o Héroe.\n- Baraja dos cartas de tu Cementerio y Roba una carta.\n- Un Aliado pierde su habilidad y no puede atacar ni bloquear hasta la Fase Final.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10604",
+      "edid": "012",
+      "slug": "inquisidores",
+      "name": "inquisidores",
+      "rarity": "4",
+      "race": "10",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad.\nEn tu Vigilia,hasta dos veces por turno, puedes poner un contador sobre una carta en juego.\nEn la Fase Final oponente, tu oponente Bota una carta por cada Aliado con contador que controle.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10605",
+      "edid": "013",
+      "slug": "calabozos_de_toledo",
+      "name": "calabozos de toledo",
+      "rarity": "4",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Oscuridad.\nCuando entra en juego, Baraja hasta dos cartas en juego con contadores que no sean Oro.\nEn tu Vigilia, puedes mirar las cinco primeras cartas de tu Castillo. Pon una en tu mano, otra en tu Cementerio y Baraja el resto.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10606",
+      "edid": "014",
+      "slug": "pozo_siniestro",
+      "name": "pozo siniestro",
+      "rarity": "3",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oscuridad.\nEn tu Vigilia, puedes pagar el coste de una carta que tenga contadores, para que pierda su habilidad. Luego, Destiérrala.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10607",
+      "edid": "015",
+      "slug": "pan_y_agua_envenenados",
+      "name": "pan y agua envenenados",
+      "rarity": "4",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Cuando entra en juego, Destruye el Aliado oponente con más contadores.\nSi está en tu Cementerio, puedes pagar un Oro y Desterrarlo para Destruir un Aliado oponente con dos o más contadores.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10608",
+      "edid": "016",
+      "slug": "pendulo_de_muerte",
+      "name": "pendulo de muerte",
+      "rarity": "3",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oscuridad.\nEn tu Vigilia, puedes pagar este Oro para elegir un Aliado en juego y lanzar un dado. Si el resultado es par, Barájalo en el Castillo de su dueño; si el resultado es impar, pon un contador sobre esa carta y Roba una carta.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10609",
+      "edid": "017",
+      "slug": "ratas_del_pozo",
+      "name": "ratas del pozo",
+      "rarity": "4",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "En tu Vigilia, puedes pagar este Oro para crear tantos Aliados Bestia de Fuerza 1 y con Furia, igual a la cantidad de contadores en juego.\nEsos Aliados no pueden modificar su Fuerza y en la Fase Final, Destrúyelos.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10610",
+      "edid": "018",
+      "slug": "ataduras",
+      "name": "ataduras",
+      "rarity": "4",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Los Aliados de coste 1 o menos no pueden atacar ni bloquear.\nCualquier jugador puede pagar dos Oros o Destruir un Aliado que controle para que este Oro pierda su habilidad por el turno.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10611",
+      "edid": "019",
+      "slug": "paredes_ardientes",
+      "name": "paredes ardientes",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Elige hasta dos:\n- Destruye hasta dos carta en juego que no sean Oro.\n- Pon las primeras o últimas dos cartas de tu Castillo en tu mano.\n- Cada jugador Bota cuatro cartas.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10612",
+      "edid": "020",
+      "slug": "louis_lasalle",
+      "name": "louis lasalle",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Luz. Imbloqueable.\nCuando haga daño, puedes poner o quitar hasta tres contadores sobre Aliados en juego.\nEn tu Vigilia, puedes convertir una carta con contadores, que no sea Oro, en una Arma con la habilidad \"El portador gana 3 de Fuerza\" y portarla en un Aliado.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10613",
+      "edid": "021",
+      "slug": "narrador",
+      "name": "narrador",
+      "rarity": "4",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Luz. Guardián.\nCuando entra en juego, puedes poner o quitar dos contadores sobre Aliados en juego.\nPuedes quitar un contador de un Aliado en juego para Robar dos cartas. Luego, Destierra una carta de tu mano.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10614",
+      "edid": "022",
+      "slug": "auguste_dupin",
+      "name": "auguste dupin",
+      "rarity": "2",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Luz. Guardián.\nPuedes poner o quitar un contador para mirar cuatro cartas de la parte superior de tu Castillo. Puedes poner una carta Luz o Guardián de ahí en tu mano y Baraja el resto.\nGana 1 de Fuerza por cada carta con contador que controles.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10615",
+      "edid": "023",
+      "slug": "alaridos_de_terror",
+      "name": "alaridos de terror",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Los Aliados oponentes pierden 1 de Fuerza por cada otro Aliado que controle tu oponente y tus Aliados Oscuridad ganan 1 de Fuerza y el daño de hasta dos Aliados es enviado al Destierro.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10616",
+      "edid": "024",
+      "slug": "crimen_imposible",
+      "name": "crimen imposible",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "3",
+      "damage": null,
+      "ability": "Cuesta un Oro menos por cada contador en juego.\nUna carta en juego que no sea Oro pierde su habilidad. Luego, Destiérrala. Si esa carta no es un Aliado, puedes subir una carta al azar de tu Cementerio a tu mano.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10617",
+      "edid": "025",
+      "slug": "rue_morgue",
+      "name": "rue morgue",
+      "rarity": "3",
+      "race": null,
+      "type": "4",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Entra en juego con dos contadores. \nEn tu Vigilia, puedes quitar un contador de una carta que controles para poner la primera o última carta de tu Castillo en tu mano o Destruir una carta que no sea Oro.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10618",
+      "edid": "026",
+      "slug": "pesquisas",
+      "name": "pesquisas",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "0",
+      "damage": null,
+      "ability": "Cuando lo juegues, Destiérralo.\nMira las primeras seis cartas de un Castillo. Luego, escoge uno:\n- Destierra la primera carta de un Castillo.\n- Muestra la primera carta de un Castillo y pon hasta tantos contadores en cartas en juego igual al coste de la carta mostrada.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10619",
+      "edid": "027",
+      "slug": "pararrayos",
+      "name": "pararrayos",
+      "rarity": "4",
+      "race": null,
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Cuando un contador sea puesto sobre una carta, puedes Robar una carta y Descartar una carta.\nSi está en tu Cementerio, puedes Destruir una carta con contadores que controles para ponerlo en tu Oro Pagado.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10620",
+      "edid": "028",
+      "slug": "orangutan",
+      "name": "orangutan",
+      "rarity": "3",
+      "race": "2",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Oscuridad. Furia.\nCuando entra en juego, Destruye todos los Aliados con contadores. Luego, por cada Aliado Destruido de esta manera, Bota dos cartas de tu Castillo.\nSi hace daño, puedes Barajar hasta tres cartas de tu Cementerio y Robar una carta.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10621",
+      "edid": "029",
+      "slug": "marino_veterano",
+      "name": "marino veterano",
+      "rarity": "4",
+      "race": "4",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Imbloqueable. \nCuando entra en juego o cuando ataque, pon hasta dos contadores sobre Aliados en juego.\nLos Aliados oponentes con contadores no pueden atacar.\nTus Aliados con contadores son Imbloqueables y ganan 1 de Fuerza.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    },
+    {
+      "id": "10622",
+      "edid": "030",
+      "slug": "avergonzar_policia",
+      "name": "avergonzar policia",
+      "rarity": "4",
+      "race": null,
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Exhumar.\nPon un contador en hasta dos Aliados en juego.\nLos Aliados que tengan contadores tienen Fuerza 0 y pierden su habilidad por el turno.",
+      "flavour": null,
+      "ed_edid": "63",
+      "ed_slug": "cuentos_de_terror_poe"
+    }
+  ]
+}

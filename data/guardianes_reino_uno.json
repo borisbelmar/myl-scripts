@@ -1,0 +1,669 @@
+{
+  "status": "OK",
+  "code": 200,
+  "races": [
+    {
+      "id": "0",
+      "slug": "noraza",
+      "name": "Sin Raza"
+    },
+    {
+      "id": "1",
+      "slug": "caballero",
+      "name": "Caballero"
+    },
+    {
+      "id": "2",
+      "slug": "bestia",
+      "name": "Bestia"
+    },
+    {
+      "id": "3",
+      "slug": "eterno",
+      "name": "Eterno"
+    },
+    {
+      "id": "4",
+      "slug": "guerrero",
+      "name": "Guerrero"
+    },
+    {
+      "id": "5",
+      "slug": "barbaro",
+      "name": "Bárbaro"
+    },
+    {
+      "id": "6",
+      "slug": "faerie",
+      "name": "Faerie"
+    },
+    {
+      "id": "7",
+      "slug": "samurai",
+      "name": "Samurái"
+    },
+    {
+      "id": "8",
+      "slug": "sombra",
+      "name": "Sombra"
+    },
+    {
+      "id": "9",
+      "slug": "ancestral",
+      "name": "Ancestral"
+    },
+    {
+      "id": "10",
+      "slug": "sacerdote",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "11",
+      "slug": "dragon",
+      "name": "Dragón"
+    },
+    {
+      "id": "12",
+      "slug": "heroe",
+      "name": "Héroe"
+    },
+    {
+      "id": "13",
+      "slug": "oni",
+      "name": "Oni"
+    },
+    {
+      "id": "14",
+      "slug": "olimpico",
+      "name": "Olímpico"
+    },
+    {
+      "id": "15",
+      "slug": "titan",
+      "name": "Titán"
+    },
+    {
+      "id": "16",
+      "slug": "faraon",
+      "name": "Faraón"
+    },
+    {
+      "id": "17",
+      "slug": "desafiante",
+      "name": "Desafiante"
+    },
+    {
+      "id": "18",
+      "slug": "defensor",
+      "name": "Defensor"
+    },
+    {
+      "id": "19",
+      "slug": "licantropo",
+      "name": "Licántropo"
+    },
+    {
+      "id": "20",
+      "slug": "vampiro",
+      "name": "Vampiro"
+    },
+    {
+      "id": "21",
+      "slug": "cazador",
+      "name": "Cazador"
+    },
+    {
+      "id": "22",
+      "slug": "chaman",
+      "name": "Chamán"
+    },
+    {
+      "id": "23",
+      "slug": "dios",
+      "name": "Dios"
+    },
+    {
+      "id": "24",
+      "slug": "abominacion",
+      "name": "Abominación"
+    },
+    {
+      "id": "25",
+      "slug": "kami",
+      "name": "Kami"
+    },
+    {
+      "id": "26",
+      "slug": "xian",
+      "name": "Xian"
+    },
+    {
+      "id": "27",
+      "slug": "criaturas",
+      "name": "Criaturas"
+    },
+    {
+      "id": "28",
+      "slug": "campeon/shaolin",
+      "name": "Campeón / Shaolín"
+    },
+    {
+      "id": "29",
+      "slug": "campeon/ninja",
+      "name": "Campeón / Ninja"
+    },
+    {
+      "id": "30",
+      "slug": "campeon/samurai",
+      "name": "Campeón / Samurái"
+    },
+    {
+      "id": "31",
+      "slug": "campeon",
+      "name": "Campeón"
+    },
+    {
+      "id": "32",
+      "slug": "heroe/sacerdote",
+      "name": "Héroe/Sacerdote"
+    },
+    {
+      "id": "33",
+      "slug": "eterno/sombra",
+      "name": "Eterno/Sombra"
+    },
+    {
+      "id": "34",
+      "slug": "caballero/guerrero",
+      "name": "Caballero/Guerrero"
+    },
+    {
+      "id": "35",
+      "slug": "bestia/guerrero",
+      "name": "Bestia/Guerrero"
+    },
+    {
+      "id": "36",
+      "slug": "caballero/heroe",
+      "name": "Caballero/Héroe"
+    },
+    {
+      "id": "37",
+      "slug": "dragon/eterno",
+      "name": "Dragón/Eterno"
+    },
+    {
+      "id": "38",
+      "slug": "eterno/faerie",
+      "name": "Eterno/Faerie"
+    },
+    {
+      "id": "39",
+      "slug": "paladin",
+      "name": "Paladín"
+    },
+    {
+      "id": "40",
+      "slug": "asesino",
+      "name": "Asesino"
+    },
+    {
+      "id": "41",
+      "slug": "tenebris",
+      "name": "Tenebris"
+    }
+  ],
+  "rarities": [
+    {
+      "id": "0",
+      "slug": "promo",
+      "name": "Promocional"
+    },
+    {
+      "id": "1",
+      "slug": "legendaria",
+      "name": "Legendaria"
+    },
+    {
+      "id": "2",
+      "slug": "ultra-real",
+      "name": "Ultra Real"
+    },
+    {
+      "id": "3",
+      "slug": "mega-real",
+      "name": "Mega Real"
+    },
+    {
+      "id": "4",
+      "slug": "real",
+      "name": "Real"
+    },
+    {
+      "id": "5",
+      "slug": "cortesano",
+      "name": "Cortesano"
+    },
+    {
+      "id": "6",
+      "slug": "vasallo",
+      "name": "Vasallo"
+    },
+    {
+      "id": "7",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "8",
+      "slug": "milenaria",
+      "name": "Milenaria"
+    },
+    {
+      "id": "9",
+      "slug": "secreta",
+      "name": "Secreta"
+    },
+    {
+      "id": "10",
+      "slug": "ficha",
+      "name": "Ficha"
+    },
+    {
+      "id": "11",
+      "slug": "set_paralelo",
+      "name": "Set Paralelo"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "slug": "aliado",
+      "name": "Aliado"
+    },
+    {
+      "id": "2",
+      "slug": "talisman",
+      "name": "Talismán"
+    },
+    {
+      "id": "3",
+      "slug": "arma",
+      "name": "Arma"
+    },
+    {
+      "id": "4",
+      "slug": "totem",
+      "name": "Tótem"
+    },
+    {
+      "id": "5",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "6",
+      "slug": "monumento",
+      "name": "Monumento"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "1",
+      "flag": "1",
+      "slug": "unica",
+      "title": "Única",
+      "alt_title": "Única.",
+      "definition": "Solo puedes tener 1 copia en tu mazo."
+    },
+    {
+      "id": "2",
+      "flag": "2",
+      "slug": "imbloqueable",
+      "title": "Imbloqueable",
+      "alt_title": "Imbloqueables",
+      "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+    },
+    {
+      "id": "3",
+      "flag": "4",
+      "slug": "indesterrable",
+      "title": "Indesterrable",
+      "alt_title": "Indesterrables",
+      "definition": "No puede ser desterrada."
+    },
+    {
+      "id": "4",
+      "flag": "8",
+      "slug": "indestructible",
+      "title": "Indestructible",
+      "alt_title": "Indestructibles",
+      "definition": "Esta carta no puede ser destruida."
+    },
+    {
+      "id": "5",
+      "flag": "16",
+      "slug": "luz",
+      "title": "Luz",
+      "alt_title": "",
+      "definition": "Carta tipo Luz"
+    },
+    {
+      "id": "6",
+      "flag": "32",
+      "slug": "oscuridad",
+      "title": "Oscuridad",
+      "alt_title": "",
+      "definition": "Carta tipo Oscuridad"
+    },
+    {
+      "id": "7",
+      "flag": "64",
+      "slug": "furia",
+      "title": "Furia",
+      "alt_title": "",
+      "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+    },
+    {
+      "id": "8",
+      "flag": "128",
+      "slug": "inmunidad",
+      "title": "Inmunidad",
+      "alt_title": "",
+      "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+    },
+    {
+      "id": "9",
+      "flag": "256",
+      "slug": "alimentar",
+      "title": "Alimentar",
+      "alt_title": "Alimento,Alimenta,Alimentado",
+      "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+    },
+    {
+      "id": "10",
+      "flag": "512",
+      "slug": "purificar",
+      "title": "Purificar",
+      "alt_title": "Purifica,Purificadas",
+      "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+    },
+    {
+      "id": "11",
+      "flag": "1024",
+      "slug": "retador",
+      "title": "Retador",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+    },
+    {
+      "id": "12",
+      "flag": "2048",
+      "slug": "ilusion",
+      "title": "Ilusión",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+    },
+    {
+      "id": "13",
+      "flag": "4096",
+      "slug": "espectral",
+      "title": "Espectral",
+      "alt_title": "",
+      "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+    },
+    {
+      "id": "14",
+      "flag": "8192",
+      "slug": "honor",
+      "title": "Honor",
+      "alt_title": "",
+      "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+    },
+    {
+      "id": "15",
+      "flag": "16384",
+      "slug": "errante",
+      "title": "Errante",
+      "alt_title": "",
+      "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+    },
+    {
+      "id": "16",
+      "flag": "32768",
+      "slug": "exhumar",
+      "title": "Exhumar",
+      "alt_title": "",
+      "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+    },
+    {
+      "id": "17",
+      "flag": "65536",
+      "slug": "mercenario",
+      "title": "Mercenario",
+      "alt_title": "",
+      "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+    },
+    {
+      "id": "18",
+      "flag": "131072",
+      "slug": "que-controles",
+      "title": "que controles",
+      "alt_title": "que controle",
+      "definition": "Cuando la carta se encuentre en tu area de juego."
+    },
+    {
+      "id": "19",
+      "flag": "262144",
+      "slug": "destruir",
+      "title": "Destruir",
+      "alt_title": "´Destruye",
+      "definition": "Enviar al Cementerio."
+    }
+  ],
+  "edition": {
+    "id": "79",
+    "order": "49",
+    "slug": "guardianes_reino_uno",
+    "title": "Guardianes del Reino I",
+    "image": null,
+    "date_release": "2022-12-24",
+    "date_empire_valid": "2023-09-03",
+    "custom_bg": "",
+    "flags": "9"
+  },
+  "cards": [
+    {
+      "id": "12681",
+      "edid": "267",
+      "slug": "inti",
+      "name": "inti",
+      "rarity": "0",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "4",
+      "damage": "4",
+      "ability": "Indestructible.\nCuando entra en juego, si pagaste su coste, Destruye hasta dos Oros oponentes.\nEn tu Fase Final, puedes agrupar una carta.",
+      "flavour": null,
+      "ed_edid": "79",
+      "ed_slug": "guardianes_reino_uno"
+    },
+    {
+      "id": "12682",
+      "edid": "268",
+      "slug": "ricardo_corazon_de_leon",
+      "name": "ricardo corazon de leon",
+      "rarity": "0",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Imbloqueable.\nUna vez en tu Vigilia, puedes mirar la mano de tu oponente. Elige una carta de ahí que no sea Oro para que no pueda ser jugada hasta tu próximo turno. Luego, Roba una carta.",
+      "flavour": null,
+      "ed_edid": "79",
+      "ed_slug": "guardianes_reino_uno"
+    },
+    {
+      "id": "12683",
+      "edid": "269",
+      "slug": "julio_cesar",
+      "name": "julio cesar",
+      "rarity": "0",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Indestructible.\nNo se pueden jugar Talismanes.\nLos demás Aliados que controles ganan 1 de Fuerza y son Imbloqueable.",
+      "flavour": null,
+      "ed_edid": "79",
+      "ed_slug": "guardianes_reino_uno"
+    },
+    {
+      "id": "12684",
+      "edid": "270",
+      "slug": "daana",
+      "name": "daana",
+      "rarity": "0",
+      "race": "6",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "1",
+      "ability": "Cuando entra en juego, Roba dos cartas.\nUna vez en tu Vigilia, puedes Barajar una carta de tu mano para buscar un Aliado en tu Castillo que no sea Daana y ponerlo en tu mano.\nTus Aliados no son afectados por Talismanes.",
+      "flavour": null,
+      "ed_edid": "79",
+      "ed_slug": "guardianes_reino_uno"
+    },
+    {
+      "id": "12685",
+      "edid": "271",
+      "slug": "el_gran_zeus",
+      "name": "el gran zeus",
+      "rarity": "0",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "5",
+      "ability": "Indestructible.\nNo puede ser Anulado\nUna vez en tu Vigilia, Roba dos cartas.\nUna vez por turno, Destierra una carta de tu mano para Anular una carta del mismo tipo.\nEn tu Fase Final, puedes agrupar una carta.",
+      "flavour": null,
+      "ed_edid": "79",
+      "ed_slug": "guardianes_reino_uno"
+    },
+    {
+      "id": "12686",
+      "edid": "272",
+      "slug": "ra",
+      "name": "ra",
+      "rarity": "0",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "4",
+      "ability": "Indesterrable.\nCuando entra en juego, Baraja todos los Aliados oponentes.\nUna vez por turno, puedes hacer que tu oponente Bote cinco cartas de su Castillo.\nEn tu Fase Final, puedes agrupar un Oro.",
+      "flavour": null,
+      "ed_edid": "79",
+      "ed_slug": "guardianes_reino_uno"
+    },
+    {
+      "id": "12687",
+      "edid": "273",
+      "slug": "fergus",
+      "name": "fergus",
+      "rarity": "0",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Indestructible.\nUna vez en tu Vigilia, puedes Desterrar una carta oponente que no sea Oro. Luego, busca una carta del mismo tipo en tu Castillo y ponla en tu mano.\nLos Oros en juego pierden su habilidad.",
+      "flavour": null,
+      "ed_edid": "79",
+      "ed_slug": "guardianes_reino_uno"
+    },
+    {
+      "id": "12688",
+      "edid": "274",
+      "slug": "rey_arturo_pendragon",
+      "name": "rey arturo pendragon",
+      "rarity": "0",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Cuando entra en juego y al comienzo de tu Agrupación, tu oponente Bota una carta por cada Aliado que controles.\nPuedes Descartar una carta para prevenir que una carta salga del juego.\nTus demás Aliados ganan 1 de Fuerza.",
+      "flavour": null,
+      "ed_edid": "79",
+      "ed_slug": "guardianes_reino_uno"
+    },
+    {
+      "id": "12689",
+      "edid": "275",
+      "slug": "lugh",
+      "name": "lugh",
+      "rarity": "0",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "No puede ser Anulado.\nCuando entra en juego, Destierra todas las cartas en el Cementerio oponente.\nCuando una carta fuera a ser puesta en el Cementerio oponente, en vez de eso se Destierra.",
+      "flavour": null,
+      "ed_edid": "79",
+      "ed_slug": "guardianes_reino_uno"
+    },
+    {
+      "id": "12690",
+      "edid": "276",
+      "slug": "atenea",
+      "name": "atenea",
+      "rarity": "0",
+      "race": "3",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Exhumar.\nCuando entra en juego, puedes generar un Oro para jugar un Aliado de Fuerza 4.\nUna vez en tu Vigilia, puedes Barajar hasta cuatro cartas de tu Cementerio. Luego, tu oponente Bota esa misma cantidad.",
+      "flavour": null,
+      "ed_edid": "79",
+      "ed_slug": "guardianes_reino_uno"
+    },
+    {
+      "id": "12691",
+      "edid": "277",
+      "slug": "anubis",
+      "name": "anubis",
+      "rarity": "0",
+      "race": "8",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "4",
+      "ability": "Exhumar.\nPuedes Destruir este Aliado para jugar un Aliado que no sea Anubis de tu Cementerio, sin pagar su coste. Luego, Destierra la primera cartas del Castillo oponente.",
+      "flavour": null,
+      "ed_edid": "79",
+      "ed_slug": "guardianes_reino_uno"
+    },
+    {
+      "id": "12692",
+      "edid": "278",
+      "slug": "dragon_de_luz",
+      "name": "dragon de luz",
+      "rarity": "0",
+      "race": "11",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "No puede ser Anulado.\nUna vez en tu Vigilia, puedes Barajar tres cartas de tu Cementerio y Robar dos cartas.\nCuando salga del juego, conviértelo en un Oro y ponlo en tu Oro Pagado.",
+      "flavour": null,
+      "ed_edid": "79",
+      "ed_slug": "guardianes_reino_uno"
+    }
+  ]
+}

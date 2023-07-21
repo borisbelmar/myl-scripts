@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "slug": "aliado",
+    "name": "Aliado"
+  },
+  {
+    "id": "2",
+    "slug": "talisman",
+    "name": "Talismán"
+  },
+  {
+    "id": "3",
+    "slug": "arma",
+    "name": "Arma"
+  },
+  {
+    "id": "4",
+    "slug": "totem",
+    "name": "Tótem"
+  },
+  {
+    "id": "5",
+    "slug": "oro",
+    "name": "Oro"
+  },
+  {
+    "id": "6",
+    "slug": "monumento",
+    "name": "Monumento"
+  }
+]

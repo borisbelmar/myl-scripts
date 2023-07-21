@@ -1,0 +1,989 @@
+{
+  "status": "OK",
+  "code": 200,
+  "races": [
+    {
+      "id": "0",
+      "slug": "noraza",
+      "name": "Sin Raza"
+    },
+    {
+      "id": "1",
+      "slug": "caballero",
+      "name": "Caballero"
+    },
+    {
+      "id": "2",
+      "slug": "bestia",
+      "name": "Bestia"
+    },
+    {
+      "id": "3",
+      "slug": "eterno",
+      "name": "Eterno"
+    },
+    {
+      "id": "4",
+      "slug": "guerrero",
+      "name": "Guerrero"
+    },
+    {
+      "id": "5",
+      "slug": "barbaro",
+      "name": "Bárbaro"
+    },
+    {
+      "id": "6",
+      "slug": "faerie",
+      "name": "Faerie"
+    },
+    {
+      "id": "7",
+      "slug": "samurai",
+      "name": "Samurái"
+    },
+    {
+      "id": "8",
+      "slug": "sombra",
+      "name": "Sombra"
+    },
+    {
+      "id": "9",
+      "slug": "ancestral",
+      "name": "Ancestral"
+    },
+    {
+      "id": "10",
+      "slug": "sacerdote",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "11",
+      "slug": "dragon",
+      "name": "Dragón"
+    },
+    {
+      "id": "12",
+      "slug": "heroe",
+      "name": "Héroe"
+    },
+    {
+      "id": "13",
+      "slug": "oni",
+      "name": "Oni"
+    },
+    {
+      "id": "14",
+      "slug": "olimpico",
+      "name": "Olímpico"
+    },
+    {
+      "id": "15",
+      "slug": "titan",
+      "name": "Titán"
+    },
+    {
+      "id": "16",
+      "slug": "faraon",
+      "name": "Faraón"
+    },
+    {
+      "id": "17",
+      "slug": "desafiante",
+      "name": "Desafiante"
+    },
+    {
+      "id": "18",
+      "slug": "defensor",
+      "name": "Defensor"
+    },
+    {
+      "id": "19",
+      "slug": "licantropo",
+      "name": "Licántropo"
+    },
+    {
+      "id": "20",
+      "slug": "vampiro",
+      "name": "Vampiro"
+    },
+    {
+      "id": "21",
+      "slug": "cazador",
+      "name": "Cazador"
+    },
+    {
+      "id": "22",
+      "slug": "chaman",
+      "name": "Chamán"
+    },
+    {
+      "id": "23",
+      "slug": "dios",
+      "name": "Dios"
+    },
+    {
+      "id": "24",
+      "slug": "abominacion",
+      "name": "Abominación"
+    },
+    {
+      "id": "25",
+      "slug": "kami",
+      "name": "Kami"
+    },
+    {
+      "id": "26",
+      "slug": "xian",
+      "name": "Xian"
+    },
+    {
+      "id": "27",
+      "slug": "criaturas",
+      "name": "Criaturas"
+    },
+    {
+      "id": "28",
+      "slug": "campeon/shaolin",
+      "name": "Campeón / Shaolín"
+    },
+    {
+      "id": "29",
+      "slug": "campeon/ninja",
+      "name": "Campeón / Ninja"
+    },
+    {
+      "id": "30",
+      "slug": "campeon/samurai",
+      "name": "Campeón / Samurái"
+    },
+    {
+      "id": "31",
+      "slug": "campeon",
+      "name": "Campeón"
+    },
+    {
+      "id": "32",
+      "slug": "heroe/sacerdote",
+      "name": "Héroe/Sacerdote"
+    },
+    {
+      "id": "33",
+      "slug": "eterno/sombra",
+      "name": "Eterno/Sombra"
+    },
+    {
+      "id": "34",
+      "slug": "caballero/guerrero",
+      "name": "Caballero/Guerrero"
+    },
+    {
+      "id": "35",
+      "slug": "bestia/guerrero",
+      "name": "Bestia/Guerrero"
+    },
+    {
+      "id": "36",
+      "slug": "caballero/heroe",
+      "name": "Caballero/Héroe"
+    },
+    {
+      "id": "37",
+      "slug": "dragon/eterno",
+      "name": "Dragón/Eterno"
+    },
+    {
+      "id": "38",
+      "slug": "eterno/faerie",
+      "name": "Eterno/Faerie"
+    },
+    {
+      "id": "39",
+      "slug": "paladin",
+      "name": "Paladín"
+    },
+    {
+      "id": "40",
+      "slug": "asesino",
+      "name": "Asesino"
+    },
+    {
+      "id": "41",
+      "slug": "tenebris",
+      "name": "Tenebris"
+    }
+  ],
+  "rarities": [
+    {
+      "id": "0",
+      "slug": "promo",
+      "name": "Promocional"
+    },
+    {
+      "id": "1",
+      "slug": "legendaria",
+      "name": "Legendaria"
+    },
+    {
+      "id": "2",
+      "slug": "ultra-real",
+      "name": "Ultra Real"
+    },
+    {
+      "id": "3",
+      "slug": "mega-real",
+      "name": "Mega Real"
+    },
+    {
+      "id": "4",
+      "slug": "real",
+      "name": "Real"
+    },
+    {
+      "id": "5",
+      "slug": "cortesano",
+      "name": "Cortesano"
+    },
+    {
+      "id": "6",
+      "slug": "vasallo",
+      "name": "Vasallo"
+    },
+    {
+      "id": "7",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "8",
+      "slug": "milenaria",
+      "name": "Milenaria"
+    },
+    {
+      "id": "9",
+      "slug": "secreta",
+      "name": "Secreta"
+    },
+    {
+      "id": "10",
+      "slug": "ficha",
+      "name": "Ficha"
+    },
+    {
+      "id": "11",
+      "slug": "set_paralelo",
+      "name": "Set Paralelo"
+    }
+  ],
+  "types": [
+    {
+      "id": "1",
+      "slug": "aliado",
+      "name": "Aliado"
+    },
+    {
+      "id": "2",
+      "slug": "talisman",
+      "name": "Talismán"
+    },
+    {
+      "id": "3",
+      "slug": "arma",
+      "name": "Arma"
+    },
+    {
+      "id": "4",
+      "slug": "totem",
+      "name": "Tótem"
+    },
+    {
+      "id": "5",
+      "slug": "oro",
+      "name": "Oro"
+    },
+    {
+      "id": "6",
+      "slug": "monumento",
+      "name": "Monumento"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "1",
+      "flag": "1",
+      "slug": "unica",
+      "title": "Única",
+      "alt_title": "Única.",
+      "definition": "Solo puedes tener 1 copia en tu mazo."
+    },
+    {
+      "id": "2",
+      "flag": "2",
+      "slug": "imbloqueable",
+      "title": "Imbloqueable",
+      "alt_title": "Imbloqueables",
+      "definition": "No puede ser bloqueada por Aliados en la fase de combate."
+    },
+    {
+      "id": "3",
+      "flag": "4",
+      "slug": "indesterrable",
+      "title": "Indesterrable",
+      "alt_title": "Indesterrables",
+      "definition": "No puede ser desterrada."
+    },
+    {
+      "id": "4",
+      "flag": "8",
+      "slug": "indestructible",
+      "title": "Indestructible",
+      "alt_title": "Indestructibles",
+      "definition": "Esta carta no puede ser destruida."
+    },
+    {
+      "id": "5",
+      "flag": "16",
+      "slug": "luz",
+      "title": "Luz",
+      "alt_title": "",
+      "definition": "Carta tipo Luz"
+    },
+    {
+      "id": "6",
+      "flag": "32",
+      "slug": "oscuridad",
+      "title": "Oscuridad",
+      "alt_title": "",
+      "definition": "Carta tipo Oscuridad"
+    },
+    {
+      "id": "7",
+      "flag": "64",
+      "slug": "furia",
+      "title": "Furia",
+      "alt_title": "",
+      "definition": "Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante."
+    },
+    {
+      "id": "8",
+      "flag": "128",
+      "slug": "inmunidad",
+      "title": "Inmunidad",
+      "alt_title": "",
+      "definition": "No puede ser Objetivo de la(s) carta(s) o habilidades de cartas mencionada(s) en la Inmunidad."
+    },
+    {
+      "id": "9",
+      "flag": "256",
+      "slug": "alimentar",
+      "title": "Alimentar",
+      "alt_title": "Alimento,Alimenta,Alimentado",
+      "definition": "Contiene o manipula Contadores de Alimento para usar en distintas habilidades."
+    },
+    {
+      "id": "10",
+      "flag": "512",
+      "slug": "purificar",
+      "title": "Purificar",
+      "alt_title": "Purifica,Purificadas",
+      "definition": "Puedes Desterrar o Barajar las cartas elegidas por esta habilidad."
+    },
+    {
+      "id": "11",
+      "flag": "1024",
+      "slug": "retador",
+      "title": "Retador",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es declarado atacante, el Aliado objetivo oponente lo bloquea este turno si puede."
+    },
+    {
+      "id": "12",
+      "flag": "2048",
+      "slug": "ilusion",
+      "title": "Ilusión",
+      "alt_title": "",
+      "definition": "Cuando este Aliado es Destruido, regresa al juego bajo el control de su dueño como un Aliado sin habilidad."
+    },
+    {
+      "id": "13",
+      "flag": "4096",
+      "slug": "espectral",
+      "title": "Espectral",
+      "alt_title": "",
+      "definition": "Esta carta se convierte en un Talismán mientras esté en un Cementerio."
+    },
+    {
+      "id": "14",
+      "flag": "8192",
+      "slug": "honor",
+      "title": "Honor",
+      "alt_title": "",
+      "definition": "Contiene o manipula Contadores de Honor para usar en distintas habilidades. Los Aliados con contadores de Honor no pueden salir del juego por efectos de Talismanes o Totems"
+    },
+    {
+      "id": "15",
+      "flag": "16384",
+      "slug": "errante",
+      "title": "Errante",
+      "alt_title": "",
+      "definition": "Solo puedes controlar 1 copia de esta carta al mismo tiempo, toda habilidad que intente tener mas de una copia en juego queda sin efecto."
+    },
+    {
+      "id": "16",
+      "flag": "32768",
+      "slug": "exhumar",
+      "title": "Exhumar",
+      "alt_title": "",
+      "definition": "Puedes jugar esta carta desde el Cementerio pagando su coste. Si es un talismán, Destiérralo."
+    },
+    {
+      "id": "17",
+      "flag": "65536",
+      "slug": "mercenario",
+      "title": "Mercenario",
+      "alt_title": "",
+      "definition": "Puedes tener cualquier cantidad de copias de esta carta en tu Mazo Castillo."
+    },
+    {
+      "id": "18",
+      "flag": "131072",
+      "slug": "que-controles",
+      "title": "que controles",
+      "alt_title": "que controle",
+      "definition": "Cuando la carta se encuentre en tu area de juego."
+    },
+    {
+      "id": "19",
+      "flag": "262144",
+      "slug": "destruir",
+      "title": "Destruir",
+      "alt_title": "´Destruye",
+      "definition": "Enviar al Cementerio."
+    }
+  ],
+  "edition": {
+    "id": "53",
+    "order": "37",
+    "slug": "tinta_inmortal_robin_hood",
+    "title": "Tinta Inmortal Robin Hood",
+    "image": "https://api.myl.cl/static/tinta_inmortal.png",
+    "date_release": "2021-09-14",
+    "date_empire_valid": "2022-09-14",
+    "custom_bg": "https://tor.myl.cl/static/torbg6.jpg",
+    "flags": "9"
+  },
+  "cards": [
+    {
+      "id": "9869",
+      "edid": "001",
+      "slug": "robin_hood",
+      "name": "robin hood",
+      "rarity": "4",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Luz.\nSi hace daño, puedes Robar cartas hasta tener la misma cantidad de cartas en la mano que tu oponente. Si hay un Oro entre esas cartas, puedes ponerlo en tu Oro Pagado.\r\nCuando entra en juego, si tu oponente controla más Oros que tú, puedes ganar el control de un Oro oponente.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9870",
+      "edid": "002",
+      "slug": "lady_marian",
+      "name": "lady marian",
+      "rarity": "4",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Luz.\nCuando entra en juego, busca un Aliado Luz en tu Castillo y ponlo en tu mano.\nSi el Aliado buscado es Robin Hood, puedes jugarlo reduciendo su coste en un Oro. Luego, Roba una carta.\n Tus demás Aliados Luz tienen Furia.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9871",
+      "edid": "003",
+      "slug": "abadia_de_newstead",
+      "name": "abadia de newstead",
+      "rarity": "2",
+      "race": "0",
+      "type": "4",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "En tu Vigilia, puedes mostrar las primeras tres cartas de tu Castillo y poner una carta de ahí en tu mano o jugarla reduciendo su coste en un Oro. Luego, Baraja el resto.\nSi está en tu Cementerio y controlas menos cartas que tu oponente, puedes pagar un Oro y Barajar una carta de tu mano para jugar esta carta sin pagar su coste.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9872",
+      "edid": "004",
+      "slug": "guy_of_gisbourne",
+      "name": "guy of gisbourne",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Oscuridad.\nCuando entra en juego o cuando ataque, puedes Destruir un Aliado oponente de coste 2 o menos.\nBusca las copias del Aliado Destruido en el Castillo, Cementerio y mano de su dueño y Destiérralas, a menos de que tu oponente pague un Oro.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9873",
+      "edid": "005",
+      "slug": "interrumpir_la_boda",
+      "name": "interrumpir la boda",
+      "rarity": "4",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Baraja una carta en juego que no sea Oro.\nPuedes jugar este Talismán en respuesta a una habilidad oponente. Si lo haces, Destiérralo y Roba una carta.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9874",
+      "edid": "006",
+      "slug": "bosque_de_sherwood",
+      "name": "bosque de sherwood",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oro Inicial.\nPuedes pagar este Oro para buscar a Lady Marian o Robin Hood en tu Castillo y ponerlo en tu mano.\n\nSi es tu primer turno, puedes mostrar a Robin Hood o Lady Marian de tu mano para Robar una carta.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9875",
+      "edid": "007",
+      "slug": "perros_caceria",
+      "name": "perros de caceria",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oscuridad.\nSi sólo controlas Aliados Oscuridad, puedes Desterrar este Oro para Desterrar una carta de un Cementerio.\n\nPuedes buscar las copias de la carta Desterrada en el Castillo de su dueño y Desterrarlas.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9876",
+      "edid": "008",
+      "slug": "sheriff_de_nottingham",
+      "name": "sheriff de nottingham",
+      "rarity": "4",
+      "race": "0",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "4",
+      "ability": "Oscuridad.\nAl comienzo de tu Vigilia, puedes Robar dos cartas, a menos que tu oponente pague dos Oros.\n\nAl comienzo de la Vigilia oponente, puedes mover dos Oros oponentes a su Oro Pagado, a menos de que tu oponente Descarte una carta al azar.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9877",
+      "edid": "009",
+      "slug": "pequeno_juan",
+      "name": "pequeo juan",
+      "rarity": "4",
+      "race": "0",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "5",
+      "ability": "Luz. Indestructible (No puede ser Destruido).\nEn tu Vigilia, puedes Destruir un Aliado oponente con menor Fuerza que este Aliado. Luego, Baraja una carta de tu mano.\n\nSi controlas dos o más Aliados Luz, puedes Barajar tantas cartas de tu Cementerio como Fuerza tenga el Aliado Destruido.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9878",
+      "edid": "010",
+      "slug": "duelo_sobre_puente",
+      "name": "duelo sobre puente",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Gana el control de un Aliado oponente. Ese Aliado gana 2 de Fuerza y tiene Furia por el turno.\n\nSi está en tu Cementerio, puedes pagar un Oro y Desterrarlo para elegir una opción entre:\n- Barajar una carta en juego de coste 2 o menos.\n- Robar tres cartas y Descartar una carta.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9879",
+      "edid": "011",
+      "slug": "fraile_tuck",
+      "name": "fraile tuck",
+      "rarity": "5",
+      "race": "10",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "2",
+      "ability": "Luz.\nEn tu Vigilia, puedes Barajar o Desterrar dos cartas de un Cementerio. Luego, Roba una carta y Descarta una carta.\n\nSi controlas dos o más Aliados Luz, puedes mirar las dos primeras cartas de tu Castillo. Pon una en tu mano y la otra en el fondo de tu Castillo.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9880",
+      "edid": "012",
+      "slug": "will_scarlet",
+      "name": "will scarlet",
+      "rarity": "5",
+      "race": "0",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Luz.\nSi controlas a Robin Hood o Lady Marian, gana 2 de Fuerza.\n\nEn tu Vigilia, puedes mirar las primeras cuatro cartas de tu Castillo y ordenarlas. Si controlas dos o más Aliados Luz, puedes jugar una carta Luz de ahí reduciendo su coste en dos Oros.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9881",
+      "edid": "013",
+      "slug": "alan-a-dale",
+      "name": "alan-a-dale",
+      "rarity": "5",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Luz.\nPuedes intercambiar la Fuerza de este Aliado con la de otro Aliado en juego hasta la Fase Final.\n\nEn tu Vigilia, puedes mirar las primeras cuatro cartas de tu Castillo y ordenarlas. Si controlas dos o más Aliados Luz, puedes poner una carta de ahí en tu mano y Barajar el resto.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9882",
+      "edid": "014",
+      "slug": "justas_de_primavera",
+      "name": "justas de primavera",
+      "rarity": "5",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Elige dos Aliados en juego. Luego, Destruye el Aliado de menor Fuerza entre ellos.\n\nPuedes Robar tantas cartas como coste tenga el Aliado Destruido.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9883",
+      "edid": "015",
+      "slug": "arco_de_robin_hood",
+      "name": "arco de robin hood",
+      "rarity": "2",
+      "race": "0",
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "El portador gana 2 de Fuerza y es Imbloqueable.\nSi está en tu mano o Cementerio y controlas a Robin Hood, puedes jugarla sin pagar su coste. \n\nEn tu Vigilia, Destruye una carta oponente que no sea Oro. Luego, puedes poner las primeras o últimas dos cartas de tu Castillo en tu mano.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9884",
+      "edid": "016",
+      "slug": "principe_john",
+      "name": "principe john",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "3",
+      "damage": "4",
+      "ability": "Oscuridad.\nAl comienzo de la Vigilia oponente, tu oponente Destruye un Aliado que controle, a menos de que pague un Oro.\n\nHasta dos veces por turno, cuando un Aliado oponente sea Destruido, puedes poner la última carta de tu Castillo en tu mano.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9885",
+      "edid": "017",
+      "slug": "obispo_de_hereford",
+      "name": "obispo de hereford",
+      "rarity": "6",
+      "race": "10",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "2",
+      "ability": "Oscuridad.\nCuando entra en juego, busca una carta Oscuridad en tu Castillo y ponla en tu mano. \n\nEn tu Vigilia, puedes poner hasta dos cartas de tu mano en la parte inferior de tu Castillo para Robar esa misma cantidad.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9886",
+      "edid": "018",
+      "slug": "tesoro_de_acre",
+      "name": "tesoro de acre",
+      "rarity": "5",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Luz.\nHasta dos veces por turno, puedes pagar un Oro para Robar una carta o Barajar una carta de tu Cementerio.\n\nEn tu Fase Final, si controlas dos o más Aliados Luz, puedes Purificar hasta dos cartas de un Cementerio.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9887",
+      "edid": "019",
+      "slug": "robo_de_tierra",
+      "name": "robo de tierra",
+      "rarity": "6",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oscuridad.\nEn tu Vigilia, puedes Desterrar una carta de un Cementerio.  \n\nSi controlas dos o más Aliados Oscuridad, puedes pagar este Oro para mover un Oro oponente a su Oro Pagado.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9888",
+      "edid": "020",
+      "slug": "much",
+      "name": "much",
+      "rarity": "6",
+      "race": "12",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Luz.\nEn tu Vigilia, puedes mirar las primeras cinco cartas de tu Castillo y ordenarlas.\n\nPuedes poner una carta Luz de ahí en tu mano y Barajar el resto. Si la carta elegida es Robin Hood, puedes Robar una carta.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9889",
+      "edid": "021",
+      "slug": "sir_verysdale",
+      "name": "sir verysdale",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Luz. Imbloqueable (No puede ser Bloqueado).\nCuando entra en juego o haga daño de combate, puedes elegir una carta de tu Cementerio y ponerla en tu mano.\n\nEn tu Vigilia, puedes Barajar una carta de tu mano para Purificar hasta tres cartas de los Cementerios.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9890",
+      "edid": "022",
+      "slug": "captura_de_marian",
+      "name": "captura de marian",
+      "rarity": "6",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Baraja un Aliado oponente de coste 2 o menos.\n\nPuedes jugar este Talismán en respuesta a que un Aliado fuera a entrar en juego. Si lo haces, Destiérralo y Roba una carta.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9891",
+      "edid": "023",
+      "slug": "rescate_audaz",
+      "name": "rescate audaz",
+      "rarity": "6",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "Elige un Aliado para que no pueda salir del juego este turno. \n\nPuedes jugar este Talismán en respuesta a que un Aliado fuera a salir del juego. Si lo haces, Destiérralo y Roba una carta.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9892",
+      "edid": "024",
+      "slug": "caida_fatal",
+      "name": "caida fatal",
+      "rarity": "2",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Elige hasta dos Aliados oponentes y ponlos en el fondo del Castillo de su dueño. Luego, tu oponente Destierra las primeras tres cartas de su Castillo.\n\nSi controlas menos Aliados que tu oponente, puedes pagar un Oro para jugar esta carta de tu mano o Cementerio sin pagar su coste. Si lo haces, Destiérrala.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9893",
+      "edid": "025",
+      "slug": "festin_en_el_bosque",
+      "name": "festin en el bosque",
+      "rarity": "2",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Errante (Sólo puedes controlar una copia de esta carta).\nEn tu Vigilia, puedes poner una carta de tu mano en la parte inferior de tu Castillo para Robar una carta.\n\nSi este Oro está en tu Cementerio, puedes poner una carta de tu mano en la parte inferior de tu Castillo para ponerlo en tu Oro Pagado.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9894",
+      "edid": "026",
+      "slug": "ricardo_i_corazon_de_leon",
+      "name": "ricardo i corazon de leon",
+      "rarity": "4",
+      "race": "1",
+      "type": "1",
+      "keywords": null,
+      "cost": "2",
+      "damage": "3",
+      "ability": "Imbloqueable (No puede ser Bloqueado).\nEn tu Vigilia, puedes poner la primera o última carta de tu Castillo en tu mano.\n\nPuedes Descartar una carta para mirar dos cartas de la mano de tu oponente al azar. Puedes jugar una de esas cartas reduciendo su coste en dos Oros y Descartar la otra.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9895",
+      "edid": "027",
+      "slug": "disfraces",
+      "name": "disfraces",
+      "rarity": "6",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Luz.\nCuando entra en juego, puedes poner la primera o última carta de tu Castillo en tu mano.\n\nPuedes pagar este Oro para convertir un Aliado Luz que controles en la copia de otro Aliado en juego hasta la Fase Final.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9896",
+      "edid": "028",
+      "slug": "alzamiento_noble",
+      "name": "alzamiento noble",
+      "rarity": "5",
+      "race": "0",
+      "type": "2",
+      "keywords": null,
+      "cost": "2",
+      "damage": null,
+      "ability": "Tus Aliados Luz y/o Caballero ganan 2 de Fuerza hasta la Fase Final.\n\nBaraja una carta de tu Cementerio por cada Aliado que controles.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9897",
+      "edid": "029",
+      "slug": "mazmorras",
+      "name": "mazmorras",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Oscuridad.\nSi está en tu Reserva, los Aliados de coste 1 o menos no pueden atacar.\n\nSi está en tu Cementerio, puedes Desterrarlo para que un Aliado y todas sus copias pierdan su habilidad y no puedan atacar ni bloquear por el turno.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "9898",
+      "edid": "030",
+      "slug": "boda_prometida",
+      "name": "boda prometida",
+      "rarity": "4",
+      "race": "0",
+      "type": "5",
+      "keywords": null,
+      "cost": null,
+      "damage": null,
+      "ability": "Luz.\nEn tu Vigilia, si controlas dos o más Aliados Luz, puedes ordenar las primeras o últimas cuatro cartas de tu Castillo.\n\nSi está en tu Reserva y controlas a Lady Marian y/o Robin Hood, a tu oponente le cuesta un Oro adicional buscar cartas en su Castillo.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "10164",
+      "edid": "064",
+      "slug": "trampa_colgante",
+      "name": "trampa colgante",
+      "rarity": "2",
+      "race": null,
+      "type": "3",
+      "keywords": null,
+      "cost": "1",
+      "damage": null,
+      "ability": "En respuesta a que un Aliado utilice su habilidad, si está en tu mano, puedes pagar un Oro para cancelarla y portar esta Arma sobre ese Aliado.\nEl portador pierde su habilidad y no puede atacar ni bloquear.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    },
+    {
+      "id": "11426",
+      "edid": "063",
+      "slug": "robin_del_bosque",
+      "name": "robin del bosque",
+      "rarity": "0",
+      "race": null,
+      "type": "1",
+      "keywords": null,
+      "cost": "1",
+      "damage": "3",
+      "ability": "Única. \nEntra en juego con una Raza a tu elección.\nCancelar la habilidad de tus Aliados cuesta un Oro adicional. \nPuedes Desterrar esta y otra carta de tu mano para Anular una carta jugada durante tu turno.",
+      "flavour": null,
+      "ed_edid": "53",
+      "ed_slug": "tinta_inmortal_robin_hood"
+    }
+  ]
+}

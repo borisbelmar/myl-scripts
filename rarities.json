@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0",
+    "slug": "promo",
+    "name": "Promocional"
+  },
+  {
+    "id": "1",
+    "slug": "legendaria",
+    "name": "Legendaria"
+  },
+  {
+    "id": "2",
+    "slug": "ultra-real",
+    "name": "Ultra Real"
+  },
+  {
+    "id": "3",
+    "slug": "mega-real",
+    "name": "Mega Real"
+  },
+  {
+    "id": "4",
+    "slug": "real",
+    "name": "Real"
+  },
+  {
+    "id": "5",
+    "slug": "cortesano",
+    "name": "Cortesano"
+  },
+  {
+    "id": "6",
+    "slug": "vasallo",
+    "name": "Vasallo"
+  },
+  {
+    "id": "7",
+    "slug": "oro",
+    "name": "Oro"
+  },
+  {
+    "id": "8",
+    "slug": "milenaria",
+    "name": "Milenaria"
+  },
+  {
+    "id": "9",
+    "slug": "secreta",
+    "name": "Secreta"
+  },
+  {
+    "id": "10",
+    "slug": "ficha",
+    "name": "Ficha"
+  },
+  {
+    "id": "11",
+    "slug": "set_paralelo",
+    "name": "Set Paralelo"
+  }
+]
